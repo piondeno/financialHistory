@@ -8,7 +8,7 @@
 - 1857 年恐慌的觸發點：1857 年 8 月 24 日，Ohio Life Insurance and Trust Company（俄亥俄生命保險與信託公司，辛辛那提）的紐約分行突然停止兌付。該公司本質上是商業貸款機構而非生保公司，因鉅額侵吞（embezzlement）與不良鐵路貸款而倒閉（來源：Wikipedia「Panic of 1857」；Riddiough 2018 重審其倒閉歸因，稱 160 年來皆歸咎於侵吞）。
 - 「The sinking of SS Central America in September 1857 contributed to the panic, because New York City banks were waiting on its much-needed shipment of gold.」——SS Central America 號 1857 年 9 月沉沒（卡羅來納外海颶風），船上載有加州黃金（約十短噸／約 9 噸，另說 30,000 磅約 13.6 噸），紐約銀行正等待這批急需的黃金，沉沒因而助長恐慌（來源：Wikipedia「Panic of 1857」；Wikipedia「SS Central America」）。【第二章已寫此船為 1857 前夜引信之一；本章接棒，用「見第二章」回指，不再重複背景】
 - 恐慌透過電報快速傳播——這是史上第一波以電報速度擴散的金融危機；新聞瞬時傳遍全國，引發國內與國際市場的恐慌性搶提（來源：Google AI 摘要引 NJIT Digital Commons「Panic of 1857」by William V. Rapp；Wikipedia「Panic of 1857」）。
-- 1857 年 9 月 20 日，費城傳出銀行擠兌消息，兩天後（9 月 22 日前後）費城銀行停止金銀兌付；賓州、马里蘭、維吉尼亞、羅德島共約 150 家銀行於 9 月 25–29 日相繼停兌（來源：EBSCO Research Starters「Panic of 1857」；BRANCH 引 D.M. Evans 34）。
+- 1857 年 9 月 20 日，費城傳出銀行擠兌消息，兩天後（9 月 22 日前後）費城銀行停止金銀兌付；賓州、馬里蘭、維吉尼亞、羅德島共約 150 家銀行於 9 月 25–29 日相繼停兌（來源：EBSCO Research Starters「Panic of 1857」；BRANCH 引 D.M. Evans 34）。
 - 賓州銀行（Bank of Pennsylvania，費城）9 月 25 日無法向客戶付款（來源：Wikipedia 德文「Wirtschaftskrise von 1857」）。
 - 1857 年 10 月 10 日，大型證券公司 Corning and Company（康寧公司）倒閉；10 月 13 日市場重開，銀行擠兌全面爆發，紐約出現超過 2 萬人的提款人潮（mob）（來源：NY Fed Liberty Street Economics「Crisis Chronicles: Defensive Suspension and the Panic of 1857」2015-10-02；Wikipedia 德文「Wirtschaftskrise von 1857」）。
 - 1857 年 10 月 13 日，紐約市幾乎所有銀行停止金銀兌付（specie payment），僅 Chemical Bank（化學銀行）例外；EBSCO 記為 10 月 14 日「all New York banks suspended specie payment」，兩說並存（來源：NY Fed Liberty Street；EBSCO Research Starters；Google AI 摘要引 EBSCO「all New York City banks—except for the Chemical Bank—suspended...on October 13–14, 1857」）。【正文用「10 月 13 日（14 日）」表述】
@@ -18,7 +18,10 @@
 - 美國峰值：恐慌於 10 月在美國達高峰，全美 1,415 家銀行倒閉（來源：BRANCH 引 J. G. Evans 113）。
 - 恐慌首年（1857–58）超過 5,000 家企業破產（來源：Wikipedia「Panic of 1857」；Wikipedia 德文「Wirtschaftskrise von 1857」稱至 1857 年底逾 5,000 家公司無法履約而關閉；Wikipedia「List of recessions in the United States」）。
 - 衰退深度：1857 年 6 月至 1858 年 12 月，商業活動指數（Cleveland Trust，Zarnowitz 測算）下跌 23.1%；「Ohio Life Insurance and Trust 公司的倒閉刺穿了歐洲投機資本在美國鐵路上的泡沫，並引發對美國銀行信心的喪失」；這是 NBER 最早以「月」標定峰谷的衰退（來源：Wikipedia「List of recessions in the United States」）。【此條第二章已用於前夜，本章用於後果，可簡短回指】
+- 「The railroads had created an interdependent national economy」（鐵路已創造出一個相互依存的國家經濟，來源：Wikipedia「Panic of 1857」）：此引文第二章 §5 已使用，本章 §2 僅以「見第二章 §5」回指，不重引英文原文。
 - 後續影響（1858）：到 1858 年初商業信貸枯竭；伊利諾伊中央、Erie、Reading 等鐵路被迫停運；Delaware–Lackawanna–Western 與 Fond du Lac 申請破產；穀物價格 1855 年每蒲式耳 $2.19 跌到 1858 年 $0.80，銀行收走農民土地；愛荷華州 Keokuk 到 1858 年負債 $900,000 多為鐵路債券，崩盤前 $1,000 的地塊崩盤後 $10 賣不掉（來源：Wikipedia「Panic of 1857」）。【這些細節第二章已用，本章僅在必要時以「見第二章」帶過】
+- 後續影響（1858）：「鐵路網絡里程的增長速率放緩 20%–30%」（le taux d'accroissement du réseau ferré ralentit de 20 % à 30 %）（來源：Wikipedia 法文「Panique de 1857」）。【正文 §5 使用】
+- 後續影響（1858，Keokuk 新增視角）：受創嚴重的產權所有者無力繳稅，數千處房產欠稅滯納（thousands of properties slipped into tax delinquency）（來源：Wikipedia「Panic of 1857」）。【正文 §2 以此為新增視角，全套數字回指第二章 §5】
 
 ### 1857 年恐慌：跨大西洋傳導（美國→英國）
 - 「The 1857 financial crisis began in the United States and reached England in October of that year with the fall of the Liverpool Boro' Bank.」——危機起源美國，10 月隨利物浦市銀行（Liverpool Borough Bank）倒閉傳至英國（來源：BRANCH，Shakinovsky 2015「The 1857 Financial Crisis and the Suspension of the 1844 Bank Act」）。
@@ -36,9 +39,12 @@
 - 法文來源補充：「1852 年起出現全球景氣擴張（boom mondial）」；加州（1848）與維多利亞（澳洲，1851）金潮擴大世界貨幣供給；1856 年出現衰退首因：「金礦因礦床老化而盈利能力驟降、鐵路公司進入『次級線路估值』階段」；美國 1850–57 年均經濟成長 7.48%（金準備大增使貼現率下降所致）；「1857 年危機之所以更劇烈，是因為這場全球景氣依賴銀行信貸，且由多項強烈的部門擴張疊加而成：鐵路與蒸汽船裝備、美國電報發展、巴黎豪斯曼（Haussmann）大型地產工程、以及皮雷爾兄弟（frères Péreire）Crédit Mobilier 等激進銀行的設立」。
 - 法文來源補充：法國駐美大使 Sartiges 1857-06-21 證言芝加哥投機：「整個城市陷入像瘋狂一樣氾濫的投機熱。某塊三三年前以 4,000 美元購入的土地，六個月前已轉手 100,000 美元，此刻估值 150,000 美元」。
 - 法文來源補充：1857 年 6–8 月，美國商業困難反映在銀行（兌現票據與貼現需求不斷上升）；「歐洲則是過剩生產危機：豐收突然毀掉了農業投機，6–8 月小麥價格下跌（農產存儲已高度發展），歐洲走向自給自足，切斷美國出口商的市場，造成貿易失衡並引發黃金需求，同時人們又靠增加存儲來維持高價——信貸需求在信貸供給（因金屬準備不足）下降之際反而上升」。
-- 法文來源補充：「1857-08-22 紐約股市崩盤（krach），Ohio Life and Insurance 公司面臨強勁信貸需求而停兌，其倒閉拖垮紐約、马里蘭、賓州的銀行，繼而波及巴爾的摩、費城、波士頓的各大銀行」（法文記崩盤日為 8/22，英文條目記 Ohio Life 停兌為 8/24，兩說並存）；「金融恐慌持續到 10 月，被 SS Central America 1857-09-12 沉沒（載金約 11.2 噸、至少值當時 600 萬美元）加速」；「10 月 13 日，銀行們共同協議停止金銀兌付，直到 12 月 11 日才恢復」；「危機傳到華爾街首要的商業與金融夥伴——英國，英國先遭『匯兌危機』（crise de change），隨即迅速變成其直接後果『信貸危機』（crise de crédit）」。
+- 法文來源補充：「1857-08-22 紐約股市崩盤（krach），Ohio Life and Insurance 公司面臨強勁信貸需求而停兌，其倒閉拖垮紐約、馬里蘭、賓州的銀行，繼而波及巴爾的摩、費城、波士頓的各大銀行」（法文記崩盤日為 8/22，英文條目記 Ohio Life 停兌為 8/24，兩說並存）；「金融恐慌持續到 10 月，被 SS Central America 1857-09-12 沉沒（載金約 11.2 噸、至少值當時 600 萬美元）加速」；「10 月 13 日，銀行們共同協議停止金銀兌付，直到 12 月 11 日才恢復」；「危機傳到華爾街首要的商業與金融夥伴——英國，英國先遭『匯兌危機』（crise de change），隨即迅速變成其直接後果『信貸危機』（crise de crédit）」。
 - 法文來源補充：法國端——Banque de France 金屬準備 1857 年 6–10 月下跌 27%、11 月 20 日觸底（較一個月再低 14%），金銀準備僅及流通紙幣的三分之一；Antoine Prost 1852 年 4 月以 3 萬法郎金資本創辦 Compagnie générale des caisses d'escompte，1858 年春天「轟動性破產」、Prost 出逃，其他 caisses 股價下挫近 30%；法國駐美大使 10 月 26 日證言：「北方工業州的工廠裁掉了三分之二的工人或關門」；11 月 15 日：「黃金開始重新出現在紐約市場，得到英國硬幣到貨的鼓勵；英國人送來貴金屬以購買南方棉花與鐵路股票」。
 - 法文來源補充：「銀行監管被修改：例如在法國，1857 年後不再可能以與 1857 之前相同的條件開設銀行，Crédit Lyonnais（里昂信貸）與 Société Générale（法國社會銀行）就此誕生」；部分美國失業潮中的人轉為尋金者，促成 1858 年科羅拉多金潮與 1858 年哥倫比亞（加拿大）金潮。
+- 法文來源補充：拿破崙三世預先踩煞車的五項措施（來源：Wikipedia 法文「Panique de 1857」）：①1857-01-01 對證券交易所徵收 1 法郎入口費、對商品交易所徵收 50 生丁入口費（撥給巴黎市）；②1856 年 1 月貼現率升至 6%；③貼現期限自 90 天縮短至 75 天、再至 60 天（貼現額 1854→1855 年由 29 億升至 37 億法郎後被壓制）；④1856-03-09 禁止 Crédit Mobilier 發行債券（時人指控該禁令「壓抑整體勢頭」、窒息企業精神）；⑤為安全起見將法蘭西銀行股本由 91,250 股加倍至 182,500 股（所得約 1 億法郎，1859 年撥付國庫以彌補財政透支）。
+- 法文來源補充：上述煞車措施「限制了法國週期的規模」——「法國的衰退較金融化程度更高、或鐵路投資更重的國家為輕」（la récession est moins forte que dans les pays plus financiarisés, ou plus investis dans les chemins de fer）；鐵路建設放緩但未停（1857 年 1,260 公里 → 1858 年 1,190 公里）、鋼鐵產量下跌 6%、煤礦失業增加 7%。（來源：Wikipedia 法文「Panique de 1857」）【正文 §2 使用】
+- 利物浦的港口地位：「美國事件的衝擊最先落在與美國貿易聯繫最緊密的兩座城市——利物浦與格拉斯哥」（the repercussions of the events in America were first felt by the two cities most connected with the American trade—Liverpool and Glasgow）（來源：BRANCH，Shakinovsky 2015，引 Morgan 160）。【正文 §4 使用】
 
 ### 1850 年代全球景氣與 1856–57 的轉折
 - 「Because of the invention of the telegraph by Samuel F. Morse in 1844, the Panic of 1857 was the first financial crisis to spread rapidly throughout the United States. The world economy was more interconnected by the 1850s, which made the Panic of 1857 the first worldwide economic crisis.」——莫爾斯 1844 年發明電報，使 1857 年恐慌成為第一個在美國境內迅速蔓延的金融危機；1850 年代世界經濟更為互聯，使 1857 成為第一個全球性經濟危機（來源：Wikipedia「Panic of 1857」）。
@@ -51,7 +57,7 @@
 - 1860 年：美國經濟自衰退中走出，但奴隸制領土爭端使政治緊張（堪薩斯內戰、Dred Scott 案餘波）；布坎南（Buchanan）任內經濟逐步復甦（來源：Wikipedia「Panic of 1857」；Wikipedia「List of recessions in the United States」）。
 
 ### 內戰與國有貨幣（1861–1866）
-- 1861 年 4 月 12 日，薩姆特堡（Fort Sumter，南卡羅來納）遭南方邦聯軍炮擊，美國內戰爆發；林肯（共和党、反對奴隸制擴張）1860 年勝選後，南部七個蓄奴州脫離聯盟組建「美利堅聯盟國」（Confederacy），邦聯佔領南方聯邦堡壘與資產，開戰後又有四個州脫離，共十一州（約三分之一人口）（來源：Wikipedia「American Civil War」）。
+- 1861 年 4 月 12 日，薩姆特堡（Fort Sumter，南卡羅來納）遭南方邦聯軍炮擊，美國內戰爆發；林肯（共和黨、反對奴隸制擴張）1860 年勝選後，南部七個蓄奴州脫離聯盟組建「美利堅聯盟國」（Confederacy），邦聯佔領南方聯邦堡壘與資產，開戰後又有四個州脫離，共十一州（約三分之一人口）（來源：Wikipedia「American Civil War」）。
 - 內戰（1861-04-12 至 1865-05-26）以北方勝利收場：邦聯解體、奴隸制廢除、解放約 400 萬黑奴；1863 年 1 月 1 日林肯簽署《解放奴隸宣言》（來源：Wikipedia「American Civil War」）。
 - 戰前美國紙幣體系：「自由銀行時代」（Free Banking Era，1836–1865）由資本不足的州立「wildcat banks」（野貓銀行）發行紙幣，這些記名票據形式上可兌金銀硬幣，但實質上以政府債券、地產抵押債甚至無抵押品 backing；早期西部州銀行業因州法鬆散而惡性化，「銀行券幾乎無抵押發行、信貸過度擴張，衰退帶來一波波銀行倒閉」；州銀行券的「真實價值常低於面值，折價幅度取決於發行銀行的財務強度」，多種州券並行造成巨大混亂與損失（來源：Wikipedia「History of the United States dollar」；Wikipedia「History of banking in the United States」）。
 - 1865 年，國會對州立銀行券（state bank notes）課徵 10% 統一稅率，鼓勵多數州立銀行轉為國家銀行；「雙軌銀行制」（dual banking system）由此成形（來源：Wikipedia「History of banking in the United States」）。
@@ -85,7 +91,7 @@
 
 ### 1866 年英國危機（Overend Gurney 與點火）
 - Overend, Gurney and Company（奧凡德·格尼公司）：倫敦批發貼現銀行（wholesale discount bank），譽為「the bankers' bank」（銀行家的銀行），1866 年倒閉時負債約 £1,100 萬（約 2025 年 £11.32 億），其倒閉引發銀行業恐慌（來源：Wikipedia「Overend, Gurney and Company」）。【正文用「約 £1,100 萬」】
-- Overend Gurney 沿革：1800 年以 Richardson, Overend and Company 之名成立；Samuel Gurney 1807 年加入、1809 年掌權、1856 年歿；其退隱後銀行擴大投資組合，轉向鐵路等長期投資，而非持短期現金準備；負債約 £400 萬，流動資產僅 £100 萬（來源：Wikipedia「Overend, Gurney and Company」）。【注意：條目內文「liabilities of around £4 million」與導言「owing about £11 million」數字不同——導言 £1,100 萬為倒閉時總負債（含對其他銀行的批發負債），內文 £400 萬可能為對特定債權人或某一时點數字；正文用導言 £1,100 萬並註記兩說】
+- Overend Gurney 沿革：1800 年以 Richardson, Overend and Company 之名成立；Samuel Gurney 1807 年加入、1809 年掌權、1856 年歿；其退隱後銀行擴大投資組合，轉向鐵路等長期投資，而非持短期現金準備；負債約 £400 萬，流動資產僅 £100 萬（來源：Wikipedia「Overend, Gurney and Company」）。【注意：條目內文「liabilities of around £4 million」與導言「owing about £11 million」數字不同——導言 £1,100 萬為倒閉時總負債（含對其他銀行的批發負債），內文 £400 萬可能為對特定債權人或某一時點數字；正文用導言 £1,100 萬並註記兩說】
 - 為恢復流動性，Overend Gurney 於 1865 年 7 月改組為有限公司，趁 1864–66 年景氣好的市場以 £9 溢價出售 £15 的股票；隨後股債價格急挫、商業信用收緊，鐵路股重創（來源：Wikipedia「Overend, Gurney and Company」）。
 - 1866 年 5 月 10 日，Overend Gurney 停止兌付；次日（5 月 11 日）恐慌蔓延至倫敦、利物浦、曼徹斯特、諾維奇、德比、布里斯托，65 Lombard Street 總行外圍聚滿人潮；該行 1866 年 6 月進入清算；其倒閉是此次信用危機「最重要的受害者」，數百家銀行亦因此倒閉；危機期間貼現率升至 10% 並持續三個月；超過 200 家企業（含其他銀行）倒閉（來源：Wikipedia「Overend, Gurney and Company」）。
 - Overend Gurney 曾向英格蘭銀行求援，遭拒（來源：Wikipedia「Overend, Gurney and Company」）。
@@ -126,7 +132,7 @@
 - 波爾克（James Buchanan）：1857 年恐慌時任總統；鼓勵國會通過法律，要求凡停止金銀兌付的銀行須立即沒收其特許（charter）（來源：Politico「The Panic of 1857 is triggered in New York, Aug. 24, 1857」2015-08-24；Wikipedia「Panic of 1857」）。
 - 菲爾莫爾（Millard Fillmore）/布坎南：1850 年代總統，背景（第二章已用，本章必要時回指）。
 - 帕爾麥斯頓（Lord Palmerston）：1857 年英國首相，11 月 12 日簽署懸置《1844 銀行章程法》的信函（來源：BRANCH）。
-- 葛紐柯·劉易斯（Sir George Cornewall Lewis）：1857 年財政大臣，11 月 10 日與英格蘭銀行董事會面（來源：BRANCH）。
+- 柯尼華爾·劉易斯（Sir George Cornewall Lewis）：1857 年財政大臣，11 月 10 日與英格蘭銀行董事會面（來源：BRANCH）。
 - 薩爾蒙·蔡斯（Salmon P. Chase）：1861–65 財務部長，推動 Demand Notes 與 greenbacks（來源：Wikipedia「Demand Note」；Wikipedia「Contraction Act of 1866」）。
 - 埃德蒙·迪克·泰勒（Col. Edmund Dick Taylor）：1862 年 1 月向林肯建議發行無準備紙幣，促成《第一法償法》（來源：Wikipedia「Greenback (1860s money)」）。
 - 亞伯拉罕·林肯（Abraham Lincoln）：1862 年 2 月 25 日簽署《第一法償法》；1863 年簽署《國家銀行法》（來源：Wikipedia「Greenback (1860s money)」；Wikipedia「National Bank Act」）。

@@ -30,13 +30,13 @@
 5. 轉折的性質：不是單一事件，而是「結構」的報應——利率、政治、供給、信息四力交匯（見第二章 §8 論點，本章以 1857 為例重述）。
 
 ## §5 崩潰與危機（目標 4,000–5,000 字）【本章主體：1857 崩潰鏈條＋1866-05 Overend Gurney 倒閉（第二次傳導）】
-1. 引爆與境內擴散：8/24 Ohio Life 停兌→9/20 費城擠兌→9/22 前後費城停兌→9/25–29 PA/MD/VA/RI 約 150 家停兌→10/10 Corning & Co 倒閉→10/13 紐約集體停兌（除 Chemical Bank）→12/11–14 復兌（來源：EBSCO、NY Fed Liberty Street、Wikipedia 德文）。
+1. 引爆與境內擴散：8/24 Ohio Life 停兌→9/20 費城擠兌→9/22 前後費城停兌→9/25–29 PA/MD/VA/RI 約 150 家停兌→10/10 Corning & Co 倒閉→10/13 紐約集體停兌（除 Chemical Bank）→12/11–14 復兌（來源：EBSCO、NY Fed Liberty Street、Wikipedia 德文）。【異說註記：「First Exchange Bank 1857-09-24 停兌」不採，見 §9】
 2. 跨大西洋傳導：10/27 利物浦市銀行（Liverpool Borough Bank）倒閉；英格蘭銀行貼現率 5½%→8%（10/8–19）→9%（11 月初）→10%（11/11）；11/7 Dennistoun 停兌、11/9 Western Bank 停兌；11/12 Palmerston 懸置《1844 銀行章程法》（十年內第二次、首次真正違反）；12/24 貼現率降至 8%、危機正式終結（來源：BRANCH、Panic of 1857）。
 3. 美國端代價：10 月峰值 1,415 家銀行倒閉；恐慌首年 5,000+ 企業破產；商業活動 −23.1%；鐵路停運（IC/Erie/Reading）；銀行收地（來源：BRANCH 引 J.G. Evans、Panic of 1857、List of recessions）。
 4. 「防禦性停兌」的性質：停兌是保護儲備、中斷擠兌鏈的手段，而非資不抵債倒閉；「Bank suspension was not necessarily a sign of weakness」；停兌約兩月成功中斷搶提（來源：JSTOR Calomiris & Schweikart 1991、NY Fed Liberty Street）。
 5. 1866 年 5 月：Overend Gurney 倒閉（第二次跨大西洋傳導的點火）：1866-05-10 停兌；負債約 £1,100 萬（另說 £400 萬）；次日 Peto and Betts（鐵路承包、約 2 萬受僱）停業；恐慌蔓延倫敦/利物浦/曼徹斯特/諾維奇/德比/布里斯托；6 月清算；貼現率 10% 三個月；200+ 企業倒閉；1844 後聯合股票銀行僅 1/6 倖存（來源：Overend, Gurney、Peto and Betts、Panic of 1866）。
 6. 英格蘭銀行的兩難與 Bagehot 準則的誕生：OG 求援遭拒；1866-05-12 Bagehot「只信任英格蘭銀行」的信；《1844 法案》儲備要求使銀行猶豫、懸置又使外資誤認停兌→並發外資提款；Lombard Street（1873）「Lend freely. At a high rate of interest. On good banking securities.」＝最後貸款人原則（來源：Overend, Gurney、Panic of 1866、Lombard Street）。
-7. 【異說註記】「First Exchange Bank（紐約第一匯兌銀行）1857-09-24 停兌」之說流傳於部分通俗史，但本研究多輪檢索（EN Wikipedia 無條目、FRASER 1857 全文零命中、Google 精確比對無命中）未獲可靠來源；本章以已核實的集體停兌鏈條（10/13）為準。
+
 
 ## §6 後續與制度變革（目標 2,500–3,000 字）
 1. 內戰財政倒逼國有貨幣（三步五年）：1861-07 Demand Notes $5,000 萬（Chase）→1862-02-25《第一法償法》greenbacks $1.5 億（Taylor 建議、Lincoln 簽署）→1863-02-25《國家銀行法》（12 Stat. 665、參院 23:21、OCC 設立、First National Bank of Philadelphia #1）＋1864-06-03 補充法（13 Stat. 99）（來源：Demand Note、Greenback、National Bank Act）。
