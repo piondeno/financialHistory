@@ -23,6 +23,7 @@
 - 1837-02～03：棉花價格下跌 25%（來源：同上）
 - 1837-03-04：Van Buren 就職，距 1837-05-10 恐慌爆發為 67 天（約 10 週）（來源：同上；日期為標準史實，67 天≈10 週）
 - 1837-05-10：紐約各銀行金銀匱乏，停止紙鈔兌換金銀（suspension of specie payments），全國金融機構迅速跟進；Panic of 1837 正式爆發（來源：https://en.wikipedia.org/wiki/Panic_of_1837 、https://en.wikipedia.org/wiki/Independent_Treasury ）
+- 1837：恐慌的社會效應：(a) 紐約爆發麵粉暴動（Flour riot of 1837）；(b) 小幣不足逼出私鑄「hard times tokens」（艱困時代代幣，1830 年代末私人鑄造、貨幣短缺時取代一分銅幣使用；其中一枚著名代幣刻「I Take the Responsibility」，畫面為傑克森手持出鞘的劍與一袋硬幣，兼具通貨功能與對總統的政治諷刺）；(c) 恐慌「釋放了一波暴動與其他國內動亂」（unleashed a wave of riots and other forms of domestic unrest），最終結果是州警權的擴張，包括更專業化的警力；(d) 出版業受其後蕭條重創（the publishing industry was particularly hurt by the ensuing depression）（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - 1838-05-21：Specie Circular 廢除；Jackson 曾要求 Van Buren 不要廢除（來源：https://en.wikipedia.org/wiki/Specie_Circular ）
 - 1837-09：Van Buren 提出設立獨立財政部（independent treasury）以將貨幣政治化問題從政治中剔除；保守民主黨與 Whig 聯盟阻擋至 1840（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
 - 1838–39：短暫復甦；因 Bank of England 與荷蘭債權人加息而終結（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
@@ -59,6 +60,7 @@
 - 美國銀行倒閉：850 家銀行中 343 家完全倒閉、62 家部分失敗；超過 40% 的銀行倒閉（來源：同上）
 - 通縮：1837–1844 工資與價格通縮普遍（來源：同上）
 - 州債違約：多個州違約，引發英國債權人憤怒，美國短暫退出國際資金市場，遲至 1840 年代末才重返（來源：同上）
+- 1840 年代美國人口：在經濟動盪中仍增加三分之一以上（increased by more than one-third during the 1840s, despite the economic turmoil），主要來自移民，尤其是愛爾蘭大饑荒期間的愛爾蘭移民（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - Michigan 1837 General Banking Act：最低資本 5 萬美元；共 49 家銀行成立；數家被查實以假貢獻稀釋股本（watering stock）或預先調動現金欺瞞檢查；監管官 Alpheus Felch 回憶某銀行「現金準備」是鋪了銀幣的釘子與玻璃箱（來源：https://en.wikipedia.org/wiki/Wildcat_banking ）
 - 當時報紙對密歇根紙鈔的評級：一等 Red Dog、二等 Wild Cat、三等 Catamount；「最好的一等，五鬥（pecks）才折一斗（bushel）」（來源：同上）
 - 1844 法案：B.U.S. 發行部（Issue Department）以 £14m 證券＋金銀為發行背書；白銀不得超過金之 1/4；禁止英國境內新設「發鈔銀行」（banks of issue）（來源：https://en.wikipedia.org/wiki/Bank_Charter_Act_1844 ）
@@ -66,6 +68,7 @@
 - 1847-08～1848-12 英商號倒閉：450 家以上（Evans 記錄）（來源：同上）
 - 1846 鐵路法案：263 個、路線 9,500 英里、約 1/3 未建成（來源：https://en.wikipedia.org/wiki/Railway_Mania ）
 - 1837–1865：Free Banking Era（無全國銀行體系；各州自由發照、監管無效）；Rockoff（1970s）定義 wildcat bank 為以高估證券（州按面價、市價低於面價）背書紙鈔的自由銀行（來源：https://en.wikipedia.org/wiki/Wildcat_banking ）
+- 各州銀行監管差異：部分州有銀行法（如密歇根《一般銀行法》）、部分州幾乎無監管；阿肯色 1846 年修訂州憲法禁止設立銀行（prohibit the establishment of banks），愛荷華禁止銀行直到 1857 年該限制被修改（outlawed banks until that restriction was changed in 1857）（來源：https://en.wikipedia.org/wiki/Wildcat_banking ）
 - 1819 恐慌背景：1811 第一合眾國銀行章程到期（兩院皆以一票之差敗續約）（來源：https://en.wikipedia.org/wiki/Bank_War ）
 - Farmers' Exchange Bank（Gloucester）：史上首家倒閉的美國銀行，在手現金 86 美元對 58 萬美元未償紙鈔（1809 Dexter 事件）（來源：https://en.wikipedia.org/wiki/Wildcat_banking ）
 
