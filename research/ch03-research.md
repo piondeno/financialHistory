@@ -33,7 +33,7 @@
 - 這是十年內第二次懸置該法（第一次為 1847）；但 1857 年是「首次真正違反該法」的危機——英格蘭銀行發行量突破 £1,400 萬法定上限（來源：BRANCH；Wikipedia「Panic of 1857」）。
 - 「Before 12 November, discounting had ceased everywhere in London except at the Bank of England」（Clapham 語）——11 月 12 日之前，倫敦的貼現業務除了英格蘭銀行之外已全部停擺（來源：BRANCH 引 Clapham 231）。
 - 危機正式終結：1857 年 12 月 24 日，貼現率自 10% 降至 8%（來源：BRANCH）。
-- 英格蘭銀行 1844 年法背景：皮爾《1844 銀行章程法》為「貨幣學派」（Currency School）對「銀行學派」（Banking School）之爭的產物；將銀行分為發行部與業務部；發行部須持 £1,400 萬（其中約 £1,100 萬為政府債務）；該法設計目的是防止危機重演（來源：BRANCH；Wikipedia 法文「Panique de 1857」）。
+- 英格蘭銀行 1844 年法背景：皮爾《1844 銀行章程法》為「貨幣學派」（Currency School）對「銀行學派」（Banking School）之爭的產物；將銀行分為發行部與業務部；發行部以 £1,400 萬證券（政府債）＋金銀為背書；該法設計目的是防止危機重演（來源：BRANCH；Wikipedia 法文「Panique de 1857」；Wikipedia「Bank Charter Act 1844」）。
 - 馬克思對 1857 危機的反應：11 月 21 日撰文抨擊《1844 銀行章程法》，稱其暴露制度弱點；馬克思與恩格斯視危機為革命機會（來源：BRANCH）。
 - 法文來源補充（Wikipedia 法文「Panique de 1857」，以下同）：「1857 年金融恐慌是一場先打擊美國、繼而打擊英國並蔓延至其他國家的金融與經濟危機。歷史上，這是第一個世界規模的經濟危機」（première crise économique de dimension mondiale）。
 - 法文來源補充：「1852 年起出現全球景氣擴張（boom mondial）」；加州（1848）與維多利亞（澳洲，1851）金潮擴大世界貨幣供給；1856 年出現衰退首因：「金礦因礦床老化而盈利能力驟降、鐵路公司進入『次級線路估值』階段」；美國 1850–57 年均經濟成長 7.48%（金準備大增使貼現率下降所致）；「1857 年危機之所以更劇烈，是因為這場全球景氣依賴銀行信貸，且由多項強烈的部門擴張疊加而成：鐵路與蒸汽船裝備、美國電報發展、巴黎豪斯曼（Haussmann）大型地產工程、以及皮雷爾兄弟（frères Péreire）Crédit Mobilier 等激進銀行的設立」。
