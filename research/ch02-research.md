@@ -22,8 +22,11 @@
 - 1847 年 8 月至 1848 年 12 月，D. Morier Evans（《泰晤士報》記實）記錄了 450 多家倒閉的公司（來源：Wikipedia「Panic of 1847」）。
 - 美國端：1847 年底至 1848 年底美國陷入約一年衰退，商業活動指數（Cleveland Trust）下跌 19.7%，與英國 1847 年金融危機相關（來源：Wikipedia「List of recessions in the United States」）。
 - 1849 年，George Hudson 實際控制英國當時約 30% 的運營軌道（東部郡鐵路、米德蘭、約克紐卡斯爾貝里克、約克北米德蘭四大集團），隨後一系列醜聞曝光迫使他下台；其財務報告濫用被納入有影響力的 1849 年 Monteagle 委員會報告（來源：Wikipedia「History of rail transport in Great Britain 1830–1922」）。
-- 1846 年 5 月 15 日，下院以 327 對 229（多數 98 票）通過《穀物法》廢止法案三讀；6 月 25 日上院通過，成為 1846 年輸入法（9 & 10 Vict. c. 22）；當晚皮爾的《愛爾蘭鎮壓法案》以 292 對 219 被否，皮爾隨即辭職（來源：Wikipedia「Corn Laws」）。
+- 1854 年，東北鐵路（North Eastern Railway, NER）依《North-eastern Railway Company's Act 1854》（17 & 18 Vict. c. ccxi）由數家既有鐵路公司（Leeds Northern Railway、York, Newcastle and Berwick Railway、York and North Midland Railway）合併而成；營運期 1854–1922-12-31，後身為 London and North Eastern Railway（來源：Wikipedia「North Eastern Railway (United Kingdom)」）。
+- 1845 年政治過程（來源：Wikipedia「Corn Laws」）：1845-11-22，威格黨反對黨領袖拉素（Lord John Russell）在致倫敦市選民的公開信中宣布支持立即廢除穀物法，並要求政府採取緊急行動避免饑荒；1845-12-04，《泰晤士報》宣布政府決定 1846 年 1 月重召國會處理廢法，內政部長斯坦利（Lord Stanley）辭職抗議；1845-12-11，皮爾因無法帶動本黨支持而辭去首相職務；1845-12-21，拉素告知女王無法接受任命（組閣失敗），皮爾留任。
+- 1846 年 5 月 15 日，下院以 327 對 229（多數 98 票）通過《穀物法》廢止法案三讀；6 月 25 日威靈頓公爵說服上院通過，成為 1846 年輸入法（9 & 10 Vict. c. 22）；當晚皮爾的《愛爾蘭鎮壓法案》以 292 對 219 被否，皮爾隨即辭職（來源：Wikipedia「Corn Laws」）。
 - 經濟史學家視《穀物法》廢止為英國走向自由貿易的決定性轉變；2021 年一項研究估計廢止使英國收入最低的 90% 群體受益、最高的 10% 群體受損（來源：Wikipedia「Corn Laws」）。
+- 廢止後效果（來源：Wikipedia「Corn Laws」）：1850 年之後二十年小麥平均價格每季 52 先令；英國對進口糧食的依賴度 1830 年代約 2%、1860 年代 24%、1880 年代 45%（1880 年代單就小麥為 65%）。
 - 1845–1846 愛爾蘭大饑荒前兩年糧食供應災難性下降，迫使政府解決穀物法問題；愛爾蘭在國內饑荒下仍持續向大不列顛出口糧食（來源：Wikipedia「Corn Laws」）。
 - 1850 年代與 1860 年代的經濟回升帶來較小的鐵路建設熱潮，但從未達到狂熱規模——部分因政府管制較多（儘管仍非常有限）、部分因投資者更謹慎、部分因英國鐵路網絡接近成熟，已無 1840 年代的「空白畫布」（來源：Wikipedia「Railway Mania」）。
 
@@ -44,10 +47,12 @@
 - 1851 年加州立法會通過「外邦礦工稅」（每月 20 美元），主要針對拉丁美洲礦工（來源：Wikipedia「California gold rush」）。
 - 1855 年巴拿馬鐵路貫通，舊金山—巴拿馬—東海岸定期輪船線成型（來源：Wikipedia「California gold rush」）。
 - SS Central America 號 1857 年 9 月在卡羅來納外海颶風中沉沒，船上載有約三噸加州黃金（來源：Wikipedia「California gold rush」；另見 Wikipedia「Panic of 1857」）。
+- 「The sinking of SS Central America in September 1857 contributed to the panic, because New York City banks were waiting on its much-needed shipment of gold.」——紐約市的銀行正等待著這批急需的黃金，該船沉沒因而助長了 1857 年恐慌（來源：Wikipedia「Panic of 1857」）。
 - 伊利諾伊中央鐵路（IC）：1836 年 1 月 16 日由伊利諾伊州議會批準成立；1850 年總統 Fillmore 簽署聯邦土地撥贈（法律於 1850 年 9 月 20 日核準），IC 成為美國第一條土地撥贈鐵路；1851 年 2 月 10 日獲州營業許可（charter）；1856 年主線（Cairo–Galena）完工時是世界上最長的鐵路（來源：Wikipedia「Illinois Central Railroad」）。
 - 1850 年《土地撥贈法》提供 375 萬英畝土地支持鐵路建設，IC 在伊利諾伊州獲得近 260 萬英畝（來源：Wikipedia「Railroad land grants in the United States」）。
 - 聯邦土地撥贈制度：土地撥贈條目稱 1850–1871 年（美國鐵路史條目稱 1855–1871）；共撥給鐵路 1.29 億英畝，另由各州撥給 5,100 萬英畝；1850–1872 華盛頓共撥 2.23 億英畝，其中 3,500 萬英畝被沒收（來源：Wikipedia「Railroad land grants in the United States」；Wikipedia「History of rail transportation in the United States」）。【兩來源起始年份不同，正文用「1850 年起」】
 - 撥贈方式：以 20 或 50 英里為帶、每隔一區（checkerboard）撥給每英里軌道對應的公地；政府保留中間區塊（來源：Wikipedia「Railroad land grants in the United States」）。
+- 政府保留區塊的價值：「The land that the government retained typically doubled in value as a result of the railroad being built」——政府保留的土地隨著鐵路建成，價值通常翻一番（來源：Wikipedia「History of rail transportation in the United States」）。
 - 美國鐵路史條目：「州與地方政府常補貼鐵路公司但很少擁有它們」（來源：Wikipedia「History of rail transportation in the United States」）。
 - 1862 年後（太平洋鐵路法）政府另按每英里平原地帶 $16,000、山區 $48,000 貸款現金（此為 1860 年代政策，作背景參考）（來源：Wikipedia「Railroad land grants in the United States」）。
 - 密西西比中央鐵路：1852 年立案，255 英里，5 英尺軌距，1853 年開工、1860 年完工（來源：Wikipedia「Illinois Central Railroad」）。
@@ -138,7 +143,7 @@
 - 1840 年代末至 1850 年代初新設鐵路公司數目跌至接近零，只有大公司建新線（來源：Wikipedia「Railway Mania」）。
 - 狂熱的遺產：路線重疊、城市多座互不直通的車站（倫敦 12 座主線終端），部分重疊在 1960 年代 Beeching 大裁撤中被移除（來源：Wikipedia「History of rail transport in Great Britain 1830–1922」）。
 - 美國端：鐵路「創造了相互依存的國家經濟」（1857 年）（來源：Wikipedia「Panic of 1857」）；鐵路管理體系被所有主要商業部門採用（來源：Wikipedia「History of rail transportation in the United States」）。
-- 1855–56 年美國無衰退擴張的長周期（1841–56）歸因於金礦後運輸品投資狂潮——淘金潮本身即「運輸/資本品」投機的觸媒（來源：Wikipedia「California gold rush」）。
+- 1855–56 年美國無衰退擴張的長週期（1841–56）歸因於金礦後運輸品投資狂潮——淘金潮本身即「運輸/資本品」投機的觸媒（來源：Wikipedia「California gold rush」）。
 
 ### 跨境資本與順週期性
 - 1847 年英國危機期間，「對美國投資的資本外流與支付英國糧食進口」壓垮了 4 月後的儲備回升——大西洋兩岸資本流動同向（來源：Wikipedia「Panic of 1847」）。
