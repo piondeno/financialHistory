@@ -11,7 +11,7 @@
 - 1833-09：Jackson 以行政行動將聯邦存款移出 B.U.S.，轉存數打州「pet banks」（親密銀行）；《History of banking in the United States》條目明確寫「1833 年 9 月後，這些存款被放入州專營銀行」；Jackson 政府並禁止 pet banks 發行之 20 元以下面額紙鈔（來源：https://en.wikipedia.org/wiki/History_of_banking_in_the_United_States 、https://en.wikipedia.org/wiki/Wildcat_banking ）
 - 1833–34：Biddle 以收縮 B.U.S. 信貸作為報復，誘發一次溫和金融衰退；金融商業中心反彈迫使銀行放寬，但續約希望基本破滅（來源：https://en.wikipedia.org/wiki/Bank_War ）
 - 1834-03-28：國會參議院以 26–20 正式譴責 Jackson 違反憲法，理由為撤銷存款與解雇財政次長 Duane；B.U.S. 續約議題成為 1832 大選核心（來源：https://en.wikipedia.org/wiki/Bank_War ，年分 1834 為標準史實）
-- 1830s：Whig 黨於 1833 年於紐約州 Rochester 結成（反對 Jackson 行政專權），Clay 於 4-14 參院演說中開始使用「Whig」一詞（來源：https://en.wikipedia.org/wiki/Bank_War ）
+- 1830s：Whig 黨於 1834 年於紐約州 Rochester 結成（反對 Jackson 行政專權），Clay 於 4-14 參院演說中開始使用「Whig」一詞（來源：https://en.wikipedia.org/wiki/Bank_War ）
 - 1834–1836：美國經濟擴張期，土地、棉花、奴隸價格急升；因國際貿易結構，大量白銀自墨西哥與中國流入美國；土地銷售與關稅帶來豐厚聯邦收入；棉花出口與州債在英國資金市場銷售，使美國獲得大量英國資本；Baring Brothers 等英美銀行承銷州債、輸送英國貸款，推動西部擴張與交通建設（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - 1834–35：歐洲繁榮，風險外資投資意願升高（來源：同上）
 - 1836：B.U.S. 章程到期，轉為私人（賓州）公司；Biddle 自認 Jackson 撤銷存款違反章程，此後只為私人股東利益決策（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States 、https://en.wikipedia.org/wiki/Bank_War ）
@@ -34,7 +34,7 @@
 - 反方評價：經濟史學家 Peter Temin 認為，通縮調整後（corrected for deflation），經濟在 1838 年後溫和成長（grew moderately after 1838）（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - 1844-07-19：UK Bank Charter Act 1844（Peel 銀行法）御准（7 & 8 Vict. c. 32）——⚠️ 任務書誤寫為「1843」，實為 1844 年法案，正文以 1844 為準（來源：https://en.wikipedia.org/wiki/Bank_Charter_Act_1844 ）
 - 1844：民主黨重奪國會多數與總統（Polk）；Polk 以「復活獨立財政部＋降低關稅（Walker 關稅）」為內政雙柱（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
-- 1846：Independent Treasury Act of 1846：眾院 4-2（123–67）、參院 8-1（28–25）、Polk 1846-08-06 簽署（簽 Walker 關稅一週後）；規定公共收入存於財政部大樓與各地分庫，政府收支以金銀（specie）或財政部自行發行、以金銀儲備與共和國信譽為背書之 Treasury Notes 支付（來源：同上）
+- 1846：Independent Treasury Act of 1846：眾院 4-2（123–67）、參院 8-1（28–25）、Polk 1846-08-06 簽署；規定公共收入存於財政部大樓與各地分庫，政府收支以金銀（specie）或財政部自行發行、以金銀儲備與共和國信譽為背書之 Treasury Notes 支付（來源：同上）
 - 1845–46：美國棉花產量因乾旱明顯減產、1846 僅部分復甦，1847 年棉價大漲，蘭開夏紡織業面臨原料成本與信用壓力（「棉花恐慌」cotton scare）——⚠️ 免費網路來源未檢得具體數字，正文採定性描述，不引具體價格（來源：標準經濟史文獻，Kindleberger, *Manias, Panics, and Crashes*；Wikipedia 未設獨立條目）
 - 1846：UK 鐵路狂熱（Railway Mania）頂點：263 個鐵路法案獲議會通過，規劃路線共 9,500 英里（15,300 公里）；授權鐵路約三分之一從未建造（財務不良倒閉、被大公司收購、或為詐欺）（來源：https://en.wikipedia.org/wiki/Railway_Mania ）
 - 1847-01：Bank of England 金準備約 £15m（來源：https://en.wikipedia.org/wiki/Panic_of_1847 ）
@@ -44,7 +44,7 @@
 - 1847-08～1848-12：《The Times》通訊員 David Morier Evans 記錄 450 家以上英商號倒閉（來源：https://en.wikipedia.org/wiki/Panic_of_1847 ）
 - 1847：1847 英國銀行危機被歸因於（a）愛爾蘭饑荒借款宣布、（b）1840 年代鐵路熱潮終結、（c）大量非銀行貸方（railway banks 等）倒閉（來源：同上）
 - 1847 前後：Earl Grey（Henry Grey, 3rd Earl Grey）因饑荒救濟貸款方案受挫，與 James Wilson 及毛里裘斯殖民地政府合作建立第一個貨幣局（currency board）（來源：同上）
-- 1857：又一次恐慌；因政府資金自持（獨立財政部），政府未停兌、如期償債；Buchanan 1857-12-07 國情咨文：「多虧獨立財政部，政府未如 1837 年因銀行倒閉而被迫停兌」（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
+- 1857：又一次恐慌；因政府資金自持（獨立財政部），政府未停兌、如期償債；Buchanan 1857-12-07 國情咨文：「多虧獨立財政部，政府沒有停兌——不像 1837 年那樣，因銀行倒閉而被迫停兌」（原文：Thanks to the independent treasury, the government has not suspended [specie] payments, as it was compelled to do by the failure of the banks in 1837）（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
 - 1863–64：National Bank Act 通過，美國再度出現全國性銀行；此即 B.U.S. 消失後 26 年（1837–1863）的「無央行時代」終點（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States 、https://en.wikipedia.org/wiki/Independent_Treasury ）
 - 1913：Federal Reserve Act 通過，獨立財政部制度終結（1920 年法案關閉最後分庫）（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
 
