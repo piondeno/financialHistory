@@ -2,8 +2,9 @@
 
 ## 關鍵事件與日期
 
-- 1816-04-10：James Madison 簽署第二合眾國銀行（Second Bank of the United States, B.U.S.）章程；銀行位於費城，1817-01-07 總分行開業，至 1832 年管理全國 25 家分支行（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States）
-- 1819：1819 恐慌；B.U.S. 收縮信貸以止住通膨、穩定自身，經濟衰退、大規模失業、房價急跌持續到 1822；危機加深公眾對紙鈔與國家金融體系「為誰服務」的懷疑，成為日後反銀行民粹的土壤（來源：同上）
+- 1812 戰爭背景：1812 年戰爭（War of 1812）後，聯邦政府陷入無序貨幣（unregulated currency）與財政混亂，商業界要求為政府債券提供保障，促成國家銀行立法（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States）
+- 1816-04-10：James Madison 簽署第二合眾國銀行（Second Bank of the United States, B.U.S.）章程；諷刺的是 Madison 於 1791 年曾抨擊第一合眾國銀行違憲；銀行位於費城，1817-01-07 總分行開業，至 1832 年管理全國 25 家分支行（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States）
+- 1819：1819 恐慌；B.U.S. 於 1819-01 由第二任總裁朗頓·切弗斯（Langdon Cheves）接掌（取代 Jones），持續收縮信貸以止住通膨、穩定自身，經濟衰退、大規模失業、房價急跌持續到 1822；危機加深公眾對紙鈔與國家金融體系「為誰服務」的懷疑，成為日後反銀行民粹的土壤（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States）
 - 1829：費城一群有影響力的人（含 William Duane、William M. Gouge 與工人黨成員）提出報告，指銀行「奠定了財富的人為不平等」；1833 年 Gouge 出版《A Short History of Paper Money and Banking in the United States》，成為硬通貨派（hard money）經典；Gouge 與 Condy Raguet 提出獨立財政部構想（來源：https://en.wikipedia.org/wiki/Independent_Treasury）
 - 1832 年初：B.U.S. 總裁 Nicholas Biddle 聯手亨利·克里（Henry Clay）等國家共和黨人，在章程到期前 4 年提交續約申請，意在迫使 Jackson 在 1832 總統大選前表態（來源：https://en.wikipedia.org/wiki/Bank_War）
 - 1832-06-10：Jackson 否決 B.U.S. 續約法案，否決文書日期為 1832-06-10；內容為「planters, farmers, mechanic and laborer」對「monied interest」的宣戰，被視為 Jacksonean 運動社會哲學的論戰宣言（來源：Google 檢索所得講義「Jackson's Veto Message (June 10, 1832)」＋任務書日期 1832-06-10；⚠️ Wikipedia「Bank War」「Presidency of Andrew Jackson」條目寫「July 10, 1832」，「Panic of 1837」條目寫「July 1832」，說法不一，正文採否決文書日期 1832-06-10 並註明異說）
@@ -17,9 +18,10 @@
 - 1836-07-11：Jackson 簽署 Specie Circular（金銀令）行政命令（依 1834 鑄幣法），命財政次長 Levi Woodbury 發布：1836-08-15 起，購買 320 英畝以上政府土地只能以金銀硬幣支付；320 英畝以下之誠實定居者可用紙鈔至 1836-12-15；對部分 Virginia scrip 開特例；1838-05-21 由國會聯席法案廢除（來源：https://en.wikipedia.org/wiki/Specie_Circular ）
 - 1836：Deposit and Distribution Act（1836 存款分配法）將聯邦收入存入各地「pet banks」（多在西邊），加上金銀令，使硬幣從東岸商業中心流向西部（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - 1836–37：美國小麥遭麥葉蟲（Hessian fly）與冬災，小麥價格大漲、勞工挨餓；英國 1831–36 小麥逐年豐收，對美麥進口「幾乎歸零」（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
+- 1836：Bank of England 的貨幣準備「在近年因資本投機與對美國交通建設的投資而急劇下降」（had allowed their monetary reserves to decline precipitously in recent years due to an increase in capital speculation and investment in American transportation）（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - 1836–37：Bank of England 為補充準備與對沖美國違約，宣布把利率由 3% 逐步調升至 5%；美國主要銀行被迫跟進加息（來源：同上）
 - 1837-02～03：棉花價格下跌 25%（來源：同上）
-- 1837-03：Van Buren 就職（早於恐慌僅五週）（來源：同上）
+- 1837-03-04：Van Buren 就職，距 1837-05-10 恐慌爆發為 67 天（約 10 週）（來源：同上；日期為標準史實，67 天≈10 週）
 - 1837-05-10：紐約各銀行金銀匱乏，停止紙鈔兌換金銀（suspension of specie payments），全國金融機構迅速跟進；Panic of 1837 正式爆發（來源：https://en.wikipedia.org/wiki/Panic_of_1837 、https://en.wikipedia.org/wiki/Independent_Treasury ）
 - 1838-05-21：Specie Circular 廢除；Jackson 曾要求 Van Buren 不要廢除（來源：https://en.wikipedia.org/wiki/Specie_Circular ）
 - 1837-09：Van Buren 提出設立獨立財政部（independent treasury）以將貨幣政治化問題從政治中剔除；保守民主黨與 Whig 聯盟阻擋至 1840（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
@@ -28,6 +30,7 @@
 - 1839-10～1841-01：B.U.S. 停止付款（suspended payment），1841-02 永久停止；隨後漫長清算，1852 年結束（來源：https://en.wikipedia.org/wiki/Second_Bank_of_the_United_States ）
 - 1840：Independent Treasury Act of 1840：參院 1-23 通過（24–18）、眾院 6-30 通過（124–107）、Van Buren 1840-07-04 簽署；Whig 1840 大選奪回國會與白宮後，1841-06-09 參院（29–18）、1841-08-09 眾院（134–87）通過廢案，Tyler 1841-08-13 簽署廢除（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
 - 1842：美國經濟部分復甦、脫離五年衰退；多數說法認為 1844 年才真正復甦（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
+- 反方評價：經濟史學家 Peter Temin 認為，通縮調整後（corrected for deflation），經濟在 1838 年後溫和成長（grew moderately after 1838）（來源：https://en.wikipedia.org/wiki/Panic_of_1837 ）
 - 1844-07-19：UK Bank Charter Act 1844（Peel 銀行法）御准（7 & 8 Vict. c. 32）——⚠️ 任務書誤寫為「1843」，實為 1844 年法案，正文以 1844 為準（來源：https://en.wikipedia.org/wiki/Bank_Charter_Act_1844 ）
 - 1844：民主黨重奪國會多數與總統（Polk）；Polk 以「復活獨立財政部＋降低關稅（Walker 關稅）」為內政雙柱（來源：https://en.wikipedia.org/wiki/Independent_Treasury ）
 - 1846：Independent Treasury Act of 1846：眾院 4-2（123–67）、參院 8-1（28–25）、Polk 1846-08-06 簽署（簽 Walker 關稅一週後）；規定公共收入存於財政部大樓與各地分庫，政府收支以金銀（specie）或財政部自行發行、以金銀儲備與共和國信譽為背書之 Treasury Notes 支付（來源：同上）
@@ -92,7 +95,9 @@
 - Currency School vs Banking School：1844 法案是 Currency School（新鈔發行是通膨主因、發行須金本位）勝利；但法案限制鈔票卻不限制存款創造，1840s 存款兩年增五倍，為 1847 危機埋因（Austrian 學派 Huerta de Soto 之解讀，見 Panic of 1847 條目引文）
 - 獨立財政部的雙面性：繁榮期收入積累收緊硬幣流通、抑制通膨；蕭條期政府堅持以金銀收付，反而加劇民間硬幣匱乏；1857 年證明政府自持資金可避免政府停兌（來源：Independent Treasury 條目）
 - 民粹政治經濟學：Jackson 的「monied interest」敘事＋Gouge/Raguet 硬通貨理論＋1819 恐慌記憶 → 系統性拆除央行；Briscoe v. Bank of Kentucky（1837）裁定州只能以私人信用（非州信用）發鈔，為自由銀行時代提供法律框架（來源：Independent Treasury / Wildcat banking / Bank War 條目）
-- 與後世互為鏡像：1837–63 無央行時代的危機形態（1837、1847 傳導、1857、1873、1893、1907）對比 1913 聯準會成立後的「成功最後貸放人」案例（Bordo：英國 1866 後無大恐慌；BoE 成功防止 1878、1890、1914 恐慌；美國為例外直到 1913）（來源：Lender of last resort 條目）
+- 與後世互為鏡像：1837–63 無央行時代的危機形態（1837、1847 傳導、1857、1873、1893、1907）對比 1913 聯準會成立後的「成功最後貸放人」案例（Bordo：英國 1866 後無大恐慌；BoE 成功防止 1878、1890、1914 恐慌；美國為例外直到 1913）（來源：https://en.wikipedia.org/wiki/Lender_of_last_resort ）
+- 區域性「私人最後貸放人」對照（1837）：Rolnick、Smith、Weber 認為波士頓薩福克銀行（Suffolk Bank of Boston）透過「薩福克銀行體系」（Suffolk Banking System）提供匯票清算與最後貸放人服務，使 1837 恐慌對新英格蘭（New England）的衝擊較全國其他地區（無銀行提供此服務）為輕——「在缺乏公共方案時，民間替代方案已發展出來」；自由銀行論者以此主張政府介入並非必要（來源：同上）
+- 後續制度演進：1857 年紐約清算所協會（NY Clearing House Association）允許發行「清算所貸款證書」（clearing-house loan certificates），此提供流動性的觀念其後演為由央行承擔的公共服務；法國 1848 年因央行未行動而爆發危機（「最後貸放人行動能遏制危機，缺乏此行動則讓局部恐慌蔓延」）；德國 1873 金融危機促使建立德國帝國銀行（Reichsbank，1876）；後世亦稱許聯準會 1987 黑色星期一與 9/11 的最後貸放人角色（來源：同上）
 
 ## 待核實項（研究後應清空；寫入章節時不得保留未核實數字）
 
