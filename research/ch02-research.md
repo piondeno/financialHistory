@@ -31,7 +31,7 @@
 - 1850 年代與 1860 年代的經濟回升帶來較小的鐵路建設熱潮，但從未達到狂熱規模——部分因政府管制較多（儘管仍非常有限）、部分因投資者更謹慎、部分因英國鐵路網絡接近成熟，已無 1840 年代的「空白畫布」（來源：Wikipedia「Railway Mania」）。
 
 ### 美國（淘金、土地撥贈、1853–54 與 1857 前夜）
-- 1848 年 5 月 30 日《瓜達盧佩‑伊達爾戈條約》批準生效，加州正式轉屬美國（來源：Wikipedia「California gold rush」）。
+- 1848 年 5 月 30 日《瓜達盧佩-伊達爾戈條約》批準生效，加州正式轉屬美國（來源：Wikipedia「California gold rush」）。
 - 1848 年 1 月 24 日，James W. Marshall 在約翰·蘇特的「蘇特磨坊」（Sutter's Mill，科洛馬，美國河）發現金礦，加州淘金潮開始（來源：Wikipedia「California gold rush」）。
 - 淘金潮吸引約 30 萬人從美國各地與海外湧入加州；金礦開採首五年（現行估計）產金多達 1,200 萬盎司（370 噸）（來源：Wikipedia「California gold rush」）。
 - 1849 年約 9 萬人抵達加州（約一半陸路一半海路），其中 5–6 萬為美國人；到 1855 年估計至少 30 萬尋金者、商人與移民抵達（來源：Wikipedia「California gold rush」）。
@@ -46,7 +46,7 @@
 - 到 1855 年，金礦只能由中大型團體（合夥或僱傭）有利可圖地開採，賺錢的是金礦公司業主而非個人礦工（來源：Wikipedia「California gold rush」）。
 - 1851 年加州立法會通過「外邦礦工稅」（每月 20 美元），主要針對拉丁美洲礦工（來源：Wikipedia「California gold rush」）。
 - 1855 年巴拿馬鐵路貫通，舊金山—巴拿馬—東海岸定期輪船線成型（來源：Wikipedia「California gold rush」）。
-- SS Central America 號 1857 年 9 月在卡羅來納外海颶風中沉沒，船上載有約三噸加州黃金（來源：Wikipedia「California gold rush」；另見 Wikipedia「Panic of 1857」）。
+- SS Central America 號 1857 年 9 月在卡羅來納外海颶風中沉沒，船上載有約十短噸（約 9 噸）加州黃金，條目 lead 另作 30,000 磅（約 13.6 噸），兩說並存（來源：Wikipedia「SS Central America」；另見 Wikipedia「Panic of 1857」）。
 - 「The sinking of SS Central America in September 1857 contributed to the panic, because New York City banks were waiting on its much-needed shipment of gold.」——紐約市的銀行正等待著這批急需的黃金，該船沉沒因而助長了 1857 年恐慌（來源：Wikipedia「Panic of 1857」）。
 - 伊利諾伊中央鐵路（IC）：1836 年 1 月 16 日由伊利諾伊州議會批準成立；1850 年總統 Fillmore 簽署聯邦土地撥贈（法律於 1850 年 9 月 20 日核準），IC 成為美國第一條土地撥贈鐵路；1851 年 2 月 10 日獲州營業許可（charter）；1856 年主線（Cairo–Galena）完工時是世界上最長的鐵路（來源：Wikipedia「Illinois Central Railroad」）。
 - 1850 年《土地撥贈法》提供 375 萬英畝土地支持鐵路建設，IC 在伊利諾伊州獲得近 260 萬英畝（來源：Wikipedia「Railroad land grants in the United States」）。
@@ -104,7 +104,7 @@
 - 1849 年抵達約 9 萬人；到 1855 年累計至少 30 萬人（來源：Wikipedia「California gold rush」）。
 - 舊金山 1846 約 200 人 → 1852 約 36,000 人（來源：Wikipedia「California gold rush」）。
 - 約 $8,000 萬加州金匯往法國（來源：Wikipedia「California gold rush」）。
-- SS Central America 號載約 3 噸加州金，1857 年 9 月沉沒（來源：Wikipedia「California gold rush」；Wikipedia「Panic of 1857」）。
+- SS Central America 號載約十短噸（約 9 噸）加州金（條目 lead 另作 30,000 磅≈13.6 噸，兩說並存），1857 年 9 月沉沒（來源：Wikipedia「SS Central America」；「Panic of 1857」）。
 - 12 個四十年代的四十-niner 中約 1 人死於途中（來源：Wikipedia「California gold rush」）。
 - 智利小麥對加州出口：1849 年 87,000 qqm、1850 年 277,000 qqm（來源：Wikipedia「California gold rush」）。
 
@@ -178,6 +178,6 @@
 4. **聯邦土地撥贈起始年**：1850（Railroad land grants 條目，IC 1850/1851）vs 1855–1871（US 鐵路史條目）——正文用「1850 年開始」，以 IC 首開先例為據。
 5. **1850 年代英美資本投資美國鐵路債券的具體規模**：未在本次抓取的 Wikipedia 來源中找到直接數字；僅有「歐洲投機資本在美國鐵路上的泡沫」（List of recessions 條目）與加州金流（$8,000 萬赴法）等間接證據。正文對「外資」維持定性描述，不寫具體金額。
 6. **「City of Glasgow Bank」（1857.11.11 倒閉）**：Panic of 1857 條目如此稱之（引 Read 2022）；史書常作「Glasgow Bank」，名稱說法不一；正文照來源寫「City of Glasgow Bank」。
-7. **2017 年「首次大穩定」（First Great Moderation）研究**：California gold rush 條目稱「2017 年一項研究」，抓取正文未見作者名（前次會話筆記記為 Weidenmier）；正文只寫「2017 年一項研究」不署作者，避免出錯。
+7. **2017 年無衰退擴張研究**：California gold rush 條目稱「2017 年一項研究」，抓取正文未見作者名（前次會話筆記記為 Weidenmier）；正文只寫「2017 年一項研究」不署作者，避免出錯。
 8. **1847 年「恐怖之週」精確日期**：來源只說 1847 年 10 月、信函日期 10 月 25 日；不寫具體星期。
 9. **克里米亞戰爭對 1854 年歐洲利率/信用的直接影響**：本次來源未直接給出 1854 年歐洲利率數據；正文以「戰爭爆發→歐洲資本市場緊縮」定性表述，1854 年美國端用 NBER 衰退數據（−18.4%、利率上升、鐵路投資減少）支撐。
