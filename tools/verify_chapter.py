@@ -55,7 +55,9 @@ def check_chain(chapters_dir):
         if num == 20 and end != 2026:
             errors.append(f"ch20 迄年應為 2026（實際 {end}）: {name}")
     for (n1, _s1, e1, f1), (n2, s2, _e2, f2) in zip(entries, entries[1:]):
-        if n2 == n1 + 1 and s2 != e1:
+        if n2 != n1 + 1:
+            errors.append(f"章號不連續: ch{n1:02d} 之後應為 ch{n1+1:02d}（實際 ch{n2:02d}）: {f2}")
+        elif s2 != e1:
             errors.append(f"年份鏈斷裂: ch{n1:02d} 迄 {e1}，ch{n2:02d} 起 {s2}")
     return errors
 

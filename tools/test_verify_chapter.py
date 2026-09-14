@@ -56,6 +56,15 @@ def test_chain_broken():
         assert any("ch01" in e and "ch02" in e for e in errs)
 
 
+def test_chain_chapter_number_gap():
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d)
+        (p / "ch01-1837-1847-a.md").write_text("x")
+        (p / "ch03-1847-1857-b.md").write_text("x")
+        errs = vc.check_chain(p)
+        assert any("ch02" in e and "ch03" in e for e in errs)
+
+
 def test_chain_first_must_start_1837():
     with tempfile.TemporaryDirectory() as d:
         p = Path(d)
@@ -102,3 +111,14 @@ def test_cli_missing_section_fails(tmp_path):
     r = run_cli(f)
     assert r.returncode == 1
     assert "崩潰與危機" in r.stdout
+
+
+def test_cli_no_args_exit_2():
+    r = run_cli()
+    assert r.returncode == 2
+
+
+def test_cli_nonexistent_file_exit_1():
+    r = run_cli("/nonexistent-verify-chapter-test.md")
+    assert r.returncode == 1
+    assert "檔案不存在" in r.stdout
