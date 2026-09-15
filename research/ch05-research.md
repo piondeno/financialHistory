@@ -145,7 +145,7 @@
 10. 1889 年世界博覽會（芝加哥）——「1889 in the United States」條目未檢得。已決：不寫入正文。
 11. en-wiki「Panic of 1890」為 REDIRECT 至「Baring crisis」；該條無 PNB 關門／Drexel Parke 倒閉／NYSE 關閉記錄，fr-wiki 對應條目擷取為 404 錯誤頁，Wikipedia 全站搜尋無其他相關條目。已決：大綱四項（1890-05-19 PNB、Drexel Parke 倒閉、NYSE 關 11 天、1889–90 維也納崩盤）無可靠來源，維持不寫（NYSE 11 天疑與 1893 年 11 日關閉混淆）。
 12. Drexel 創辦人：en-wiki「Drexel Burnham Lambert」載 Francis M. Drexel 1838 年創立德雷克塞爾公司（Drexel & Company），A. J. 為其弟（1847 年入夥、1863 年弗朗西斯去世後接掌）。已決：正文／筆記／細綱統一「其兄弗朗西斯·M」（A. J. 視角）。
-13. 鐵路里程：en-wiki「Long Depression」同條目並列 11,568 與 11,568 英里（一說 11,569）（1882）。已決：統一用 11,568（與 ch04 一致），正文標「一說 11,569」一次。
+13. 鐵路里程：en-wiki「Long Depression」同條目並列 11,568 與 11,569 英里（1882）。已決：統一用 11,568（與 ch04 一致），正文標「一說 11,569」一次。
 14. Nathan Rothschild 評語：en-wiki「Barings Bank」條目將評語歸 Nathan Rothschild，但 1st Baron Nathan 1876 年已歿。已決：正文改「羅特席德家族成員」。
 15. CLC 首日分行金額（200 萬、三行）與「九行各貸 10 萬」：Yale 案例研究僅載匯總（共 1,665 萬、峰 1,521 萬、24 家、1891-02-07 全贖）與「九家行長（含摩根）同意以證券為抵押共同墊付 90 萬」。已決：分行分額不寫，正文用匯總。
 16. 1890 年危機命名：en-wiki「Baring crisis」載該危機 became known as the Panic of 1890。已決：正文 §5.1 開頭加命名句。
