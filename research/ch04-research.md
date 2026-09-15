@@ -7,13 +7,14 @@
 - 1864-07-02：第 38 屆國會特許北太平洋鐵路（連接五大湖與普吉特灣）；國會原撥 6,000 萬英畝土地撥賜，該路最終接受近 4,000 萬英畝；「間隔地段」（alternate section）分配。（來源：en-wiki「Northern Pacific Railway」）
 - 1865-04：停戰；綠背自 150 兌 100 開始回升；國會把綠背發行上限設為 4.5 億美元。（來源：en-wiki「Greenback (1860s money)」）
 - 1866-04-12《收縮法》；1866-05-10 奧凡德·格尼（Overend, Gurney）停兌——已寫入 ch03，本章不重述，僅回指。（來源：ch03 §5/§6）
+- 1867：奧匈妥協（Austro-Hungarian Compromise）；妥協後奧匈帝國進入重建與投資期，維也納證券交易所熱度同步攀升。（來源：en-wiki「Austro-Hungarian Compromise of 1867」）
 - 1868：約翰遜（Andrew Johnson）彈劾案（參議院一票幸免）；第十四修正案通過；格蘭特（Ulysses S. Grant）當選總統，1869–77 兩任。（來源：en-wiki「Reconstruction era」；「1868 in the United States」）
 - 1869：格蘭特簽署《公共信貸法》（Public Credit Act of 1869），建立 10 年復返金本位時間表，公債以「黃金或其等價物」償付。（來源：en-wiki「Black Friday (1869)」）
 - 1869-04 起：財務部長鮑威爾（George S. Boutwell）開始雙週出售財政部黃金贖回戰債；出售命令以電報發給美聯社公開；至 9 月 1 日國債已減 5,000 萬美元。（來源：en-wiki「Black Friday (1869)」）
 - 1869-09-24（週五）：黃金圈（Gold Ring）壟斷破滅——格蘭特下令釋放 400 萬美元黃金、購入 400 萬美元公債；數分鐘內金價自 160 美元跌至 138 美元；該日史稱「黑色星期五」，為美國史上第一個黑色星期五。（來源：en-wiki「Black Friday (1869)」；NY Fed Liberty Street Economics「The Gold Panic of 1869, America's First Black Friday」）
 - 1870-02-15：北太平洋鐵路（Northern Pacific Railway）在明尼蘇達州德盧斯（Duluth）附近破土。（來源：en-wiki「Panic of 1873」）
 - 1870：北太平洋鐵路指定庫克公司（Jay Cooke & Company）為獨家債券代理。（來源：en-wiki「Jay Cooke & Company」）
-- 1890-07-10：科羅拉多州參議員亨利·M·戴勒（Henry M. Teller）在國會辯論中首次使用「1873 年之罪」（Crime of 1873）一詞。（來源：en-wiki「Coinage Act of 1873」）
+- 1890-07-10：科羅拉多州參議員亨利·M·泰勒（Henry M. Teller）在國會辯論中首次使用「1873 年之罪」（Crime of 1873）一詞。（來源：en-wiki「Coinage Act of 1873」）
 - 1870-03：德意志銀行（Deutsche Bank）成立。（來源：fr-wiki「Crise bancaire de mai 1873」）
 - 1871-01-18：德意志帝國宣告成立；法國賠款 2 億英鎊流入德奧資本市場，為「創業者時代」（Gründerzeit）投機熱潮的主要燃料。（來源：en-wiki「Long Depression」）
 - 1871-11-23：德國開始廢除銀幣法償地位（1873-07-09 金馬克正式確立金本位）。（來源：en-wiki「Panic of 1873」）
@@ -29,7 +30,9 @@
 - 1873-06-04：北太平洋鐵路線東段軌道抵達密蘇里河。（來源：en-wiki「Northern Pacific Railway」）
 - 1873-07：克利夫蘭（Cleveland）等工業城市鐵路工人減薪罷工（具體日期未核實，見「待核實項」第 5 條）。（來源：見待核實項；背景：en-wiki「Panic of 1873」之 1877 年大罷工為其後續）
 - 1873-09-18（週四）：庫克公司在紐約、費城兩辦事處停止兌付。（來源：NY Fed Crisis Chronicles「on September 18, 1873, it suspended withdrawal of deposits at its New York and Philadelphia offices」；en-wiki「Panic of 1873」「On 18 September, the firm declared bankruptcy」；en-wiki「Northern Pacific Railway」；fr-wiki「panique du 18 septembre 1873」；en-wiki「1873 in the United States」）
+- 庫克停兌公告原文（NY Fed Crisis Chronicles）：「large drawing upon them by the Philadelphia house and their own depositors during the last fortnight」（過去兩週費城分行與其存款人的大額提款）。（來源：NY Fed Crisis Chronicles）
 - 1873-09-19（週五）：衝擊抵達紐約交易所；1873-09-19《紐約時報》：「第一個傳到交易所的關於任何變化的消息，是一則簡短通知：賈伊·庫克公司已停止兌付。街頭陷入興奮狀態……」；德文來源稱「9 月 19 日，危機抵達紐約」（無「黑色星期五」標籤之來源）。（來源：NY Fed Crisis Chronicles 引 NYT 1873-09-19；de-wiki「Gründerkrach」）
+- 1873-09-18 當時即稱「黑色星期四」（Black Thursday）。（來源：en-wiki「Long Depression」）
 - 1873-09-20（週六）：紐約證券交易所（NYSE）起關閉 10 天（9 月底重開；德文來源稱至 9 月 29 日）。（來源：en-wiki「Panic of 1873」；fr-wiki；de-wiki「Gründerkrach」）
 - 1873-09-26：德文日報《Das Vaterland》文章已使用「Gründerkrach」一詞。（來源：de-wiki「Gründerkrach」）
 - 庫克失敗後，紐約經紀商行亨利·克魯斯（Henry Clews）隨後倒閉，引發連鎖銀行倒閉與交易所暫時關閉。（來源：en-wiki「Panic of 1873」）
@@ -70,18 +73,22 @@
 - 1873 年《鑄幣法》的連鎖效應：減少國內貨幣供給、推高利率、傷害負債農民；「對美國貨幣政策不穩定的認知使投資人迴避長期債務，尤其是長期債券；問題因已進入後期的鐵路熱潮而加劇」；銀價崩落被貿易銀元與 1873 年內華達州維吉尼亞城（Virginia City）大銀礦發現（新投資）部分抵消；「廢銀因此是太平洋兩岸危機的共同要素」。（來源：en-wiki「Panic of 1873」）
 - 自由人儲蓄銀行（Freedman's Savings Bank，1865 年設立）1874 年倒閉。（來源：en-wiki「Long Depression」）
 - 柏林交易所 1871–73 接納 95 家新銀行；德意志銀行 1870-03 成立；百餘家金融公司專營城市建設與裝修。（來源：fr-wiki「Crise bancaire de mai 1873」）
+- 維也納交易所熱度：帝國奧地利半部的證券銀行自 1867 年的 11 家增至 1873 年 5 月的 141 家；博覽會前數月股價升到「天文數字的高度」；股票可以只繳部分款項購買（即今日的「保證金」）、餘款期待股價繼續上漲時再付，連流動性不足的人也能建立龐大持股。（來源：de-wiki「Gründerkrach」）
+- 歐洲泡沫頂峰：維也納房地產價格數月內翻了三倍；柏林 1872 年增長 8%、德意志銀行業平均股息率 10.75%。（來源：法文「Crise bancaire de mai 1873」）
+- 復甦不對稱：崩潰後歐洲的復甦遠比美國快，且德國企業避開了深度減薪。（來源：en-wiki「Panic of 1873」）
+- 「鄉村貨幣」：銀被視為對鄉村比對大城市銀行更有利的貨幣，廢銀對礦區與農民是打擊。（來源：en-wiki「Long Depression」）
+- 「1873 年之罪」標籤：廢銀的礦區利益集團早已以「The Crime of '73」稱呼《鑄幣法》；斯圖爾特 1889 年稱「罪行」；1890-07-10 泰勒（Teller）首次在國會辯論使用「Crime of 1873」。（來源：en-wiki「Panic of 1873」；「Coinage Act of 1873」）
+- 金溢價回落不能全歸於《復匯法》本身：1877 年南部產量擴張對總價格水平有下行壓力。（來源：en-wiki「Specie Payment Resumption Act」）
 - 法國賠款 2 億英鎊。（來源：en-wiki「Long Depression」）
 - 英格蘭銀行 1870 年代利率高達 9%。（來源：en-wiki「Panic of 1873」；「Long Depression」）
 - 羅特席德家族與巴林銀行（Barings Bank）1850 年後為世界最大債券發行機構（一說發行全球約 70% 的債券）。（來源：en-wiki「Panic of 1873」，單一來源，見待核實項第 9 條）
 - 庫克（Jay Cooke，1821–1905）：庫克公司 1861 年創立於費城；內戰期銷售 5 億美元「五-二十」債券（Five-Twenties，1862-02-25 授權之 6% 20 年期公債），2,500 名分銷代理；美國第一家「電線經紀行」（wire house）。（來源：en-wiki「Jay Cooke」；「Jay Cooke & Company」）
 - 1911 EB 記庫克歿於 1905-02-18；en-wiki 記 1905-02-16。（來源：1911 EB；en-wiki「Jay Cooke」，見待核實項第 6 條）
-- 1873-05-09：維也納另有 120 家銀行於同日上午破產。（來源：de-wiki「Gründerkrach」）
-- 1879-01-01：復匯準備金 1.33 億美元（來自對歐債券銷售＋財政盈餘）。（來源：en-wiki「Resumption of specie payments」）
 
 ## 關鍵人物與決策
 
 - 賈伊·庫克（Jay Cooke，1821–1905）：俄亥俄州桑達斯基（Sandusky）人，費城起家；1861-01-01 創立庫克公司；內戰債券銷售起家（5 億美元「五-二十」）；1869 年後轉向鐵路融資；1870 年成為北太平洋獨家債券代理；深度捲入加拿大太平洋鐵路建設融資，引發 1873 年加拿大「太平洋醜聞」（Pacific Scandal），使麥基倫（John A. Macdonald）總理在 1873 年大選敗選；1873-09-18 公司停兌；其後以猶他州霍恩銀礦（Horn Silver Mine）重建身家，至 1880 年代已重償債務並再度富甲。（來源：en-wiki「Jay Cooke」；NY Fed Crisis Chronicles）
-- 庫克公司（Jay Cooke & Company，1861–73）：總部費城，紐約與華盛頓設分行；第一家「電線經紀行」；1869 年黑色星期五後自公債轉向鐵路融資（北太平洋，將連接德盧斯與西雅圖）；1870 年成為北太平洋獨家債券代理，其後吸收該路發行的絕大多數債券（原文「75%」所指含混，見待核實項第 11 條）；1873 年為「國家銀行體系的主要組成部分」（原文 a major component of the country's banking establishment）。（來源：en-wiki「Jay Cooke & Company」；「Panic of 1873」；NY Fed Crisis Chronicles）
+- 庫克公司（Jay Cooke & Company，1861–73）：總部費城，紐約與華盛頓設分行；第一家「電線經紀行」；1869 年黑色星期五後自公債轉向鐵路融資（北太平洋，將連接德盧斯與西雅圖）；1870 年成為北太平洋獨家債券代理，其後吸收該路發行的絕大多數債券，庫克最終持有該路 75% 股權（見待核實項第 11 條）；1873 年為「國家銀行體系的主要組成部分」（原文 a major component of the country's banking establishment）。（來源：en-wiki「Jay Cooke & Company」；「Panic of 1873」；NY Fed Crisis Chronicles）
 - 亨利·克魯斯（Henry Clews）：紐約經紀商行，1873 年庫克失敗後隨即倒閉，是連鎖倒閉的第二環。（來源：en-wiki「Panic of 1873」）
 - 尤利西斯·S·格蘭特（Ulysses S. Grant，1869–77）：簽署《公共信貸法》（1869）；1869-09-24 下令釋放 400 萬美元黃金打破黃金圈；1874 年否決費里通膨法案；其政府以「癱瘓與失信」收場（Nevins 評語）。（來源：en-wiki「Black Friday (1869)」；「Panic of 1873」；「Long Depression」）
 - 鮑威爾（George S. Boutwell）：1869–73 財務部長；售金還債政策；雙週售金以電報公開；1873 年辭任競選參議員。（來源：en-wiki「Black Friday (1869)」）
@@ -91,6 +98,11 @@
 - 柯利斯·P·亨廷頓（Collis P. Huntington）等鐵路領袖：軟貨幣陣營，公開呼籲多發綠背。（來源：en-wiki「Specie Payment Resumption Act」）
 - Crédit Mobilier 醜聞當事人：聯合太平洋鐵路（Union Pacific）與建設公司 Crédit Mobilier of America，1864–67 年間「兩段式詐欺」侵吞東段（密蘇里河至猶他領地）建設利潤；「賊股息」（thief's dividend）受領者包括副總統斯庫勒·考爾法克斯（Schuyler Colfax）、參議員約翰·羅根（John A. Logan）、戰爭部長約翰·A·迪克斯（John A. Dix）、歐克斯·埃姆斯（Oakes Ames）、湯瑪斯·杜蘭特（Thomas Durant）等。（來源：en-wiki「Crédit Mobilier scandal」）
 - 亨利·維拉爾（Henry Villard）：德裔，前戰爭記者與報人；1871–73 在歐洲（尤其新統一的德意志帝國）為西部鐵路募資；1881–84 任北太平洋第 6 任總裁。（來源：en-wiki「Northern Pacific Railway」）
+- 約翰·傑伊·諾克斯（John Jay Knox）：副幣務長；奉財長鮑威爾（Boutwell）之命起草 1873 年《鑄幣法》；法案在國會審議了大約三年，「很少被公開提及，但並未隱藏它將確立金本位」。（來源：en-wiki「Coinage Act of 1873」）
+- 威廉·M·斯圖爾特（William M. Stewart，內華達參議員）：1889 年在一篇演說中七次稱《鑄幣法》是一樁「罪行」（他本人 1873 年投了贊成票）。（來源：en-wiki「Coinage Act of 1873」）
+- 貝塞爾·亨利·斯特勞斯伯格（Bethel Henry Strousberg，1823–1884）：普魯士奈登堡（Neidenburg）出身的德意志猶太實業家；以槓桿資本在德意志帝國境內大興鐵路，鐵路帝國一度僱用 10 萬名工人。（來源：de-wiki「Gründerkrach」；en-wiki「Bethel Henry Strousberg」）
+- 格爾松·馮·布萊希羅德（Gerson von Bleichröder）：俾斯麥的銀行家；1873 年復甦過程中出現反猶成分：德國工人協會（ADAV）報紙《Neuer Sozial-Demokrat》發表文章指責崩盤是其之過，10 月 29 日的文章稱他為「俾斯麥的猶太人」。（來源：en-wiki「Panic of 1873」）
+- 施特凡·克格列維奇（Stephan Keglevich）：維也納人，曾任哈布斯堡王室金庫長（1842–48）的加博爾·克格列維奇（Gábor Keglevich）的親屬；1845 年共同創立一家為匈牙利工業擴張融資的金融聯合；1873 年破產。（來源：en-wiki「Panic of 1873」）
 - 喬治·史蒂芬（George Stephen）與唐納德·史密斯（Donald Smith）：庫克破產後以低價收購庫克持有的北太平洋股份，完成加拿大太平洋鐵路。（來源：en-wiki「Jay Cooke」）
 - 愛爾文·費雪（Irving Fisher）：以債務-通縮解釋 1873 年恐慌的嚴重性（恐慌觸發去槓桿螺旋）。（來源：en-wiki「Long Depression」）
 - 米爾頓·弗里德曼（Milton Friedman）與安納·史華茲（Anna Schwartz）：貨幣史數字（1869–79 實質 +6.8%/年等）；批評「1873 年之罪」；（來源：en-wiki「Long Depression」）
@@ -99,15 +111,19 @@
 - 大衛·艾姆斯·韋爾斯（David Ames Wells，1891）：第二次工業革命的過渡成本／產能過剩論述。（來源：en-wiki「Long Depression」）
 - 艾倫·涅夫斯（Allan Nevins）：格蘭特政府收場評語「沒有任何其他政府在如此癱瘓與失信中收場」。（來源：en-wiki「Long Depression」，引 Nevins）
 - 奧托·馮·俾斯麥（Otto von Bismarck）：德意志帝國宰相；其政府把法國賠款主要用於贖還國債，德意志帝國同樣受崩盤波及（受創程度輕於奧匈帝國）。（來源：de-wiki「Gründerkrach」）
-- 喬治·S·鮑威爾（George S. Boutwell）：格蘭特政府財務部長；1869 年 4 月起下令出售財政部黃金、回購戰時債券。（來源：en-wiki「Black Friday (1869)」）
-- 亨利·M·戴勒（Henry M. Teller）：科羅拉多州參議員；1890-07-10 在國會辯論中首次使用「1873 年之罪」（Crime of 1873）一詞。（來源：en-wiki「Coinage Act of 1873」）
+- 亨利·M·泰勒（Henry M. Teller）：科羅拉多州參議員；1890-07-10 在國會辯論中首次使用「1873 年之罪」（Crime of 1873）一詞。（來源：en-wiki「Coinage Act of 1873」）
 
 ## 比較與分析素材
 
 - 1873 年恐慌被英文來源稱為「第一個真正的國際性危機」（the first truly international crisis）。（來源：en-wiki「Long Depression」）
 - 三向傳導迴路：維也納（1873-05）→ 紐約（1873-09-18/19）→ 歐洲第二波（維也納第二次恐慌、德國銀行倒閉）——危機「環行」一圈。（來源：de-wiki「Gründerkrach」；en-wiki「Long Depression」）
-- 傳導機制：金本位（固定匯率）＋世界債券市場（北太平洋債券售於德國、德國資本投於奧地利鐵路、英國資本投於蘇伊士運河）＋電報網絡——1857/1866 的三條傳導管道（見 ch03 §7）在 1873 年首次覆蓋「全球」而非「大西洋兩岸」。（來源：en-wiki「Panic of 1873」；de-wiki「Gründerkrach」；ch03 §7）
+- 傳導機制：金本位（固定匯率）＋世界債券市場（北太平洋債券經維拉爾網絡在歐洲尤其德國募集、德文來源記德國私人資本流入維也納）＋電報網絡——1857/1866 的三條傳導管道（見 ch03 §7）在 1873 年首次覆蓋「全球」而非「大西洋兩岸」。（來源：en-wiki「Northern Pacific Railway」；de-wiki「Gründerkrach」；ch03 §7）
+- 蘇伊士成因：蘇伊士運河 1869 年通航是 1873 年恐慌成因之一——遠東商品原經好望角運至英國倉庫，通航使英國轉口貿易受損；英國自 1873 年起進入約二十年經濟停滯。（來源：en-wiki「Panic of 1873」）
+- 阿哈邁德（Ahamed，en-wiki「Panic of 1873」轉引）：德國各邦償清了債務、贖回了全部公債，持有公債的儲蓄者手裡只剩下現金——「問題是這些現金怎麼辦」；答案是股市，資金湧入鐵路、工廠、碼頭與蒸汽船投機，與美國不可持續擴張的產業完全重疊。（來源：en-wiki「Panic of 1873」，引 Ahamed）
+- 德國放寬的公司法刺激了上市潮，新企業成立與老企業改組並進。（來源：en-wiki「Panic of 1873」）
+- 維也納與柏林兩熱點的結構相同：準銀行機構（各邦儲蓄銀行、抵押銀行與建設銀行）＋房地產抵押＋股票投機；抵押品正是被同一批資本推高價格的樓房與鐵路股。（來源：法文「Crise bancaire de mai 1873」）
 - 《鑄幣法》因果鏈：廢銀→銀價崩落→礦區危機；貨幣供給減少→利率上升→農民受損；貨幣政策不穩定感→投資人迴避長期債券→後期鐵路債券（北太平洋）賣不掉——「問題因已進入後期的鐵路熱潮而加劇」。（來源：en-wiki「Panic of 1873」）
+- 廢銀與銀價機制：美國與德國相繼廢銀，世界對銀的貨幣需求驟減；德國廢銀後拋售銀庫存，銀價崩落，被貿易銀元與維吉尼亞城銀礦新發現部分抵消。（來源：en-wiki「Coinage Act of 1873」；「Panic of 1873」）
 - 投機結構：土地撥賜（4,000 萬英畝，主權信用背書）→鐵路債券（包銷商賺價差）→外資（德國市場，維拉爾網絡）→庫克公司資產負債表（吸收未售債券）→存款（紐約、費城兩城）。任何一環斷裂即為系統性危機。（來源：en-wiki「Long Depression」；「Northern Pacific Railway」；「Jay Cooke & Company」）
 - 長蕭條機制三說：貨幣論（弗里德曼：「1873 年之罪」——廢銀＋金本位壓縮世界貨幣供給）；結構論（韋爾斯：第二次工業革命過渡成本、產能過剩）；債務-通縮論（費雪：去槓桿螺旋）。（來源：en-wiki「Long Depression」）
 - 反證：1869–79 實質國民生產 +6.8%/年、貨幣供給 +2.7%/年（弗里德曼與史華茲）——「長蕭條」是價格通縮而非產出崩潰；1873–79 的 65 個月 NBER 收縮是「商業活動」意義的收縮。（來源：en-wiki「Long Depression」）
@@ -116,6 +132,10 @@
 - 1929 對照：1873 年 Depression 一度被稱為「Great Depression」，該稱謂隨 1929 年崩盤而讓位。（來源：en-wiki「Panic of 1873」）
 - 金本位的「通縮下限」：1879 年復金本位結束通縮、但固定了 1873–79 通縮的分配成本（菲爾斯）。（來源：en-wiki「Long Depression」，引 Fels）
 - 1873 年後的全球保護主義轉向：1879 年德國關稅、法國第三共和國保護主義、1887 年法意關稅戰；1870–90 全球商船隊無顯著增長。（來源：en-wiki「Long Depression」）
+- 南方政治：雄心勃勃的南方鐵路建設計劃破產，使大多數州陷入重債與重稅，南方各州一個接一個落入民主黨之手。（來源：en-wiki「Panic of 1873」）
+- 1877 年妥協（Compromise of 1877）：1876 年總統選舉的和解；重建時代終結。（來源：en-wiki「Compromise of 1877」）
+- 《復匯法》＝硬貨幣與軟貨幣兩陣營的妥協（謝爾曼-埃德蒙茲（Edmunds）妥協）：硬貨幣陣營得到「日期」（1879-01-01），軟貨幣陣營得到「空間」（自由銀行條款）；弗里德曼與史華茲：法案的主要經濟產出是「信心」——市場需要一個可信的日期。（來源：en-wiki「Specie Payment Resumption Act」）
+- 《馬丁斯堡政治家報》（Martinsburg Statesman）：「寧可被子彈打死，也不願被一寸一寸餓死」（starve to death by inches），記下 1877 年罷工中一名工人的話。（來源：en-wiki「Panic of 1873」）
 - 1873 為「原型」：第一次以「全球化資本」為主角的崩盤；第一次完成「環行」傳導；第一次開啟「通縮時代」（長蕭條）而非「衰退」（1857/1866 型）。（來源：en-wiki「Long Depression」；de-wiki「Gründerkrach」）
 
 ## 待核實項（研究後應清空；寫入章節時不得保留未核實數字）
@@ -130,7 +150,7 @@
 8. en-wiki「Panic of 1873」載「1873 年 9 月庫克公司即將取得 3 億美元政府貸款」：數字明顯不合理（當時國債約 20 億級）。已決：不採，正文不使用。
 9. en-wiki「Panic of 1873」載羅特席德家族與巴林銀行「1850 年後發行全球 70% 的債券」：單一來源、數字偏高。已決：正文採定性「當時世界最大的兩家債券發行機構」，數字註「一說約七成」。
 10. 「黑色星期五」多指涉已釐清：1869-09-24（黃金圈潰敗，首用）、1873-05-09（維也納，de-wiki）；1873-09-19 之「黑色星期五」標籤於 de-wiki/en-wiki/fr-wiki/NY Fed 皆無來源，不採用。已決：正文對 09-19 僅記「危機抵達紐約」。
-11. en-wiki「Jay Cooke & Company」載「庫克持有公司 75%（75%）」：未指明為債券或股權。已決：不採該表述；改定性「庫克公司吸收了北太平洋發行的大部分債券」。
+11. en-wiki「Jay Cooke & Company」載「庫克因銷售困難最終持有該路 75%（wound up owning 75 percent of the company）」：上下文 the company 指北太平洋鐵路、owning 即股權。已決：採；正文 §3 記「庫克因銷售困難最終持有該路 75% 股權」。
 12. 維吉尼亞城（Virginia City）銀礦「新發現」之年份：正文僅定性「引發新一輪開礦投資」，未標 1873 年（en-wiki 未給年份）；若日後補年份來源，同步更新 §3。
 
 無未決項。
