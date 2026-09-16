@@ -1,6 +1,6 @@
 # ch10 研究筆記（1939–1948）
 
-方法說明：英文 Wikipedia 全文擷取（en-wiki action=raw，存檔 /tmp/opencode/ch10/，42 檔），三份 subagent 事實提取（notes_A §2+§4、notes_B §3+§6、notes_C §5+§7）。語料為唯一事實依據。章節主題＝二戰、布雷頓森林與戰後秩序（1939–1948），投機／貨幣史視角，非一般軍事史。
+方法說明：英文 Wikipedia 全文擷取（en-wiki action=raw，存檔 /tmp/opencode/ch10/，43 檔），三份 subagent 事實提取（notes_A §2+§4、notes_B §3+§6、notes_C §5+§7）。語料為唯一事實依據。章節主題＝二戰、布雷頓森林與戰後秩序（1939–1948），投機／貨幣史視角，非一般軍事史。
 
 ## 跨檔矛盾裁定（正文照此寫）
 
@@ -289,6 +289,6 @@
 - 總評：1948 底戰後秩序有其（a）儲備幣（美元，1947-49 鎊崩後無爭議）、（b）流動性泵（馬歇爾，1948-52 運作）、（c）錨經濟（改革後西德 + 馬歇爾西歐）、（d）安全架構（NSA 制度 + 平戰兵役）。1948 未解者（按 White 案設計）＝紀律順差國之任何機制；此遺漏（Triffin 1960）即 §5.5 至 1971 之潛在缺陷。
 - ⚑ 時序：常用語「National Security Act of 1948」為誤稱——係 1947 法（1947-07-26 立、1947-09-18 生效），僅其制度效應落於 1948。
 
-## 來源清單（42 檔 en-wiki wikitext）
+## 來源清單（43 檔 en-wiki wikitext）
 
-1939-1948 in the United States（10 份年度檔）/ 1944-1948（全球年度檔，5）/ World War II / Home front during World War II / United States home front during World War II / War bond / Savings bond / Office of Price Administration / Rationing / Rationing in the United States / War Production Board / Bretton Woods / Bretton Woods Conference / Bretton Woods system / International Monetary Fund / World Bank Group / International Bank for Reconstruction and Development / Marshall Plan / Lend-Lease / Truman Doctrine / National Security Act of 1947 / United States dollar / Gold / Gold standard / Dollar / Inflation / Balance of payments / Deutsche Mark / G.I. Bill
+1939-1948 in the United States（10 份年度檔）/ 1944-1948（全球年度檔，5）/ World War II / Home front during World War II / United States home front during World War II / War bond / Savings bond / Office of Price Administration / Rationing / Rationing in the United States / War Production Board / Bretton Woods / Bretton Woods Conference / Bretton Woods system / International Monetary Fund / World Bank Group / International Bank for Reconstruction and Development / Marshall Plan / Lend-Lease / Truman Doctrine / National Security Act of 1947 / United States dollar / Gold / Gold standard / Dollar / Inflation / Balance of payments / Deutsche Mark / G.I. Bill / Neutrality Acts
