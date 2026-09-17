@@ -2,7 +2,7 @@
 """章節驗證腳本（spec §6）。
 
 用法: verify_chapter.py FILE [FILE ...]
-- 每檔: 去空白字數 >= 20000 且 9 個 H2 節齊全
+- 每檔: 去空白字數 >= 24000 且 9 個 H2 節齊全
 - 年份鏈: 以第一個檔案所在目錄視為 chapters/，解析 chNN-YYYY-YYYY-*.md，
   驗證相鄰章起年=前章迄年、ch01 起年=1837、ch20 迄年=2026
 退出碼: 0=全通過, 1=有失敗, 2=用法錯誤
@@ -22,7 +22,7 @@ REQUIRED_SECTIONS = [
     "評判與評斷",
     "關鍵數據表",
 ]
-MIN_CHARS = 20000
+MIN_CHARS = 24000
 FILENAME_RE = re.compile(r"^ch(\d{2})-(\d{4})-(\d{4})-.+\.md$")
 
 
