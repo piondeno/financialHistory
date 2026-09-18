@@ -119,3 +119,11 @@
 - **待查×14 組**：Barings Bank、Drexel、Méline、Protectionism、Dakota boom、Industrial Revolution in the US、Trust (business)、1889/1890 in the US、Bank Charter Act 1844（ch01 回指）、Grande Dépression（法文）、NY Fed、Fed History、Yale New Bagehot、Panic of 1893＋Cross of Gold（ch06）——非 en-wiki 或二級來源，章節引用如實、未編造。
 
 整體：論證骨架與來源體系為前五章最完整，修訂量小中——階段二改 4 P1＋3 事實 P2（均點位式修改）即可交付；其餘 P2 為通俗潤飾（數據表化/回指），可與其他章統一處理。
+
+## 6. 使用者確認
+
+- 日期：2026-09-18
+- P0：全數核准（本無 P0 項）
+- P1：全數核准（4 項）
+- P2：全數核准（16 項）
+- 備註（使用者原話）：「全部核准」

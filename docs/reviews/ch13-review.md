@@ -168,3 +168,11 @@
 - **因果鏈 5/6**：Volcker shock（貨幣目標→利率 20%→雙頂衰退→通膨 14.8%→個位數→credibility→Great Moderation）、1980s 狂熱（去管制＋稅切＋軍費→強美元→垃圾債/LBO 9:1→債務倒金字塔）、Black Monday（五年牛市槓桿＋portfolio insurance＋index arbitrage 斷鏈→流動性蒸發→Greenspan $17B→Greenspan put）、Plaza→日圓升→日本寬鬆→資產泡沫的跨國傳導，皆交代完整。扣分在 2 項 P2（「discount rate」措辭與來源口徑不合；Great Moderation「好運」歸因與來源 Luck 節表述有出入）。
 - **術語 3/6**：術語共 78 項，未充分解釋 42 項（未 7＋部分 35）。核心概念（垃圾債、LBO、Greenspan put、Plaza、Great Moderation、reversed pyramids、fallen angels、斷鏈）有完整機制解釋，屬佳；但 federal funds rate、FOMC 等全章核心量具未釋，asset-liability mismatch、control fraud、證券化、jumbo mortgage、反應函數等關鍵詞未釋，部分解釋者達 35 項，首現密度高。
 - **總評**：主線清晰、數據密度全書最高而查核準確率亦高——P1 事實錯僅 1 項（行 199 ERTA 稅切 70%→28%，應為 70%→50%、28% 出自 1986），P2 待查 12 項多為細數/月份/专有名词（鎊 $1.0545、Greenspan 上任月份、mysterious ointment 引語、jumbo mortgage、50-90% 債務佔比等），屬實摘錄涵蓋 27 篇來源的絕大多數關鍵數字。主要修訂工作：（1）修正行 199 ERTA 稅率；（2）首現解釋 7 項未釋術語（federal funds rate、FOMC、asset-liability mismatch、control fraud、證券化、jumbo mortgage、反應函數）；（3）補 2 項 P1 通俗化（利率量具括注、portfolio insurance 提前解釋）；（4）核實 12 項 P2。
+
+## 6. 使用者確認
+
+- 日期：2026-09-18
+- P0：全數核准（本無 P0 項）
+- P1：全數核准（10 項）
+- P2：全數核准（61 項）
+- 備註（使用者原話）：「全部核准」
