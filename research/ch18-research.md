@@ -22,13 +22,13 @@
 ### 2020 年 3 月崩潰（2020 stock market crash）
 - 崩盤期間 2/20-4/7；崩前高點 infobox 2/12 vs 正文 2/19；2/28 10 年期 1.12%、30 年期 1.30%
 - 3/3 FOMC 緊急降息 50bp
-- 3/9 Dow -2,013.76（-7.79%、收 23,851.02）「Black Monday」；3/10 +4.9%（+1,167 點）；3/11 正式進熊市（11 年首次、史上最長牛市結束）
-- 3/12 Dow -2,352.60（-9.99%、收 21,200.62）、跌 7.2% 觸發首個 circuit breaker、NY Fed 3/12-13 放貸 ≥$1.5T；3/13 +9%
+- 3/9 道瓊指數 -2,013.76（-7.79%、收 23,851.02）「Black Monday」；3/10 +4.9%（+1,167 點）；3/11 正式進熊市（11 年首次、史上最長牛市結束）
+- 3/12 道瓊指數 -2,352.60（-9.99%、收 21,200.62）、跌 7.2% 觸發首個 circuit breaker、NY Fed 3/12-13 放貸 ≥$1.5T；3/13 +9%
 - 3/15 Fed 降至 0-0.25%、準備金比率歸零、啟動 $700B QE
-- **3/16 Dow -2,997.10（-12.93%、收 20,188.52）＝史上最大單日點數跌幅**（大於 1929）、VIX 收 82.69＝史上最高收盤、NY Fed $500B repo
-- 3/17 +5%；3/18 Dow 跌破 20,000（該週第 4 次 breaker）、ECB €750B PEPP
-- 3/23 Dow「closed down 600 points after the government stimulus package failed again」、10 年期 0.82%、30 年期 1.34%
-- 3/24 Dow +11%（1933 年來最佳）、Nasdaq +8%、S&P +9%；3/25 參院 96-0 通過 $2.2T；3/26 最大 3 連漲（1931 以來）
+- **3/16 道瓊指數 -2,997.10（-12.93%、收 20,188.52）＝史上最大單日點數跌幅**（大於 1929）、VIX 收 82.69＝史上最高收盤、NY Fed $500B repo
+- 3/17 +5%；3/18 道瓊指數跌破 20,000（該週第 4 次 breaker）、ECB €750B PEPP
+- 3/23 道瓊指數「closed down 600 points after the government stimulus package failed again」、10 年期 0.82%、30 年期 1.34%
+- 3/24 道瓊指數 +11%（1933 年來最佳）、Nasdaq +8%、S&P +9%；3/25 參院 96-0 通過 $2.2T；3/26 最大 3 連漲（1931 以來）
 - 2/19-3/23：FTSE All-Share -33%、MSCI World -34%
 - 2020 收盤：DJIA 30,606、S&P 500 3,756（雙創 all-time high）；MSCI ACWI 645
 - S&P 500 月均（pandemic 檔）：2 月 3,277→3 月 2,652→4 月 2,762→…→11 月 3,694
@@ -39,12 +39,12 @@
 - 流動性工具：PDCF（2020/3 創設）、CPFF（2020/3/17-2021/3/31）
 - Fed 資產負債表（逐字取自語料）：2008 危機前 Fed 僅持 $700-800B 國債、QE1-3 累積 $4.5T 資產（2014-10-29）、QE4 至 2022 年中再增 $2T、2024/8 total $7.139T。（subagent 初報「2021/4/8 $7,708.88B」經 grep 不在語料，棄用）
 - 國際：BOJ 2020/3/16 ETF 年度目標加倍 ¥12T；ECB 2020/3/18 €750B PEPP；BoE 峰值 £895B（2020-11）
-- 2013 taper 先例：6/19 $85B→$65B/月、3 日 Dow -4.3%、-659 點（6/19-24）、收 14,660（Quantitative easing）
+- 2013 taper 先例：6/19 $85B→$65B/月、3 日 道瓊指數 -4.3%、-659 點（6/19-24）、收 14,660（Quantitative easing）
 - 效果爭議：Greenspan 2012-07「very little impact」 vs Stein 2012-10「significant role」（Quantitative easing）
 
 ### 財政刺激（CARES Act、PPP、Consolidated Appropriations Act 2021、American Rescue Plan、2020/2021 US federal budget、United States federal budget）
 - CARES Act $2.2T（≈GDP 10%、史上最大、大於 2009 ARRA $831B）、2020-03-27 簽署、參院 3/25 96-0；CBO 2020-2030 赤字 +$1.7T
-  - 3/22 參院民主黨 47-47 擋案（需 60 票）→ 週一盤前 Dow 期貨觸停擺 -600 點（3/23 暴跌原因）；Rand Paul 陽性、另 4 名共和參議員隔離
+  - 3/22 參院民主黨 47-47 擋案（需 60 票）→ 週一盤前 道瓊指數期貨觸停擺 -600 點（3/23 暴跌原因）；Rand Paul 陽性、另 4 名共和參議員隔離
   - 直接打款 $1,200/人、$2,400/夫妻、$500/17 歲以下小孩；FPUC +$600/週（3/27-7/26）；PEUC +13 週；120 天驅逐禁令（3/27-7/24）
 - Consolidated Appropriations Act 2021：$2.3T（$900B 刺激＋$1.4T omnibus）、2020-12-27 簽署、5,593 頁（國會史上最长）；$600 支票 $166B、+$300/週至 2021-03-14（$120B）
 - PPP：CARES 檔 $349B+$320B=$669B、PPP 檔 $953B（全 program）；單筆上限 $10M、最高 2.5×平均月薪、利率 1%；初始 $349B 4/3-4/16 全額放完（1.8M 筆、4,975 家機構、平均 $206,000、74% ≤$150K「Of all loans, 74 percent were for $150,000 or less」）；全 program ~11.8M 筆；每保存一個 job-year 成本 $169K-$258K（St. Louis Fed）、~3/4 資金流向收入最高五分位（Autor et al.）
@@ -80,7 +80,7 @@
 - 2021 全年 GDP 數字（無）
 - 2021 CPI 4.7%（無；僅 2021 檔稱 2021 為「period of high inflation (2021-2023)」開端）
 - Bitcoin 2020 低點與 2021 ATH $64,863（無；ch18 不寫 BTC 具體價）
-- 2021 Dow/Nasdaq 全年回調具體數字（僅 S&P +26.89%、Nasdaq 引題「best annual return in 11 years」）
+- 2021 道瓊指數/Nasdaq 全年回調具體數字（僅 S&P +26.89%、Nasdaq 引題「best annual return in 11 years」）
 - 「4/13 最快復甦」（無；crash 檔 4/9 後跳至 6/11）
 - S&P 500 3/23 收盤 2,385.14（無）
 - 2020-2021 股票回購數據（無）

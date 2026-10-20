@@ -36,7 +36,7 @@
 9. 1895-02-02 黃金儲備跌至約 4,200 萬美元（遠低於 1875 年《復原法》1 億美元法定線，見第三章 §6）。【來源：en-wiki「Panic of 1893」】
 10. 辛迪加具名 4 家：Drexel, Morgan & Co.、A. Belmont & Co.、J. S. Morgan & Co.（倫敦）、N. M. Rothschild & Sons（完整名單未公開）；手段：向煉銀廠買金、成員以金購公債、恢復信心、非正式資本管制「ship no gold」。【來源：en-wiki「Panic of 1893」】
 11. 350 萬盎司黃金（按官方價 20.67 美元/盎司約 7,200 萬；另一說 6,500 萬）換 30 年期公債；摩根見克利夫蘭：「the U.S. government could default that day」；救活財政部、克利夫蘭在民主黨農民派的政治生涯終結；1896 年布萊恩猛烈攻擊銀行家（「money trust」）、摩根重捐麥奇尼。【來源：en-wiki「J. P. Morgan」「Panic of 1893」】
-12. A. J. 德雷克塞爾 1893-06-30 死於卡爾斯巴德（心臟病發，66 歲）；Drexel, Morgan & Co. 後成為 J. P. Morgan & Co.【來源：en-wiki「Anthony J. Drexel」】
+12. A. J. 德雷克塞爾 1893-06-30 死於卡爾斯巴德（心臟病發，66 歲）；Drexel, Morgan & Co. 後成為 J. P. Morgan & Co.【來源：en-wiki「Anthony Joseph Drexel」】
 
 ## §3 投機的興起（目標 3,000–4,000 字）
 
@@ -50,7 +50,7 @@
 
 ### 3.2 丁格利關稅（1897）
 
-6. 1897-07-24 簽署（ch. 11, 30 Stat. 151）；美國史上最高且最長壽關稅（12 年至 1909）；首年平均約 52%、全期約 47%；糖稅加倍、羊毛與皮革（1872 年來免稅）新課稅；背景＝對 1894 Wilson–Gorman 降稅的反應＋麥奇尼保護主義承諾。【來源：en-wiki「Dingley Tariff」】
+6. 1897-07-24 簽署（ch. 11, 30 Stat. 151）；美國史上最高且最長壽關稅（12 年至 1909）；首年平均約 52%、全期約 47%；糖稅加倍、羊毛與皮革（1872 年來免稅）新課稅；背景＝對 1894 Wilson–Gorman 降稅的反應＋麥奇尼保護主義承諾。【來源：en-wiki「Dingley Act」】
 
 ### 3.3 1900 金本位法（定規則）與 1900 大選
 
@@ -178,5 +178,5 @@
 
 ### 參考來源
 
-1. 英文 Wikipedia（32）：Panic of 1893；Pullman Strike；World's Columbian Exposition；Sherman Silver Purchase Act；Grover Cleveland；J. P. Morgan；Anthony J. Drexel；Drexel Burnham Lambert；Cross of Gold speech；1896 United States presidential election；1900 United States presidential election；Gold Standard Act of 1900；Dingley Tariff；Free Silver；Silver；Spanish–American War；Witwatersrand；Kalgoorlie；History of the steel industry (1850–1970)；Northern Securities Company；Panic of 1907；Knickerbocker Trust Company；Aldrich–Vreeland Act；Dow Jones Industrial Average；List of recessions in the United States；William Jennings Bryan；1893 in the United States；1895 in the United States；1897 in the United States；1904 in the United States；1907 in the United States；United States Treasury。
+1. 英文 Wikipedia（32）：Panic of 1893；Pullman Strike；World's Columbian Exposition；Sherman Silver Purchase Act；Grover Cleveland；J. P. Morgan；Anthony Joseph Drexel；Drexel Burnham Lambert；Cross of Gold speech；1896 United States presidential election；1900 United States presidential election；Gold Standard Act of 1900；Dingley Act；Free silver；Silver；Spanish–American War；Witwatersrand；Kalgoorlie；History of the steel industry (1850–1970)；Northern Securities Company；Panic of 1907；Knickerbocker Trust Company；Aldrich–Vreeland Act；Dow Jones Industrial Average；List of recessions in the United States；William Jennings Bryan；1893 in the United States；1895 in the United States；1897 in the United States；1904 in the United States；1907 in the United States；United States Department of the Treasury。
 2. 本書：第三章（1875 復原法／1879 復兌）、第四章（1873 崩盤）、第五章（1893 前夜、1890 結算所實驗、1893 年 503 家）回指；第七章（1907 主體、1913 聯邦儲備法、一戰）、第十一章（1933 金本位終局）前指。

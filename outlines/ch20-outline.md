@@ -21,7 +21,7 @@
 
 ## §4 頂點與轉折：2024 大選 + AI 超週期 + 比特幣（~3,800，5 小節）
 - 4.1 2024 大選（Trump 312:226、普選 49.80%/77.3M 對 48.3%、first Republican to win popular vote since Bush 2004、掃光 7 搖擺州）
-- 4.2 AI 超週期（Nvidia 3/1 $2T、6/18 $3.3T 全球最貴、180 days、Dow 5/16 破 40,000）
+- 4.2 AI 超週期（Nvidia 3/1 $2T、6/18 $3.3T 全球最貴、180 days、道瓊指數 5/16 破 40,000）
 - 4.3 比特幣制度化（2024-01 現貨 ETF、首日 $4.6B、Trump crypto capital of the planet、12 月 $100K）
 - 4.4 2024 股市（S&P +23.31%/+25.02%、Nasdaq +28.64%、12/11 破 20,000、Magnificent Seven 主導）
 - 4.5 降息開端（2024-09-18 -50bp、first easing in four years、QT $95B→$50B）
@@ -29,8 +29,8 @@
 ## §5 崩潰與危機：2023 銀行業危機 + 2025 關稅崩盤（~3,500，4 小節）
 - 5.1 2023 銀行業危機（Silvergate 3/8、SVB 3/10 $212B/$42B、Signature 3/12 $110B、First Republic 5/1 $104.5B/JPMorgan $10.6B、BTFP 3/12 >$600B、M2 -$224.5B 1959 來最大、UBS 收購 Credit Suisse、Yellen/Powell 全額保護）
 - 5.2 危機機制（低利率→科技存款膨脹→升息→bond convexity、>85% 無保險、social media 擠兌、too big to fail 再確認）
-- 5.3 2025 關稅崩盤（1/20 就任 225 行政令、4/2 Liberation Day highest since Great Depression、4/3 全球崩盤、4/4 Dow -2,231/S&P 週 -9.1% 2020-03 來最差、Nasdaq 入熊市）
-- 5.4 4/9 V 形（中國 125%、其餘 90 天暫停、Nasdaq +12.16% 史上第二、S&P +9.52% 2008-10-28 來最大、Dow 史上最大點數漲幅）
+- 5.3 2025 關稅崩盤（1/20 就任 225 行政令、4/2 Liberation Day highest since Great Depression、4/3 全球崩盤、4/4 道瓊指數 -2,231/S&P 週 -9.1% 2020-03 來最差、Nasdaq 入熊市）
+- 5.4 4/9 V 形（中國 125%、其餘 90 天暫停、Nasdaq +12.16% 史上第二、S&P +9.52% 2008-10-28 來最大、道瓊指數史上最大點數漲幅）
 
 ## §6 後續與制度變革：2025-2026 終局（~3,000，4 小節）
 - 6.1 2025 AI capex 狂潮（Nvidia $500B 美國生產、中東主權資金 沙 $600B/卡 $1.2T/UAE $1.4T、Nvidia $5T 10/29）
@@ -52,7 +52,7 @@
 七、全書收束：1837→2026，投標對象進化但人性不變（投標者永遠在投標）
 
 ## §9 關鍵數據表 + 定性 + 來源（~1,800）
-數據表 ~30 行（S&P/Nasdaq 2022-2024、CPI、FFR 5.25-5.50%、SVB/Signature/FRB、BTFP/M2、ChatGPT、Nvidia 各點、Magnificent Seven 詞源、2024 選舉、BTC ETF/$100K、Liberation Day、4/4 Dow、4/9 Nasdaq、Nvidia $5T、中東主權資金、SpaceX IPO、10 年期/30 年期、FY2024 赤字）+ 定性註記 + 20 來源。
+數據表 ~30 行（S&P/Nasdaq 2022-2024、CPI、FFR 5.25-5.50%、SVB/Signature/FRB、BTFP/M2、ChatGPT、Nvidia 各點、Magnificent Seven 詞源、2024 選舉、BTC ETF/$100K、Liberation Day、4/4 道瓊指數、4/9 Nasdaq、Nvidia $5T、中東主權資金、SpaceX IPO、10 年期/30 年期、FY2024 赤字）+ 定性註記 + 20 來源。
 
 ## 20 來源
 1. 2023 in the United States / 2. 2024 in the United States / 3. 2025 in the United States / 4. 2026 in the United States / 5. Silicon Valley Bank / 6. First Republic Bank / 7. Signature Bank / 8. 2023 United States banking crisis / 9. Jerome Powell / 10. Federal Reserve / 11. Quantitative tightening / 12. Nvidia / 13. Artificial intelligence / 14. ChatGPT / 15. Bitcoin / 16. S&P 500 / 17. Nasdaq Composite / 18. 2024 United States presidential election / 19. Second presidency of Donald Trump / 20. 2024 United States federal budget

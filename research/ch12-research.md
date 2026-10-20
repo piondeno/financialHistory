@@ -34,7 +34,7 @@
 - **1973-75 衰退**：美國 **1973-11（Nixon）至 1975-03（Ford）**；特徵是停滯性通膨（高失業+高通膨同時）；結束二戰後大擴張。失 **230 萬**工作（當時戰後紀錄）；1975-05 失業率頂 **9%**。效應延至 Carter/Reagan 中期；通脹高到 1980s 初。（來源：1973–1975 recession；1975 in the US）
 - **停滯性通膨（stagflation）**：stagnation+inflation 合成詞，一般歸功英國保守派 Iain Macleod（1970 財政大臣），1965 對國會演說（英高通膨+高失業）。成本推動/供給衝擊理論：不利供給衝擊（油價驟升）→成本跳升→總供給曲線左移。（來源：Stagflation；1970s energy crisis）
 - **雙位數通膨**：期間多國通膨雙位數，1977 前後峰值 >20%（部分國）。（來源：1973–1975 recession）
-- **英國 1976 IMF 救助**：UK GDP 衰退後 14 季才復原；1976-03 Wilson 辭、Callaghan 向 IMF 求數十億鎊 bail-out（鎊危機）。（來源：1973–1975 recession）
+- **英國 1976 IMF 救助**：UK GDP 衰退後 14 季才復原；1976-03 Wilson 辭、Callaghan 向 IMF 求數十億英鎊 bail-out（英鎊危機）。（來源：1973–1975 recession）
 - **1976 Jamaica Accords**：IMF 正式承認浮動匯率合法、黃金非貨幣化、SDR 掛貨幣籃——布雷頓森林 de jure 終結（接 ch11 前指）。（來源：International Monetary Fund；Floating exchange rate）
 
 ## §5 崩潰與危機（1979 石油危機）
@@ -72,4 +72,4 @@
 
 ## 來源清單（24）
 
-1973 oil crisis；1970s energy crisis；OPEC；Stagflation；Paul Volcker；1973–1975 recession；Petrodollar recycling；Federal Reserve System；Presidency of Richard Nixon；Iranian Revolution；Floating exchange rate；Petroleum；Oil；Inflation；1972/1973/1974/1975/1976/1977/1978/1979 in the United States（8 份）；1973；1978。（共 24 檔）
+1973 oil crisis；1970s energy crisis；OPEC；Stagflation；Paul Volcker；1973–1975 recession；Petrodollar recycling；Federal Reserve；Presidency of Richard Nixon；Iranian Revolution；Floating exchange rate；Petroleum；Oil；Inflation；1972/1973/1974/1975/1976/1977/1978/1979 in the United States（8 份）；1973；1978。（共 24 檔）

@@ -15,7 +15,7 @@
 - 日本 ZIRP 自 1999、負利率自 2016；ECB 負利率 2014（同上/Quantitative tightening）
 - QE1 2008-11 啟動 $600B MBS→2009-03 $1.75T→2010-06 峰 $2.1T；QE2 2010-11 $600B 國債（Quantitative easing）
 - QE3 2012-09-13 宣布（11 對 1）、開放式 $40B/月 MBS；FFR「near zero at least through 2015」（Quantitative easing）
-- Taper：2013-06-19 Bernanke 宣布；$85B→$65B/月（2013-09）；升息門檻：通膨 2%+失業 6.5%；taper 3 日累計 -4.3%、Dow 6/19-24 累跌 659 點至 14,660（Quantitative easing）
+- Taper：2013-06-19 Bernanke 宣布；$85B→$65B/月（2013-09）；升息門檻：通膨 2%+失業 6.5%；taper 3 日累計 -4.3%、道瓊指數 6/19-24 累跌 659 點至 14,660（Quantitative easing）
 - Greenspan 2012-07：QE「very little impact」；2012 BoE 研究：QE 利益 40% 歸 UK 前 5%；2012 BRICS 譴責 QE「excessive liquidity」（Quantitative easing）
 - QE1-3 合計：銀行在 Fed 存款 +~$4T（Quantitative easing）
 - QT：Fed 2018 啟動、<1 年因市場狀況中止（Bloomberg 2019-08）；「Everything Bubble」（Lachman, The Hill, 2020-05-19）（Quantitative tightening）
@@ -30,12 +30,12 @@
 - Fed 2015 獲利 $100.2B、$97.7B 歸還財政部（Federal Reserve）
 
 ### 道指 / 市場里程碑
-- 2012-02-21 Dow 首次 >13,000（2008-05 以來首次）（2012 in the United States）
-- 2013-03-05 Dow 新高 14,253.77；2013-04-23 AP 推文 flash crash；2013-05-07 Dow 首次 >15,000（15,056.20）；2013-11-21 Dow 首次 16,000（16,009.99）（2013 in the United States）
-- 2017-01-25 Dow 首次破 20,000（2017 in the United States）
-- 2018-02-05 Dow -4.6%（2008 以來最大單日）；2018-07-25/26 Facebook -20%（蒸發 >$109B）；2018-12-21 Dow 22,445.37 最差週（2008 以來）（2018 in the United States）
-- 2019-07-11 Dow 首次 >27,000（2019 in the United States）
-- 2019 in Numbers：GDP $21,439.45B、人均 $65,112、Q3 成長 2.1%、9 月債務 $22.6T、赤字 $984B；年底 S&P 3,230.78、Nasdaq 8,972.60、Dow 28,534.44；S&P +28%（6 年最佳）（2019 in the United States）
+- 2012-02-21 道瓊指數首次 >13,000（2008-05 以來首次）（2012 in the United States）
+- 2013-03-05 道瓊指數新高 14,253.77；2013-04-23 AP 推文 flash crash；2013-05-07 道瓊指數首次 >15,000（15,056.20）；2013-11-21 道瓊指數首次 16,000（16,009.99）（2013 in the United States）
+- 2017-01-25 道瓊指數首次破 20,000（2017 in the United States）
+- 2018-02-05 道瓊指數 -4.6%（2008 以來最大單日）；2018-07-25/26 Facebook -20%（蒸發 >$109B）；2018-12-21 道瓊指數 22,445.37 最差週（2008 以來）（2018 in the United States）
+- 2019-07-11 道瓊指數首次 >27,000（2019 in the United States）
+- 2019 in Numbers：GDP $21,439.45B、人均 $65,112、Q3 成長 2.1%、9 月債務 $22.6T、赤字 $984B；年底 S&P 3,230.78、Nasdaq 8,972.60、道瓊指數 28,534.44；S&P +28%（6 年最佳）（2019 in the United States）
 - 失業率：2014-12 5.6%（2008-06 以來最低）（2014 in US）；2015-10 5%（2008-04 以來最低）（2015 in US）；2019-05-03 3.6%（49 年最低）、2019-12-06 3.5%（50 年最低）（2019 in US）
 
 ### 政治風暴（市場「逢低買進」）
@@ -63,7 +63,7 @@
 - 2014-15 油價崩盤 WTI/Brent 價位（無）
 - 中國經濟減速 GDP 數據（無）
 - Fed 資產負債表 2012-2019 具體數字（僅 2021/2024 有）
-- 2018-11-26 Dow 歷史新高明確點位（僅「最差週 2008 以來」）
+- 2018-11-26 道瓊指數歷史新高明確點位（僅「最差週 2008 以來」）
 - 房價指數 Case-Shiller（無）
 - FAANG 個別股表現（僅 Facebook -20%）
 - 垃圾債利差壓縮數據（無）

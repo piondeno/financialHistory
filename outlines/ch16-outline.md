@@ -20,11 +20,11 @@
 4. **頂點與轉折：2008-09 崩潰高潮**（~2,800）
    - 4.1 Lehman Brothers 9/15（~750）：$613B 債/$155B 公司債/$639B 資產、史上最大破產；未遂 Barclays 收購（英監管否決）、Paulson 怕 Mr. Bailout、Goldman/CS 估淨值負。
    - 4.2 AIG（~650）：Fed 9/16 $85B 接手（CDS 過度賣保護、損失 >$100B）→ 最終 $182.3B（還款 $205B、獲利 $22.7B）；FCIC cascading losses。
-   - 4.3 TARP 政治劇（~700）：9/29 眾院 225-208 否決 EESA（Dow -777.68/-6.98% 史上最大點數、金 $900）；9/20 Paulson heaven help us all；10/1 參院、10/3 眾院通過 Obama 簽 → $700B。
+   - 4.3 TARP 政治劇（~700）：9/29 眾院 225-208 否決 EESA（道瓊指數 -777.68/-6.98% 史上最大點數、金 $900）；9/20 Paulson heaven help us all；10/1 參院、10/3 眾院通過 Obama 簽 → $700B。
    - 4.4 Minsky moment（~700）：批發式恐慌（Gorton wholesale not retail、repo 不展期）；9/7 Fannie/Freddie 接管（$200B 設施）；10/7 存款保險 $100K→$250K。
 5. **崩潰與危機：救市與衰退**（~3,000）
    - 5.1 Fed 與 TARP 救市（~750）：5.25%→0；QE1 11/25 2008 $600B→2009-03 $1.75T→2010-06 $2.1T；TARP 用途 CPP $204.9B/AIG $67.8B/汽車 $79.7B/Citi+BofA 各 $20B；TARP+GSE 流出 $620.3B。
-   - 5.2 衰退谷底（~700）：NBER 2007-12~2009-06（12/1 宣布 Dow -680）；失 8.7M 工、失業 5%→10%（2009-10）；Dow 14,164→6,469.95（2009-03-06）-54%；家庭淨值 -$11.5T；貧窮 12.5%→15.1%。
+   - 5.2 衰退谷底（~700）：NBER 2007-12~2009-06（12/1 宣布 道瓊指數 -680）；失 8.7M 工、失業 5%→10%（2009-10）；道瓊指數 14,164→6,469.95（2009-03-06）-54%；家庭淨值 -$11.5T；貧窮 12.5%→15.1%。
    - 5.3 全球蔓延（~750）：2009Q1 年化 GDP 德 -14.4%/日 -15.2%/UK -7.4%/拉脫 -18%/歐元區 -9.8%/墨 -21.5%；UK RBS（Darling 離失序數小時）；IMF 自 1930 大蕭條以來最嚴峻。
    - 5.4 規模與代價（~800）：一戶四失 75% 淨值、2011 家庭財富中位數 -35%（$106,591→$68,839）、106 家小銀行破產（Stiglitz）、最嚴重 since 大蕭條。
 6. **後續與制度變革：復甦、改革與歐洲主權危機**（~3,500）
@@ -32,7 +32,7 @@
    - 6.2 Dodd-Frank（2010-07-21）（~600）：CFPB、FSOC、Orderly Liquidation、Volcker Rule、衍生中央清算、since New Deal、2018 部分回滾。
    - 6.3 歐洲危機點火：希臘（~700）：2009 末赤字 6-8%→12.7%→15.4%、債務 113%→127% GDP、Goldman FX swap 隱匿、2010-05-01/03 Troika €110B（5.5%）降 junk、2010-05-05 三人死。
    - 6.4 歐洲蔓延與收束（~800）：愛爾蘭 2010-11/葡萄牙 2011-05/西班牙 Bankia €19B 2012-05 + €100B 2012-06/塞浦勒斯 2012-06；EFSF €440B→€780B、ESM €500B（2012-09-27）、防火牆 €750B、LTRO €489B（2011-12-22）；2012-07-26 Draghi whatever it takes、9/6 OMT→收束；2012 歐元區失業 11.6%。
-   - 6.5 美國降級與 fiscal cliff（~750）：2011-08-05 S&P 降 AAA→AA+（首次、1917 以來）、BCCA 8/2 debt ceiling、sequestration、8/8 Dow -635/-5.6%、2012 底 fiscal cliff 和解。
+   - 6.5 美國降級與 fiscal cliff（~750）：2011-08-05 S&P 降 AAA→AA+（首次、1917 以來）、BCCA 8/2 debt ceiling、sequestration、8/8 道瓊指數 -635/-5.6%、2012 底 fiscal cliff 和解。
 7. **深度分析**（~2,300）
    - 7.1 Minsky 與去槓桿（~750）：Minsky meltdown、paradox of deleveraging（Yellen 2009-04-16）、批發式恐慌（Gorton）。
    - 7.2 too-big-to-fail 與 moral hazard（~800）：五大投行結局、Schweikhard 隱性補貼省 $120B（Citi $53B/BofA $32B）、Stiglitz too big to exist、LTCM 1998 先例、Greenspan put→Bernanke put。

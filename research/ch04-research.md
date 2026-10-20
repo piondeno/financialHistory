@@ -68,7 +68,7 @@
 - 復甦：軌道新建 2,665 英里（1878）→11,568 英里（1882）；建築許可 1878–83 增至 2.5 倍；失業率回落至 2.5%。（來源：en-wiki「Long Depression」）
 - 《復原法》：綠背流通 3.82 億美元（1874 年末）→3 億美元（法案後）；1879-01-01 兌付準備 1.33 億美元（對歐債券銷售＋財政盈餘）；最終復匯日定在黃金溢價跌回峰值十分之一之後。（來源：en-wiki「Specie Payment Resumption Act」；ch03 §6）
 - 1877 牛肉出口：前四個月售英量等於此前全年。（來源：en-wiki「Specie Payment Resumption Act」）
-- 1877 年大鐵路罷工：1877-07-14 始於西維吉尼亞州馬丁斯堡（B&O 鐵路一年內第三次減薪），歷時 45 天，涉及逾 10 萬工人；州民兵初期同情工人，西維吉尼亞州州長亨利·M·馬修斯（Henry M. Mathews）向海斯（Hayes）總統請求聯邦援助，海斯派聯邦軍隊；巴爾的摩卡姆登碼頭（Camden Yards）對峙中民兵開火，10 人死亡、25 人受傷；密蘇里州至少 18 人死於衝突。（來源：en-wiki「Panic of 1873」；「History of rail transport in the United States」）
+- 1877 年大鐵路罷工：1877-07-14 始於西維吉尼亞州馬丁斯堡（B&O 鐵路一年內第三次減薪），歷時 45 天，涉及逾 10 萬工人；州民兵初期同情工人，西維吉尼亞州州長亨利·M·馬修斯（Henry M. Mathews）向海斯（Hayes）總統請求聯邦援助，海斯派聯邦軍隊；巴爾的摩卡姆登碼頭（Camden Yards）對峙中民兵開火，10 人死亡、25 人受傷；密蘇里州至少 18 人死於衝突。（來源：en-wiki「Panic of 1873」；「History of rail transportation in the United States」）
 - 1877 年 7 月木材市場崩盤，密西根州破產的木材公司包括 Danaher & Melendy 與 Oliver O. Stanchfield（Ludington）、Cushman, Calkins & Co. 與 Tyson, Sweet & Co.（Manistee）。（來源：en-wiki「Panic of 1873」註 58）
 - 1873 年《鑄幣法》的連鎖效應：減少國內貨幣供給、推高利率、傷害負債農民；「對美國貨幣政策不穩定的認知使投資人迴避長期債務，尤其是長期債券；問題因已進入後期的鐵路熱潮而加劇」；銀價崩落被貿易銀元與 1873 年內華達州維吉尼亞城（Virginia City）大銀礦發現（新投資）部分抵消；「廢銀因此是太平洋兩岸危機的共同要素」。（來源：en-wiki「Panic of 1873」）
 - 自由人儲蓄銀行（Freedman's Savings Bank，1865 年設立）1874 年倒閉。（來源：en-wiki「Long Depression」）

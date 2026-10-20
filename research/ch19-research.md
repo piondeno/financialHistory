@@ -44,10 +44,10 @@
 ### 2022 熊市/大輪動（2022 in the United States、S&P 500）
 - S&P 500 2022：price **-19.44%** / total -18.11%（S&P 500）
 - Meta 2022-02-03 -26.4%、市值 -$230B（**biggest one-day loss in history for a US company**，The Guardian）；2022 全 Meta 估值 -~$700B
-- 2022-09-13 Dow -1,276 點（約 4%、2020-06 來最差）
+- 2022-09-13 道瓊指數 -1,276 點（約 4%、2020-06 來最差）
 - 2022-04-28 Q1 GDP -1.4%（annualized、2020-Q2 來首次收縮，BEA）
 - Musk-Twitter $44B（10/28 完成）、Microsoft-Activision $68.7B（1/18）
-- Nasdaq 2022 -33.1%、Dow 2022 -8.8%：**NOT IN CORPUS**
+- Nasdaq 2022 -33.1%、道瓊指數 2022 -8.8%：**NOT IN CORPUS**
 
 ### 加密冬天（Terra (blockchain)、FTX、Bitcoin、2022 in the United States、2023 in the United States）
 - Terra/Luna：2022-05-09 UST 脫鉤、UST 一週跌至 10 美分、LUNA ATH $119.51→近零、**~$45B 一週蒸發**（Bloomberg 5/13）、Anchor 19.45%、LFG 80,394 BTC（~$2.4B，5/7）、2022-05-25 重發 LUNA（LUNC）、Do Kwon 2023-03-23 蒙特內哥羅被捕、Terraform Labs 2024-01-21 破產
@@ -74,7 +74,7 @@
 3. **GME 漲幅基數**：2021 檔（NYT）「900 times their record low」vs squeeze 檔「30 times the $17.25 start-of-month value」（盤前 >$500/split-adjusted $125、GameStop 檔盤中 $483.00）→ 三者並存、書中註明「基數不同」（record low vs 月初 $17.25）。
 4. **CPI「1981 以來最高」**：語料無此句（只有 record / half a century / 40 years）→ 用「record 9.1%（2022-07）」「40 年最高（2021-11 6.8%）」「half a century」（不寫 since 1981）。
 5. **SVB 規模**：2023 檔「$212B」vs 常見「$180B」→ 採 $212B（2023 in US）。
-6. **Dow 9/13 跌幅**：2022 檔引 CNBC 標題 9/12「1,200 點」vs 條目 9/13「-1,276 點」→ 採 9/13、-1,276。
+6. **道瓊指數 9/13 跌幅**：2022 檔引 CNBC 標題 9/12「1,200 點」vs 條目 9/13「-1,276 點」→ 採 9/13、-1,276。
 7. **Meta 10 月跌幅**：條目 -23% vs CNBC 標題 24% → 採 -23%。
 8. **Koss 套現**：正文 $45M vs 標題 $32M → 採 $45M（正文口徑）。
 9. **ARPA 簽署日**：FY2021 檔「signed March 11, 2021」vs 2021 檔「signed the next day（3/12）」→ 採 3/11（ch18 已用 3/11）。
@@ -82,7 +82,7 @@
 ## NOT IN CORPUS（禁止使用）
 - BTC ATH $64,863（2021-11-10）、BTC 2022-12 低點 $16,534（無；用 6/30 <$19,000）
 - Nasdaq 2021 +21.39%、2022 -33.1%、2023 +54%（無；僅 S&P 有精確 %）
-- Dow 2021、2022 -8.8%（無）
+- 道瓊指數 2021、2022 -8.8%（無）
 - 2021 全年 CPI 4.7%（無；用 2021-11 6.8%、2022-07 9.1%）
 - 2021-07 10 年期 ~0.82%（無）
 - QT「$95B 公債+$60B MBS」拆分明細（無；僅 $95B 總額）

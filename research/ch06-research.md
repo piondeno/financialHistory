@@ -1,13 +1,13 @@
 # ch06 研究筆記（1893–1907）
 
-方法說明：本章研究分兩輪完成（2026-09，subagent 各 2 個）。方法：英文 Wikipedia 全文擷取（en-wiki action=raw，存檔 /tmp/opencode/ch06/，共 40 餘檔），主 session 以 grep 對存檔逐一驗證關鍵日期與數字。主要來源：en-wiki「Panic of 1893」「Pullman Strike」「World's Columbian Exposition」「Sherman Silver Purchase Act」「Grover Cleveland」「J. P. Morgan」「Anthony J. Drexel」「Drexel Burnham Lambert」「Cross of Gold speech」「1896 United States presidential election」「1900 United States presidential election」「Gold Standard Act of 1900」「Dingley Tariff」「Spanish–American War」「Witwatersrand」「Kalgoorlie」「History of the steel industry (1850–1970)」「Northern Securities Company」「Panic of 1907」「Knickerbocker Trust Company」「Aldrich–Vreeland Act」「Dow Jones Industrial Average」「List of recessions in the United States」及年度條目。
+方法說明：本章研究分兩輪完成（2026-09，subagent 各 2 個）。方法：英文 Wikipedia 全文擷取（en-wiki action=raw，存檔 /tmp/opencode/ch06/，共 40 餘檔），主 session 以 grep 對存檔逐一驗證關鍵日期與數字。主要來源：en-wiki「Panic of 1893」「Pullman Strike」「World's Columbian Exposition」「Sherman Silver Purchase Act」「Grover Cleveland」「J. P. Morgan」「Anthony J. Drexel」「Drexel Burnham Lambert」「Cross of Gold speech」「1896 United States presidential election」「1900 United States presidential election」「Gold Standard Act of 1900」「Dingley Act」「Spanish–American War」「Witwatersrand」「Kalgoorlie」「History of the steel industry (1850–1970)」「Northern Securities Company」「Panic of 1907」「Knickerbocker Trust Company」「Aldrich–Vreeland Act」「Dow Jones Industrial Average」「List of recessions in the United States」及年度條目。
 
 ## 關鍵事件與日期
 
 - 1893-05-05：國家繩索公司（National Cordage Company）破產觸發道瓊指數單日下跌 24%；隨後逾 500 家銀行關閉、15,000 家以上企業破產；失業率賓州 25%、紐約 35%、密歇根 43%；底特律市長平格里（Hazen S. Pingree）推出「土豆田計畫」（Potato Patch Plan，社區菜園）。【來源：en-wiki「Panic of 1893」】
 - 1893：北太平洋（NPR）、聯合太平洋（UP）、阿奇森–托皮卡–聖塔菲（AT&SF）三大鐵路破產；全年逾 15,000 家企業與 500 家以上銀行倒閉；恐慌峰值失業率約 17–19%（最高估計）；年底全國四分之一鐵路里程入受託人監理（receivership），美國普查估值近 18 億美元（1876–1910 間最大，比次大的 1884 年多逾 10 億）；1894–95 兩年鐵路僅新增 4,196.4 英里（1878–96 共增 10 萬英里）。【來源：en-wiki「Panic of 1893」】
 - 1893-05-01：芝加哥世博會（World's Columbian Exposition）開幕（1893-05-01 至 10-30；參觀 27,300,000 人；46 國；首設國家館；世界首座摩天輪，高 264 呎）。【來源：en-wiki「World's Columbian Exposition」】
-- 1893-06-30：A. J. 德雷克塞爾（Anthony J. Drexel）死於卡爾斯巴德（Karlsbad，波希米亞，奧匈帝國）心臟病發（66 歲）；其 1871 年創辦之 Drexel, Morgan & Co.「後來成為 J.P. Morgan & Co.」；德雷克塞爾 1891 年創辦費城德雷克塞爾大學。【來源：en-wiki「Anthony J. Drexel」】
+- 1893-06-30：A. J. 德雷克塞爾（Anthony J. Drexel）死於卡爾斯巴德（Karlsbad，波希米亞，奧匈帝國）心臟病發（66 歲）；其 1871 年創辦之 Drexel, Morgan & Co.「後來成為 J.P. Morgan & Co.」；德雷克塞爾 1891 年創辦費城德雷克塞爾大學。【來源：en-wiki「Anthony Joseph Drexel」】
 - 1893-08-07：克利夫蘭召開國會特別會議，目的為廢除《雪曼購銀法》以防黃金儲備進一步耗竭。【來源：en-wiki「Sherman Silver Purchase Act」】
 - 1893-11（廢除投票）：眾議院辯論 15 週後以 239 比 108 通過廢除；參議院經克利夫蘭遊說（說服足夠數量的民主黨人，聯同東部共和黨人）以 48–37 多數通過。【來源：en-wiki「Grover Cleveland」】
 - 1894-05-11 至 07-20：普爾曼罷工（Pullman Strike）。起點：普爾曼公司芝加哥廠約 4,000 名工人，因普爾曼將工資削減 20–30% 而租金與公司商店價格不減而罷工；06-26 迪斯（Debs）與美國鐵路兄弟會（ARU）發起全國杯葛（拒駛裝有普爾曼車廂之列車），四日內 29 條鐵路 125,000 人停工，峰值約 250,000 人、27 州；06-28 克利夫蘭簽署《勞動節》聯邦假日法案（部署軍隊前 5 天）；07-03 夜 12,000 名聯邦軍（邁爾斯（Miles）少將）進入芝加哥（伊利諾州長奧特格爾（Altgeld）要求撤軍）；死亡：芝加哥暴動 30 人（Ginger）＋他州 40 人（Papke）＝70 人，傷 57 人，財產損失逾 8,000 萬美元；迪斯被判 6 個月監禁（克拉倫斯·達羅（Clarence Darrow）辯護），ARU 解散。【來源：en-wiki「Pullman Strike」】
@@ -21,7 +21,7 @@
 - 1895-11-01：美國造幣局停止鑄造銀幣、關閉卡森城（Carson City）造幣廠。【來源：en-wiki「Sherman Silver Purchase Act」】
 - 1896-07-09：《黃金十字架》演說（芝加哥民主黨全國大會第三日）：「Having behind us the producing masses of this nation and the world, supported by the commercial interests, the laboring interests, and the toilers everywhere, we will answer their demand for a gold standard by saying to them: "You shall not press down upon the brow of labor this crown of thorns; you shall not crucify mankind upon a cross of gold."」布萊恩以第 5 輪獲得提名（8 人入圍，布蘭德（Bland）前三輪領先）。【來源：en-wiki「Cross of Gold speech」「1896 United States presidential election」】
 - 1896 大選：麥奇尼 271 張選舉人票／7,112,138 普選票（51.0%）vs 布萊恩 176／6,510,807（46.7%）；勝利差距 602,500 票（條目內各州表作 601,331【矛盾】）；投票率 79.6%；1876 年以來首位獲得全民票多數的候選人；加州、肯塔基、俄亥俄、俄勒岡四州 53,000 票的位移即足以翻盤；fusion 聯合提名人選在 10 州成功、27 位選舉人投布萊恩–沃森（Watson）；布萊恩 100 天內逾 500 場演說、單日紀錄 36 場（聖路易）、乘火車 18,000 英里、對 500 萬人發聲；漢納（Mark Hanna）募款 350 萬美元（支出約 5 倍於民主黨）、組織 14,000 名講者。【來源：en-wiki「1896 United States presidential election」】
-- 1897-07-24：《丁格利關稅法》（Dingley Tariff，ch. 11, 30 Stat. 151）簽署；美國史上最高且最長壽關稅（實施 12 年至 1909）；首年平均關稅約 52%、全期約 47%；糖稅率加倍、羊毛與皮革（1872 年以來免稅）新課稅。【來源：en-wiki「Dingley Tariff」】
+- 1897-07-24：《丁格利關稅法》（Dingley Tariff，ch. 11, 30 Stat. 151）簽署；美國史上最高且最長壽關稅（實施 12 年至 1909）；首年平均關稅約 52%、全期約 47%；糖稅率加倍、羊毛與皮革（1872 年以來免稅）新課稅。【來源：en-wiki「Dingley Act」】
 - 1898-04-21 至 08-13：美西戰爭（Spanish–American War）（04-21 封鎖古巴、04-25 國會正式宣戰；Maine 號 02-15 沉沒；05-01 馬尼拉海峽戰；《巴黎和約》12-10 簽署：波多黎各、關島、菲律賓割讓美國，付 2,000 萬美元購菲；美國成為世界大國並擁有跨大洲島嶼領土）。【來源：en-wiki「Spanish–American War」】
 - 1900-03-14：《金本位法》（Gold Standard Act of 1900）由麥奇尼簽署：1 美元＝25.8 格令 90% 純金（＝23.22 格令純金）≈20.67 美元/金衡盎司；正式化 1873 年《鑄幣法》（廢銀）＋1875 年《復原法》所建立的實質金本位；銀幣與銀憑證以面值流通為法定貨幣（fiat）、不可兌金；眾議院 192–152（1899-12-18）、參議院 44–26（1900-03-06）、眾議院 172–127（1900-03-13）；1933 年 3 月（羅斯福）廢除。【來源：en-wiki「Gold Standard Act of 1900」】
 - 1900 大選：麥奇尼 292 張選舉人票／7,228,864 票（51.64%）vs 布萊恩 155／6,370,932（45.52%）；繼 1872 年格蘭特（Grant）後首位連任總統；贏得 28 州；副手為西奧多·羅斯福（Theodore Roosevelt）。【來源：en-wiki「1900 United States presidential election」】
@@ -65,7 +65,7 @@
 - 1896 大選：271/176 選舉人票；7,112,138（51.0%）/6,510,807（46.7%）；差距 602,500（一說 601,331）；投票率 79.6%。（來源：en-wiki「1896 United States presidential election」）
 - 1900 金本位法：1 美元＝23.22 格令純金≈20.67/oz；票數 192–152（1899-12-18）/44–26（1900-03-06）/172–127（1900-03-13）。（來源：en-wiki「Gold Standard Act of 1900」）
 - 1900 大選：292/155；7,228,864（51.64%）/6,370,932（45.52%）。（來源：en-wiki「1900 United States presidential election」）
-- Dingley 關稅：首年約 52%、全期約 47%（1897–1909）。（來源：en-wiki「Dingley Tariff」）
+- Dingley 關稅：首年約 52%、全期約 47%（1897–1909）。（來源：en-wiki「Dingley Act」）
 - 道瓊 1903–07：49.11（−23.61%）/69.61（+41.74%）/96.20（+38.20%）/94.35（−1.92%）/58.75（−37.73%）；1907-11-15 谷底 53（自 1906-01 高 103 跌 48%）。（來源：en-wiki「Dow Jones Industrial Average」「Panic of 1907」）
 - 1907-10-22：Knickerbocker 不到 3 小時提走 800 萬美元、午前停業；10-24 14 位行長 16 分鐘承諾 2,360 萬美元。（來源：en-wiki「Panic of 1907」）
 - 1907 前十年信託資產 +244%（國有銀行 +97%、紐約州銀行 +82%）。（來源：en-wiki「Panic of 1907」）
@@ -108,7 +108,7 @@
 
 ## 參考來源
 
-1. 英文 Wikipedia（32）：Panic of 1893；Pullman Strike；World's Columbian Exposition；Sherman Silver Purchase Act；Grover Cleveland；J. P. Morgan；Anthony J. Drexel；Drexel Burnham Lambert；Cross of Gold speech；1896 United States presidential election；1900 United States presidential election；Gold Standard Act of 1900；Dingley Tariff；Free Silver；Silver；Spanish–American War；Witwatersrand；Kalgoorlie；History of the steel industry (1850–1970)；Northern Securities Company；Panic of 1907；Knickerbocker Trust Company；Aldrich–Vreeland Act；Dow Jones Industrial Average；List of recessions in the United States；William Jennings Bryan；1893 in the United States；1895 in the United States；1897 in the United States；1904 in the United States；1907 in the United States；United States Treasury。
+1. 英文 Wikipedia（32）：Panic of 1893；Pullman Strike；World's Columbian Exposition；Sherman Silver Purchase Act；Grover Cleveland；J. P. Morgan；Anthony Joseph Drexel；Drexel Burnham Lambert；Cross of Gold speech；1896 United States presidential election；1900 United States presidential election；Gold Standard Act of 1900；Dingley Act；Free silver；Silver；Spanish–American War；Witwatersrand；Kalgoorlie；History of the steel industry (1850–1970)；Northern Securities Company；Panic of 1907；Knickerbocker Trust Company；Aldrich–Vreeland Act；Dow Jones Industrial Average；List of recessions in the United States；William Jennings Bryan；1893 in the United States；1895 in the United States；1897 in the United States；1904 in the United States；1907 in the United States；United States Department of the Treasury。
 2. 本書：第三章（1875 復原法／1879 復兌）、第四章（1873 崩盤）、第五章（1893 前夜、1890 結算所實驗、1893 年 503 家）回指；第七章（1907 恐慌主體、11-02 摩根晚宴、1908 奧德里奇–弗里蘭法、1913 聯邦儲備法、一戰）前指。
 
 無未決項。

@@ -136,7 +136,7 @@
 - 2006-05 JPMorgan 警告客戶房市下行、止損上升、尤其次貸；2006-11 UBS 警告「美國房市即將來臨的危機」。（2008 financial crisis）
 - 2006-08 殖利率曲線倒掛（Cleveland Fed：一兩年內很可能衰退）。（2008 financial crisis）
 - 2006-01-18 AIG COO Donald Kanak「個人原因」辭職（伏筆，不寫救援額）。（2006 in US）
-- 2006-10 失業 4.4%（2001-05 以來最低）；Dow 10-03 收 11,727.34（6 年新高）、10-19 首破 12,000。（2006 in US）
+- 2006-10 失業 4.4%（2001-05 以來最低）；道瓊指數 10-03 收 11,727.34（6 年新高）、10-19 首破 12,000。（2006 in US）
 ### 6.2 2007 爆發：New Century、Bear、BNP Paribas
 - 2007-04-02 New Century（次貸 REIT）申請第 11 章——「由此擴散為次貸危機」。（2008 financial crisis）
 - 2007-06-20 Bear 在 margin call 後救兩個對沖基金（$20B CDO 曝險）、7/31 兩基金清算（Zandi：「最直接的催化劑」）。（Subprime）
@@ -146,7 +146,7 @@
 - 2007-07-30 德國 IKB——「危機第一家銀行犧牲品」、KfW 救援（傳至歐洲）。（2008 financial crisis）
 - 2007-09-14 Northern Rock 獲英央行支持→銀行擠兌（2008-02-22 國有化、成本 £87B/$150B）。（2008 financial crisis）
 - 2007-09-18 Fed 首度從 5.25% 峰頂降 50bp；2007-12-12 TAF 啟用。（2008 financial crisis、Federal Reserve）
-- 2007-10-09 Dow 收 14,164.53——危機前最後收盤高。（2008 financial crisis）
+- 2007-10-09 道瓊指數收 14,164.53——危機前最後收盤高。（2008 financial crisis）
 - Greenspan 2007-09-16/17（FT）承認「房市有泡沫」、2007-09-13「我直到 2005 底 2006 才真正看清」。（Greenspan）
 ### 6.4 「批發式恐慌」與 Minsky 時刻
 - Gorton：2008=「批發式恐慌、非零售式恐慌」——金融機構經 repo 互相跑單。（Great Recession）
@@ -210,7 +210,7 @@
 | 止損 | 1.26M（2006）→2.3M（2008） |
 | 投槓桿 | 最高 40:1；五大投銀 FY2007 負債 >$4.1T |
 | 金融業債務 | $3T（1978）→$36T（2007） |
-| 2007 危機 | New Century 4/2 破產；BNP Paribas 8/9 流動性蒸發；Northern Rock 9/14 擠兌；Dow 最後高 14,164.53（10/9） |
+| 2007 危機 | New Century 4/2 破產；BNP Paribas 8/9 流動性蒸發；Northern Rock 9/14 擠兌；道瓊指數最後高 14,164.53（10/9） |
 
 ## 參考來源（en-wiki，全部實際引用於正文）
 - 1998 Russian financial crisis

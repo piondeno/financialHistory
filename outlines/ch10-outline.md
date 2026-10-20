@@ -6,8 +6,8 @@
 2. 投機主線：戰時投機被制度全面接管——股票市場在 1940-45 間「 largely dormant」（非語料，改寫：戰時無自由投機空間）；真正的「投機」變成三件事：（1）戰債 $185B/8,500 萬人＝史上最大眾包債務＋延後消費裝置（戰後到期即購買力）；（2）凍價下的黑市與配給券套利（二手品自由重定價、券黑市、香菸當貨幣）；（3）戰後「GI 金錢」爆炸（儲蓄 7 倍、消費 $61.7B→$98.5B）在 1946-48 釋放——投機從華爾街的槓桿變成「制度壓住的購買力」，而 1946-48 就是壓力解除的瞬間。【來源：en-wiki「War bond」「Rationing in the United States」「Office of Price Administration」】
 3. 制度線：1939-11 中立法→1941 Lend-Lease/珍珠港/EO 8875（凍資產）→1942 OPA+WPB（價管+產能管制）→1944-07-01~22 布雷頓森林會議→1945-07-31 Bretton Woods Agreements Act/1945-12-27 IMF 成立→1947-07-26 NSA（國防部/CIA/NSC）→1948-04-03 馬歇爾計劃/1948-06-20 德國 DM 改革。【來源：en-wiki「Lend-Lease」「Office of Price Administration」「Bretton Woods Conference」「National Security Act of 1947」「Marshall Plan」「Deutsche Mark」】
 4. 與 ch09 銜接：ch09 止於 1939-11（Neutrality Act、cash-and-carry；1940 GNP 113.0 已超 1929 101.4 但就業未復）；本章 §2 自 1939-09 德侵波蘭、11/4 中立法寫起（接 ch09 §2.8 末）。ch09 末句「直到戰爭替它收尾」——本章寫「戰爭如何收尾、並如何把制度重寫成美元霸權」。
-5. 與 ch11 銜接：本章寫到 1948 底（德國 DM 改革、柏林封鎖、馬歇爾 1948-04 啟動、美元霸權定盤、1949-09-18 鎊貶值為前指）；布雷頓森林體系的「隱憂→瓦解」（Triffin 1960、Nixon Shock 1971-08-15、Jamaica Accords 1976）與 1949-58 冷戰貨幣戰轉第十一章；1948 的「美元缺口→美元過剩」是 ch11 的起點。
-6. 本章評判：1941 考制度「能不能在戰爭中融資」（能——稅基從 10% 到近全民 + 戰債 $185B + 儲蓄 7 倍，且用價管把通膨稅藏進未來）；1944 考「戰後貨幣秩序由誰定」（美國——以壓倒性經濟/軍事力把鎊推出中心、把美元釘金）；1946 考「管制解除後通膨會不會爆」（會——凍結的購買力在 1946-06 一次噴出、食品 +14%）；1948 考「布雷頓森林能不能自給流動性」（不能——IMF/IBRD 僅 $570M 可貸、須靠馬歇爾填美元缺口）。十年之間，投機從華爾街的槓桿、變成制度的槓桿、再變成「制度壓住的購買力」——而 1948 底，一個以美元為錨、以馬歇爾為泵、以冷戰為盾的秩序定盤，把投機的對手方從個人、從制度，變成了一個超級大國。
+5. 與 ch11 銜接：本章寫到 1948 底（德國 DM 改革、柏林封鎖、馬歇爾 1948-04 啟動、美元霸權定盤、1949-09-18 英鎊貶值為前指）；布雷頓森林體系的「隱憂→瓦解」（Triffin 1960、Nixon Shock 1971-08-15、Jamaica Accords 1976）與 1949-58 冷戰貨幣戰轉第十一章；1948 的「美元缺口→美元過剩」是 ch11 的起點。
+6. 本章評判：1941 考制度「能不能在戰爭中融資」（能——稅基從 10% 到近全民 + 戰債 $185B + 儲蓄 7 倍，且用價管把通膨稅藏進未來）；1944 考「戰後貨幣秩序由誰定」（美國——以壓倒性經濟/軍事力把英鎊推出中心、把美元釘金）；1946 考「管制解除後通膨會不會爆」（會——凍結的購買力在 1946-06 一次噴出、食品 +14%）；1948 考「布雷頓森林能不能自給流動性」（不能——IMF/IBRD 僅 $570M 可貸、須靠馬歇爾填美元缺口）。十年之間，投機從華爾街的槓桿、變成制度的槓桿、再變成「制度壓住的購買力」——而 1948 底，一個以美元為錨、以馬歇爾為泵、以冷戰為盾的秩序定盤，把投機的對手方從個人、從制度，變成了一個超級大國。
 
 ## §1 本章摘要（400–500 字）
 
@@ -110,7 +110,7 @@
 
 ### 4.3 二次頂峰（1946–47）
 9. 1946-06 OPA 停→食品 +14%、成本 +6%（>100% 年化）；1946 罷工潮（鐵路 5/23、煤礦 5/29、GE 2/28、St. Paul 11/25）；1946-11-06 共和黨兩院全取。
-10. 1947 美元缺口、IMF/IBRD 自認無能；1947 乾旱 1,500 kcal；1947-07 鎊可兌換危機（8/20 暫停）。
+10. 1947 美元缺口、IMF/IBRD 自認無能；1947 乾旱 1,500 kcal；1947-07 英鎊可兌換危機（8/20 暫停）。
 
 ## §5 崩潰與危機（4000–5000 字）
 
@@ -131,7 +131,7 @@
 10. 「Postwar world capitalism suffered from a dollar shortage [dollar gap]」；美貿易順差、儲備「immense and growing」、美元須流出。
 11. IMF 信貸「clearly insufficient」；IMF 限常帳赤字；IBRD 僅美份 $570M 可貸、債券僅華爾街可銷→保守；「By 1947 the IMF and the IBRD themselves were admitting that they could not deal」。
 12. 1946-47 乾旱 + 嚴冬：歐洲 ≤1,500 kcal/日；1947 歐農業 83%/工業 88%/出口 59%。
-13. 1947-07-15 華府要求鎊可兌換→「severe financial crisis for Britain」→1947-08-20 暫停；1950 美重整軍備 + 韓戰終結美元缺口。
+13. 1947-07-15 華府要求英鎊可兌換→「severe financial crisis for Britain」→1947-08-20 暫停；1950 美重整軍備 + 韓戰終結美元缺口。
 14. 1947-05-22 Truman Doctrine 法案 $400M；1947-06-23 參院推翻 Truman 對 Taft-Hartley 否決（回應 1946-47 罷工潮）。
 15. BoP 視框：1945-71 固定可調匯率 + 美元錨金＝「Golden Age of Capitalism」；~24 次 BoP 危機。
 
@@ -161,7 +161,7 @@
 3. $35/oz、$1=13 5/7 粒、±1% 帶；Bretton Woods Agreements Act（Pub. L. 79-171）1945-07-31；80% 資本達標 1945-12-27；首屆 1946-03-08→18 薩凡納（蘇缺席、1992 加入）。
 4. 貿易柱：ITO Havana Charter（1948-03）美參院未批→GATT→WTO（1995）；BIS 爭議（1948 擱置）。
 5. Keynes ICU/bancor（1941 提）vs White 案；美以經濟/軍事力勝；White 案「not merely to secure... world economic domination of the United States, but to ensure that... Britain would be shuffled even further from centre stage」。
-6. 鎊出局：「not up to the challenge... weakness of the British economy」；兩戰毀英產業；1944 英銀稱「the greatest blow to Britain next to the war」；1945-12-06 美 $4.4B 後英議會始批。
+6. 英鎊出局：「not up to the challenge... weakness of the British economy」；兩戰毀英產業；1944 英銀稱「the greatest blow to Britain next to the war」；1945-12-06 美 $4.4B 後英議會始批。
 
 ### 6.2 IMF
 7. 1944-07-22 設；White 想像「more like a bank」、Keynes 想像合作基金；White 案多勝。
@@ -208,7 +208,7 @@
 10. 為何非純金：「gold production was not even sufficient」「sizable share... in the Soviet Union」。
 11. 為何美元：「The only currency strong enough... was the U.S. dollar」；$35/oz + 美承諾兌金使「dollar as good as gold」。
 12. Keynes bancor vs White 案；美「absolutely no」勝；「overwhelming economic and military power... largely agreed on White's plan」；White 案「secure... world economic domination... push Britain further from centre stage」。
-13. 鎊出局：「weakness of the British economy」；「greatest blow to Britain next to the war」；1945-12-06 $4.4B 後英議會始批。
+13. 英鎊出局：「weakness of the British economy」；「greatest blow to Britain next to the war」；1945-12-06 $4.4B 後英議會始批。
 14. 美戰略動機：「Without a strong European market... the U.S. economy would be unable to sustain the prosperity」「concerned that a sudden drop-off in war spending might return... unemployment levels of the 1930s」→自由貿易 + 可兌換；Hull「economic security」。
 15. 凡爾賽教訓：一戰債鏈（盟債英、英債美、德收費）→「unrecoverable loans... culminated in the 1931 banking crisis... worldwide economic depression」。
 16. 內嵌設計：固定匯率 + 資本管制；「Flows of speculative international finance were curtailed... investment went into FDI... rather than international currency manipulation or bond markets」。
@@ -216,15 +216,15 @@
 18. 內建矛盾（美元缺口）：給世界美元須逆差、逆差侵蝕金 backing（Triffin 1960）。
 19. 蘇退出：出席拒批、斥「branches of Wall Street」；Morgenthau/Roosevelt 欲五大、蘇不加入 IMF。
 20. Keynes 判定（DeLong）：「on almost every point where he was overruled by the Americans, Keynes was later proved correct by events」。
-21. 分析：為何美元成儲備幣（純金不可行 + 鎊經濟失格 + 美唯一大得足以供流動性 + 美對歐進口有國內需求）；三元困境（固定匯率 + 國內自主，以關資本流動換得；僅在美順差 + 資本管制守住時穩定）；「美元帝國主義」三層（權力 + 約束不對稱 + 債權人特權）；Keynes vs White 為體系 DNA（White 無使美輸出美元工具→1947-48 美元缺口＝預測失效模式）；戰後共識＝「Golden Age of Capitalism」「embedded liberalism」。
+21. 分析：為何美元成儲備幣（純金不可行 + 英鎊經濟失格 + 美唯一大得足以供流動性 + 美對歐進口有國內需求）；三元困境（固定匯率 + 國內自主，以關資本流動換得；僅在美順差 + 資本管制守住時穩定）；「美元帝國主義」三層（權力 + 約束不對稱 + 債權人特權）；Keynes vs White 為體系 DNA（White 無使美輸出美元工具→1947-48 美元缺口＝預測失效模式）；戰後共識＝「Golden Age of Capitalism」「embedded liberalism」。
 
 ### 7.4 1948 轉折點
 22. 1948-06-20 德 DM（Erhard）：1:10、DM 40-60/人、90% 舊債 + 儲抹除、解凍物價、15% 工資 vs 25% 物價；同 $1.4B 馬歇爾（主要投資）；「overnight consumer goods appeared」；夏罷工 + Stuttgart（美坦克）。
 23. 1948-06-24 Berlin Blockade（蘇切斷西柏林，由貨幣改革引發）；Operation Vittles；DM 同發西柏林；Ostmark 數日後。
 24. 1948-04-03 馬歇爾簽；UK ~26%/法 18%/西德 11%；83% 在美花；$1.2B 貸。
-25. 1947 制度包（生效至 1948）：NSA 1947-07-26 簽、1947-09-18 生效；1947-05-22 Truman Doctrine；1947-07-15/08-20 鎊可兌換危機；1948-07-20 第二次平戰兵役；1948-11-02 Truman 連任。
-26. 「By 1950, American rearmament and heavy spending on the Korean War and Cold War finally ended the dollar shortage」；1949-09-18 鎊貶值。
-27. 分析：1948 以四個互鎖動作鎖死秩序——（1）貨幣：DM 創硬幣錨 + 刪 90% 債務 + $1.4B 馬歇爾轉出口引擎，即刻成本為 Berlin Blockade（貨幣地圖先於政治地圖）；（2）流動性：馬歇爾供布雷頓森林機構不能給的流動性、1947-58 刻意逆差輸出美元（把「美元缺口」轉為「美元過剩」）；83% 在美花＝「援助」同時重建 + 保證美貨市場；（3）鎊退出：1947 可兌換危機 + 1949 貶值經驗上證明鎊不能錨定、美元壟斷無爭議；（4）安全：NSA + 平戰兵役制度化冷戰國家、保證美元秩序軍事底座（Pax Americana）。1948 未解者＝紀律順差國之機制（Triffin 1960）＝ 1948 至 1971 之潛在缺陷。
+25. 1947 制度包（生效至 1948）：NSA 1947-07-26 簽、1947-09-18 生效；1947-05-22 Truman Doctrine；1947-07-15/08-20 英鎊可兌換危機；1948-07-20 第二次平戰兵役；1948-11-02 Truman 連任。
+26. 「By 1950, American rearmament and heavy spending on the Korean War and Cold War finally ended the dollar shortage」；1949-09-18 英鎊貶值。
+27. 分析：1948 以四個互鎖動作鎖死秩序——（1）貨幣：DM 創硬幣錨 + 刪 90% 債務 + $1.4B 馬歇爾轉出口引擎，即刻成本為 Berlin Blockade（貨幣地圖先於政治地圖）；（2）流動性：馬歇爾供布雷頓森林機構不能給的流動性、1947-58 刻意逆差輸出美元（把「美元缺口」轉為「美元過剩」）；83% 在美花＝「援助」同時重建 + 保證美貨市場；（3）英鎊退出：1947 可兌換危機 + 1949 貶值經驗上證明英鎊不能錨定、美元壟斷無爭議；（4）安全：NSA + 平戰兵役制度化冷戰國家、保證美元秩序軍事底座（Pax Americana）。1948 未解者＝紀律順差國之機制（Triffin 1960）＝ 1948 至 1971 之潛在缺陷。
 
 ## §8 評判與評斷（2500–3000 字）
 
@@ -234,7 +234,7 @@
 - 判定：1941 的制度答卷是「能」——但它用了一個代價：把通膨稅藏進未來（價管 + 配讓戰時「moderate inflation」、真正的帳單留給 1946）。
 
 二、1944：布雷頓森林＝美元霸權的憲法（1944–1945）
-- 美以「overwhelming economic and military power」把鎊推出中心、把美元釘金（$35/oz）；IMF 設華府、美持 1/3 否決權、占世界金 2/3。
+- 美以「overwhelming economic and military power」把英鎊推出中心、把美元釘金（$35/oz）；IMF 設華府、美持 1/3 否決權、占世界金 2/3。
 - Keynes bancor 被否（「absolutely no」）：世界最大債權國的權力動作；White 案明言要「push Britain further from centre stage」。
 - 但制度自帶缺陷：無儲備創造機制、"fundamental disequilibrium" 未定義、過度假設 5 年過渡——1944 的憲法預先寫好了 1971 的結語。
 - 判定：1944 是 1944 以來制度第一次「由一個國家主導設計」的國際貨幣秩序——投機的對手方從個人（ch08）、從制度（ch09），變成了一個超級大國。
@@ -246,7 +246,7 @@
 
 四、1948：冷戰秩序定盤（1947–1948）
 - 1947：Truman Doctrine（3/12）+ NSA（7/26）+ 美元缺口（IMF/IBRD 自認無能）；1948：馬歇爾（4/3）+ 德國 DM（6/20）+ 柏林封鎖（6/24）+ Truman 連任（11/2）。
-- 1948 底戰後秩序有其儲備幣（美元）、流動性泵（馬歇爾）、錨經濟（改革後西德 + 馬歇爾西歐）、安全架構（NSA + 平戰兵役）；1949-09-18 鎊貶值為最後印證。
+- 1948 底戰後秩序有其儲備幣（美元）、流動性泵（馬歇爾）、錨經濟（改革後西德 + 馬歇爾西歐）、安全架構（NSA + 平戰兵役）；1949-09-18 英鎊貶值為最後印證。
 - 投機在 1948 年的狀態：戰債到期轉購買力、凍價解除、黑市被 DM 改革「合法化」（解凍物價）、布雷頓森林資本管制仍鎖住國際資本帳——投機的對手方是「一個以冷戰為盾、以美元為錨、以馬歇爾為泵的超級大國」。
 - 判定：1948 是 ch10 的終點、ch11 的起點——1948 未解者（紀律順差國的機制）即 1949-1971 的「美元缺口→美元過剩」，也是 Triffin（1960）與 Nixon（1971）的預題。
 

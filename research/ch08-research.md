@@ -150,7 +150,7 @@
 - 1929-09-03 收盤峰 381.17；直到 1954-11-23 收盤才重新站上（25 年）；「not reach again until November 1954」【Wall Street crash；1929 in the US】
 - 1929-10-24（Black Thursday）：創紀錄 12.9M 股；開盤「lost 11% of its value at the opening bell」；前三分鐘約 3M 股（$2B 資產）易手；電報行情滯後數小時；Lamont/Wiggin/Mitchell 會商；Richard Whitney 掛「25,000 shares of U.S. Steel at $205」；收盤「down only 6.38 points (2.09%)」【Wall Street crash】
 - 1929-10-28（Black Monday）：margin calls 觸發拋售；「a record single-day Dow loss of 38.33 points, or 12.82%」；收 260.64【同】
-- 1929-10-29（Black Tuesday）：16.4M 股；「Around $14 billion of stock value was lost」；「some stocks having no buyers at any price」；Dow −30.57（11.73%）；兩日合計 −68.90（23.05%）；收 230.07；Durant 與 Rockefeller 家族買股示穩；行情電報播至 19:45【同】
+- 1929-10-29（Black Tuesday）：16.4M 股；「Around $14 billion of stock value was lost」；「some stocks having no buyers at any price」；道瓊指數 −30.57（11.73%）；兩日合計 −68.90（23.05%）；收 230.07；Durant 與 Rockefeller 家族買股示穩；行情電報播至 19:45【同】
 - 1929-10-24 銀行家買盤＝「a strategy used during the Panic of 1907」【同】
 - 1929-10-30：反彈 +28.40（+12.34%）收 258.47；1929-11-13 間底 198.60【同】
 - 貨幣供給 1929-10 −10.28%（前月 +6.73%）【同】

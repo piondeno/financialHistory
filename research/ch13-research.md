@@ -43,7 +43,7 @@
 
 ## §4 頂點與轉折（1985-87：泡沫化）
 
-- **強美元與貿易逆差**：Volcker 緊貨幣＋Reagan 擴張財政（1981-84）→長利率升、資本流入、**美元 1980-85 升值 ~50%**（對日圓/德鎊/法郎/鎊）。1985-03 美元對鎊創歷史新高（鎊 $1.0545 歷史低、30 年未破）。美國貿易逆差達 **3.5% GDP**。（來源：Plaza Accord）
+- **強美元與貿易逆差**：Volcker 緊貨幣＋Reagan 擴張財政（1981-84）→長利率升、資本流入、**美元 1980-85 升值 ~50%**（對日圓/德馬克/法郎/英鎊）。1985-03 美元對英鎊創歷史新高（英鎊 $1.0545 歷史低、30 年未破）。美國貿易逆差達 **3.5% GDP**。（來源：Plaza Accord）
 - **保護主義壓力**：強美元重創美國製造（汽車/穀物/Caterpillar/IBM/Motorola），製造/農/出口商聯手推保護主義法案；白宮為避關稅而啟動 Plaza 談判。Donald Regan（Treasury）、Beryl Sprinkel 原反對干預（視強美元為信心投票）；1985-01 **James Baker** 接任 Treasury、態度轉。（來源：Plaza Accord）
 - **1985-09 Plaza Accord**：1985-09-22（週日）Plaza Hotel（NYC），五國（法 Bérégovoy／德 Stoltenberg／日 Takeshita／英 Lawson／美 Baker）簽協議「**有序讓非美元貨幣升值是可取的**」、承諾更緊密合作干預。週一（09-23）公布、美元當週跌 4%。目的：貶美元、縮逆差。（來源：Plaza Accord）
 - **Plaza 效應**：前兩年美國逆差惡化（進口價漲>量減）、其後逆差降；對西歐逆差縮、**對日逆差未縮**（結構性、日本進口限制）。強美元→日本升圓→日本政府以**大規模擴張性貨幣/財政**回應→**日本資產泡沫（1980s 末）**（伏筆 ch14）。1987-02 **Louvre Accord** 止住美元續跌。（來源：Plaza Accord）
@@ -122,4 +122,4 @@
 
 ### 參考來源（en-wiki）
 
-Early 1980s recession in the United States；Paul Volcker；Reaganomics；Presidency of Ronald Reagan；Black Monday (1987)；Plaza Accord；Leveraged buyout；High-yield debt；Deregulation；Great Moderation；Federal Reserve System；Inflation；Stagflation；1979/1980/1981/1982/1983/1984/1985/1986/1987 in the United States；1980/1981/1982/1983/1984/1985/1986/1987；1980s。
+Early 1980s recession in the United States；Paul Volcker；Reaganomics；Presidency of Ronald Reagan；Black Monday (1987)；Plaza Accord；Leveraged buyout；High-yield debt；Deregulation；Great Moderation；Federal Reserve；Inflation；Stagflation；1979/1980/1981/1982/1983/1984/1985/1986/1987 in the United States；1980/1981/1982/1983/1984/1985/1986/1987；1980s。

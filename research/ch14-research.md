@@ -29,7 +29,7 @@
 - 政策轉：進口替代→出口導向/新自由（IMF 鼓勵）；例外智利、哥斯大黎加。Paris Club 1988 首次部分減債；Brady 1988-09-15 任美財長（接 Baker）；La Década Perdida。（Latin American debt crisis、1988 in US）
 
 ### Plaza/Louvre
-- Plaza 1985-09-22、NYC Plaza Hotel；法/西德/日/英/美協調貶美元（vs 法郎/馬克/日圓/鎊）；背景：1980-85 美元升 ~50%、1985-03 美元對鎊史高、美经常逆差 3.5% GDP；17 Jan 1985 G5（Baker）、德 2-3 月大賣美元、4 月 OECD、7-8 月 G5 副手備；公告「有序讓非美元升值」、隔週一美元 -4%。（Plaza Accord）
+- Plaza 1985-09-22、NYC Plaza Hotel；法/西德/日/英/美協調貶美元（vs 法郎/馬克/日圓/英鎊）；背景：1980-85 美元升 ~50%、1985-03 美元對英鎊史高、美经常逆差 3.5% GDP；17 Jan 1985 G5（Baker）、德 2-3 月大賣美元、4 月 OECD、7-8 月 G5 副手備；公告「有序讓非美元升值」、隔週一美元 -4%。（Plaza Accord）
 - Louvre 1987-02-22、止美元續跌。（Plaza Accord、Japanese asset price bubble、Bank of Japan）
 - 簽字：法 Bérégovoy、德 Stoltenberg、日 Takeshita、英 Lawson、美 Baker；Plaza「some commentators」認為助長日本泡沫。（Plaza Accord、Japanese asset price bubble）
 

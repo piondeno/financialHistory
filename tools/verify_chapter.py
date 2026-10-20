@@ -27,8 +27,11 @@ FILENAME_RE = re.compile(r"^ch(\d{2})-(\d{4})-(\d{4})-.+\.md$")
 
 
 def count_chars(text):
-    """去除所有空白字元後的字元總數（spec §6.1）。"""
-    return len(re.sub(r"\s", "", text))
+    """去除空白與 markdown 強調記號（*）後的字元總數（spec §6.1）。
+
+    粗體記號 ** 不視為內容字元；「」（含引文）仍計入。
+    """
+    return len(re.sub(r"[\s*]", "", text))
 
 
 def missing_sections(text):
