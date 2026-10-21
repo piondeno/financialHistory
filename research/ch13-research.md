@@ -48,7 +48,7 @@
 - **1985-09 Plaza Accord**：1985-09-22（週日）Plaza Hotel（NYC），五國（法 Bérégovoy／德 Stoltenberg／日 Takeshita／英 Lawson／美 Baker）簽協議「**有序讓非美元貨幣升值是可取的**」、承諾更緊密合作干預。週一（09-23）公布、美元當週跌 4%。目的：貶美元、縮逆差。（來源：Plaza Accord）
 - **Plaza 效應**：前兩年美國逆差惡化（進口價漲>量減）、其後逆差降；對西歐逆差縮、**對日逆差未縮**（結構性、日本進口限制）。強美元→日本升圓→日本政府以**大規模擴張性貨幣/財政**回應→**日本資產泡沫（1980s 末）**（伏筆 ch14）。1987-02 **Louvre Accord** 止住美元續跌。（來源：Plaza Accord）
 - **Reaganomics 成果（頂）**：misery index（通膨+失業）**19.33→9.72**（Truman 以來最大改善）；失業 1982 底後穩降至 Reagan 離任 5.4%（平均 7.5%）；實質 GDP 八年增逾 1/3（$2 兆+）、CAGR 3.6%（前 8 年 2.7%）；S&P 500 在 Reagan 任期 2024 交易日增 **113.3%**（前 2024 日 10.4%）。但**聯邦債務（public held）$738B→$2.1T（近三倍）**、美國自世界最大債權國轉最大債務國；赤字/GDP 2.5%（FY81）→5.7%（1983）→2.7%（1989）。（來源：Reaganomics）
-- **不平等加速**：top 1% 所得占比（税前）9.0%（1979）→13.8%（1986 頂）→12.3%（1989）；real working-class wage 續 1973 起的下滑（較慢）。貧困 13.0%（1980）→15.2%（1983）→13.0%（1988）。（來源：Reaganomics）
+- **不平等加速**：top 1% 所得占比（稅前）9.0%（1979）→13.8%（1986 頂）→12.3%（1989）；real working-class wage 續 1973 起的下滑（較慢）。貧困 13.0%（1980）→15.2%（1983）→13.0%（1988）。（來源：Reaganomics）
 - **1986-87 泡沫化**：低利率＋去管制＋垃圾債/LBO＋強美元後升圓→1986-87 股市/企業槓桿化狂潮；「greed」氛圍。LBO 債務股本比 >9:1、頂重腳輕。（來源：Leveraged buyout；Reaganomics）
 
 ## §5 崩潰與危機（1987：黑色星期一）
@@ -57,7 +57,7 @@
 - **引爆（1987-10-14）**：週三 10-14，眾議院財委會提案**減少併購/LBO 融資的稅務優惠**；Commerce 公布**意外高的貿易逆差**→美元跌、利率升、股跌。周末：portfolio insurers 電腦模型持續指示大量賣出；大型互基周末贖回請求遠超現金儲備→需大量賣股。（來源：Black Monday 1987）
 - **1987-10-19 Black Monday**：週一開盤前累積賣壓、買賣單失衡；95 檔股票因失衡被 specialists 暫停交易。**DJIA 跌 508 點（22.6%）**（2,246.74 開→1,738.74 收）＝**道指史上最大單日百分比跌幅**；S&P 500 當日 -20%、Wilshire 5000 -18%；最後 90 分鐘尤劇。（來源：Black Monday 1987）
 - **流動性/保證金危機**：保證金追繳（margin call）達平常 **10 倍**、前高 3 倍；多機構「undersegregated」（客戶帳戶現金不足）；11 家對單一客戶的 margin call 超過該行 net capital。Mishkin：最大危險非當日崩盤、是證券商「蔓延性倒閉」的流動性危機。（來源：Black Monday 1987）
-- **Greenspan 救火**：Mussa：「貨幣政策對崩盤的回應是 massive、immediate、appropriate」。10-20 晨 **Alan Greenspan**（1987-08 才接任 Volcker、上任僅 2 個半月）簡短声明：「Fed 作為國家央行，今日確認其**準備充當流動性來源**以支持經濟金融體系」——刻意簡短以免誤讀。Fed 10-20 經公開市場**注入 $17B**（>25% 銀行準備、7% 貨幣基礎）、federal funds 降 0.5%；moral suasion 勸銀行貸給證券商（芝加哥/紐約貸放近翻倍）。Bernanke：Fed 雙管齊下（流動性+勸貸）徹底成功。（來源：Black Monday 1987；Presidency of Reagan）
+- **Greenspan 救火**：Mussa：「貨幣政策對崩盤的回應是 massive、immediate、appropriate」。10-20 晨 **Alan Greenspan**（1987-08 才接任 Volcker、上任僅 2 個半月）簡短聲明：「Fed 作為國家央行，今日確認其**準備充當流動性來源**以支持經濟金融體系」——刻意簡短以免誤讀。Fed 10-20 經公開市場**注入 $17B**（>25% 銀行準備、7% 貨幣基礎）、federal funds 降 0.5%；moral suasion 勸銀行貸給證券商（芝加哥/紐約貸放近翻倍）。Bernanke：Fed 雙管齊下（流動性+勸貸）徹底成功。（來源：Black Monday 1987；Presidency of Reagan）
 - **全球蔓延**：23 大市場全跌（先亞（除日）→歐→美→日）。以美元計 8 市跌 20-29%、3 市 30-39%（馬/墨/紐西蘭）、3 市 >40%（港/澳/新加坡）。**全球總損失 $1.7 兆**；紐約 $500B、**日本 $421B**（東京單日 -14.9%、日本因時差稱「Blue Tuesday」）；**港最慘 -45.8%**（Hang Seng 跌 420.81 點、蒸發 HK$65B＝10%）。（來源：Black Monday 1987）
 - **港交所危機**：港期貨交易所結構缺陷（保證金/信用控制失當、Guarantee Corp 僅 HK$15M/$2M 資本、不夠 14,000 張/日）→崩盤後 36,400 張（HK$6.7B/$1B）未結清、1988-04 仍有 HK$800M 未結；「期貨交易所幾乎被摧毀」（Gunningham）。（來源：Black Monday 1987）
 - **紐西蘭**：外匯管制放寬＋銀行去管制放大 1980s 中期熱潮→首日報跌 15%、其後 3.5 個月市值減半、1988-02 谷底 -60%；金融去槓桿觸發長期衰退（RBNZ 拒鬆貨幣）。（來源：Black Monday 1987）
@@ -65,7 +65,7 @@
 
 ## §6 後續與制度變革（1987 後）
 
-- **Greenspan put 的誕生**：Greenspan 1987-10-20 的救火声明，被後世解讀為「**Greenspan put**」——市場相信 Fed 會兜底股市下跌（看跌保護）。此後 Greenspan 主政 Fed 至 2006（19 年）。這是「央行作為股市最後買方」的先例，直接影響後世（ch15 網際泡沫、ch16 海嘯）。（來源：Black Monday 1987；Presidency of Reagan；Paul Volcker）
+- **Greenspan put 的誕生**：Greenspan 1987-10-20 的救火聲明，被後世解讀為「**Greenspan put**」——市場相信 Fed 會兜底股市下跌（看跌保護）。此後 Greenspan 主政 Fed 至 2006（19 年）。這是「央行作為股市最後買方」的先例，直接影響後世（ch15 網際泡沫、ch16 海嘯）。（來源：Black Monday 1987；Presidency of Reagan；Paul Volcker）
 - **Louvre Accord（1987-02）**：Plaza 後美元續貶過頭，1987-02 五國簽 Louvre 協議止住美元下跌、協調貨幣政策穩定國際資金市場；但對其可行性已有疑慮（伏筆 10 月崩盤的匯率背景）。（來源：Plaza Accord；Black Monday 1987）
 - **投機制度教訓**：1987 暴露①**程式交易/指數套利**（index arbitrage、program trading）在市場「斷鏈」（de-linked）時放大混亂；②**portfolio insurance**（保險組合）的電腦模型在跌時指示賣→**正回饋迴路**；③**全球市場心理傳導**（contagion of fear）。（來源：Black Monday 1987）
 - **LBO/垃圾債的退潮**：1980s 末 buyout 過頭暴露：Campeau 1988 買 Federated（破產）、1986 Revco（破產）、Walter Industries/FEB Trucking/Eaton Leonard 破產；**Drexel** 因垃圾債/stock parking 認 nolo contendere（6 項重罪）；Milken 1989 起落（留 ch14）。1989 KKR 收購 **RJR Nabisco（$31.1B）**＝1980s LBO 最高點、亦為狂熱終點伏筆。（來源：Leveraged buyout）

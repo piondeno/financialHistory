@@ -77,7 +77,7 @@
 - Andrew Jackson：民粹／硬通貨路線；1832 否決續約（「反 monied interest」宣言）；1833 撤聯邦存款；1836 金銀令；拒絕廢除金銀令（致函 Van Buren）；其經濟政策（尤其對銀行之戰）被部分歸咎於 1837 恐慌（來源：Bank War / Panic of 1837 / Specie Circular 條目）
 - Nicholas Biddle：B.U.S. 總裁（1823–36）；1832 提前 4 年遞交續約案；1833–34 收縮信貸報復；1836 章程到期後轉為純私人銀行經營；1834 國會調查時銀行董事以程序拖延拒絕交出帳簿，進一步惡化公眾觀感（來源：Bank War / Second Bank 條目）
 - Martin Van Buren：1837-03 就職；拒絕政府干預救濟（對比百年後 FDR 的公共工程）；1837-09 提獨立財政部；1840 法案簽署者；被同黨民主黨人歸咎恐慌（來源：Panic of 1837 / Independent Treasury 條目）
-- Henry Clay / Daniel Webster：國家共和黨領军人物，1832 續約案推手；Whig 黨前身（來源：Bank War 條目）
+- Henry Clay / Daniel Webster：國家共和黨領軍人物，1832 續約案推手；Whig 黨前身（來源：Bank War 條目）
 - Levi Woodbury：財政次長，奉命發布金銀令（來源：Specie Circular 條目）
 - Thomas Hart Benton：密蘇里州硬通貨參議員，支持金銀令；其回憶錄主張 1837 恐慌係 B.U.S. 利益集團蓄意引發以逼續約（來源：Specie Circular / Independent Treasury 條目）
 - William M. Gouge / Condy Raguet：硬通貨運動理論家；提出獨立財政部構想（來源：Independent Treasury 條目）

@@ -18,7 +18,7 @@
 | 9 | 重商主義（mercantilism） | 19 | 未 | 補半句：國家以保護關稅與貿易順差累積財富的政策 | P2 |
 | 10 | 領土憲政（territorial constitution） | 21 | 已 | 21 行有語境（地主階層主導的憲政結構） | — |
 | 11 | 皮爾派（Peelites） | 23 | 已 | 23 行有語境（忠於廢穀物法的保守派） | — |
-| 12 | 雙本位制（bi-metallic standard） | 41 | 部分 | 41/259 行有語境；補半句（金銀並行本位、固定鑄幣比价） | P2 |
+| 12 | 雙本位制（bi-metallic standard） | 41 | 部分 | 41/259 行有語境；補半句（金銀並行本位、固定鑄幣比價） | P2 |
 | 13 | 貨幣供給衝擊（monetary supply shock） | 41 | 部分 | 41 行有語境；補半句（貨幣總量突然變動） | P2 |
 | 14 | 《1850 年妥協案》 | 45 | 已 | 45 行完整解釋 | — |
 | 15 | 威爾莫特條款（Wilmot Proviso） | 45 | 已 | 45 行解釋（禁止在墨西哥割讓領土設立奴隸制） | — |
@@ -100,7 +100,7 @@
 | 16 | 105, 370 | 「1853 到 1854 年 12 月…商業活動指數下跌 18.4%」「利率上升→鐵路投資減少；證券價格下跌；除商業投資減少外缺乏其他收縮證據」 | 查核：**屬實**。en-wiki「List of recessions in the United States」：1853–Dec 1854、−18.4%、原文與章節引文逐字對應（interest rates rose→railroad investment decrease、security prices fell、little evidence of contraction） | 維持 | — |
 | 17 | 149, 151, 385, 386 | 穀價 1855 峰值 $2.19/蒲式耳→1858 $0.80、Keokuk(IA) 1858 負債 $90 萬(多為鐵路債券)/課稅財產貶值 $550 萬/地塊 $1,000→$10 | 查核：**屬實**。en-wiki「Panic of 1857」：grain $2.19→$0.80、Keokuk owed $900,000 mostly railroad bonds/taxable property −$5.5M/lots $1,000→$10 | 維持 | — |
 | 18 | 173, 201, 207 | Ohio Life 1857-08-24 晨總裁宣布紐約分行停付/負債 $7M、Buchanan 1857-11 就任/撤 $20 以下銀行券/12-07 國情咨文 reform not relief/每 $3 紙幣備 $1、1857-11-12 暫停 1844 法案/fiduciary +£2M(11-18~12-23) | 查核：**屬實**。en-wiki「Panic of 1857」：Ohio Life 8/24 suspended/$7,000,000、Buchanan bank notes under $20/State of the Union Dec 7 1857 reform not relief/$1 per $3、suspended 11/12/fiduciary +£2M Nov 18–Dec 23 | 維持 | — |
-| 19 | 219, 371 | 「1857 年 6 月到 1858 年 12 月，商業活動指數下跌 23.1%，恐慌首年超過 5,000 家企業破產」＋「刺穿歐洲投機資本在美鐵路的泡沫」 | 查核：**屬實**。en-wiki「List of recessions in the United States」：Panic of 1857 June 1857–Dec 1858、−23.1%、原文「The failure of the Ohio Life Insurance and Trust Company burst a European speculative bubble in US' railroads…Over 5,000 businesses failed within the first year」 | 維持（章節核心論點獲來源强力支持） | — |
+| 19 | 219, 371 | 「1857 年 6 月到 1858 年 12 月，商業活動指數下跌 23.1%，恐慌首年超過 5,000 家企業破產」＋「刺穿歐洲投機資本在美鐵路的泡沫」 | 查核：**屬實**。en-wiki「List of recessions in the United States」：Panic of 1857 June 1857–Dec 1858、−23.1%、原文「The failure of the Ohio Life Insurance and Trust Company burst a European speculative bubble in US' railroads…Over 5,000 businesses failed within the first year」 | 維持（章節核心論點獲來源強力支持） | — |
 | 20 | 247, 271 | 「1894 年中期 1/4 美鐵路(逾 40,000 英里)失敗(Northern Pacific/Union Pacific/Santa Fe)」「1906 年 2/3 里程由 7 家實體控制」 | 查核：**屬實**。en-wiki「History of rail transportation in the United States」：one-quarter failed by mid-1894 over 40,000 miles(NP/UP/AT&SF)、as of 1906 two-thirds controlled by seven entities | 維持 | — |
 | 21 | 363, 365 | 數據表 B：美鐵路里程 1840=2,755/1850=8,571/1860=28,920/1870=49,168/1880=87,801/1890=163,562 | 查核：**屬實**。en-wiki「History of rail transportation in the United States」里程表（Census Bureau, Report on Transportation 1890）逐值吻合；內文「By 1850, 9,000 miles」為約數，章節行 397 已自註 8,571/9,000 異說 | 維持 | — |
 | 22 | 171 | SS Central America 1857-09 卡羅來納外海颶風沉沒、載金「約 10 短噸(9 噸)（lead 另作 30,000 磅≈13.6 噸，說法不一）」 | 查核：**屬實（章節忠實再現來源口徑不一致）**。en-wiki「SS Central America」：lead「30,000 pounds (13,600 kg)」、內文「10 short tons (9.1 t)」——來源自身即有 20,000 磅 vs 30,000 磅之別，章節如實標「說法不一」 | 維持 | — |
@@ -108,7 +108,7 @@
 
 ## 5. 總評
 
-本章與 ch01 並列全書結構最嚴謹、來源標註最密集的一章：以「英國端破泡（1845–47）→ 美國端接棒（1850s）」的跨大西洋接力，貫穿「三層投機結構（實體-金融-技術）＋跨境順週期性＋四力交匯」三套分析骨架，因果鏈閉合度極高，「1857＝結算而非意外」的主線一以貫之，且核心論點（「1857 刺穿歐洲投機資本在美鐵路的泡沫」）經查核獲 List of recessions 原文强力支持。事實查核表現優異：抽核 23 組（涵蓋 15 個 Wikipedia 條目）中，绝大多数逐字吻合，僅 **3 處 P1 事實錯誤**——①行 41 智利小麥 qqm 誤註「公升」（qqm＝100 公斤，非公升）；②行 121 Dred Scott 首席大法官「丹尼爾·坦尼」應為「羅傑·坦尼（Roger B. Taney）」；③行 45 妥協案「新墨西哥與加州領土自決」應為「新墨西哥與猶他領土」（加州是直接入聯邦的自由州）。另有 3 處 P2 措辭（8,000/9,500 英里口徑、丹聶斯特→多瑙河諸公國譯名、1849「大選」應為期中選舉）。術語 54 項中 15 項未充分解釋，其中 3 個論點核心詞（**通縮、流動性、期權**）首現未定義，補上即達可讀標準。字面乾淨（簡體 grep 零命中），通俗化問題僅 §7/§9 分析段術語堆疊，因果鏈僅 2 處輕微口徑/機制壓縮。整體修訂量小，屬全書最接近「可交付」的一章之一。
+本章與 ch01 並列全書結構最嚴謹、來源標註最密集的一章：以「英國端破泡（1845–47）→ 美國端接棒（1850s）」的跨大西洋接力，貫穿「三層投機結構（實體-金融-技術）＋跨境順週期性＋四力交匯」三套分析骨架，因果鏈閉合度極高，「1857＝結算而非意外」的主線一以貫之，且核心論點（「1857 刺穿歐洲投機資本在美鐵路的泡沫」）經查核獲 List of recessions 原文強力支持。事實查核表現優異：抽核 23 組（涵蓋 15 個 Wikipedia 條目）中，絕大多數逐字吻合，僅 **3 處 P1 事實錯誤**——①行 41 智利小麥 qqm 誤註「公升」（qqm＝100 公斤，非公升）；②行 121 Dred Scott 首席大法官「丹尼爾·坦尼」應為「羅傑·坦尼（Roger B. Taney）」；③行 45 妥協案「新墨西哥與加州領土自決」應為「新墨西哥與猶他領土」（加州是直接入聯邦的自由州）。另有 3 處 P2 措辭（8,000/9,500 英里口徑、丹聶斯特→多瑙河諸公國譯名、1849「大選」應為期中選舉）。術語 54 項中 15 項未充分解釋，其中 3 個論點核心詞（**通縮、流動性、期權**）首現未定義，補上即達可讀標準。字面乾淨（簡體 grep 零命中），通俗化問題僅 §7/§9 分析段術語堆疊，因果鏈僅 2 處輕微口徑/機制壓縮。整體修訂量小，屬全書最接近「可交付」的一章之一。
 
 ## 6. 使用者確認
 

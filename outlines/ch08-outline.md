@@ -85,7 +85,7 @@
 ### 5.2 10-28/10-29
 3. 10-28：margin calls、−38.33 點（−12.82%）、收 260.64——史上最大單日點數跌幅。
 4. 10-29：16.4M 股、$14B 蒸發、「some stocks having no buyers at any price」、−30.57（−11.73%）、收 230.07、兩日 −68.90（−23.05%）；Durant/Rockefeller 買盤；電報播到 19:45。
-5. 10-30 反彈 +12.34%（258.47）——「最壞已過」的错觉。
+5. 10-30 反彈 +12.34%（258.47）——「最壞已過」的錯覺。
 
 ### 5.3 11–12 月：二次探底與自我安慰
 6. 11-13 間底 198.60（較峰 −47.9%）；貨幣供給 1929-10 −10.28%（前月 +6.73%）——流動性開始收縮；12-03 Hoover「the worst effects… are behind us」。
@@ -110,7 +110,7 @@
 
 ### 7.1 聯準會與 Strong 教義
 1. Strong＝「de facto leader of the entire Federal Reserve System」；1922 OMO（Keynes《Tract》1923 引例）；Ahamed「invented the modern central banker」；1923/1924/1927 購債；1928 緊縮；1928-10-16 死→動盪。
-2. 金準備約束：40% 上限（1920s 末接近可貸上限）、NY Fed 金庫 10% 全球官方黃金——「刺泡沫」的弹药有限。
+2. 金準備約束：40% 上限（1920s 末接近可貸上限）、NY Fed 金庫 10% 全球官方黃金——「刺泡沫」的彈藥有限。
 3. Kindleberger（Strong 若不死）vs Rothbard（Strong 操作造成蕭條）——百年未決之爭。
 4. 1929 崩盤後：「more or less let the banking system collapse」（Wheelock）；Friedman–Schwartz 口徑；奧地利學派（Hayek 1929-02、1928 緊縮「too late」）。
 

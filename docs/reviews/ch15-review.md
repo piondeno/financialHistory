@@ -141,7 +141,7 @@
 **P1（結構性障礙）**
 
 1. **「止損（foreclosure）」用詞錯誤**（行 101、107、193、238）：全章以「止損」對譯 foreclosure。foreclosure 是銀行的法律補救（借款人斷供後，銀行收回並處分抵押房產），「止損」則是投資人部位風控概念（達到預定損失即平倉），二者機制完全不同；一般讀者會把「止損 2006 年 +42%」誤讀為投資人行為。應統一改為「斷供收回（foreclosure）」。
-2. **eurodollar 通道傳導機制未釋**（行 11）：「1997-98 亞洲風暴的震波，沿著 eurodollar 通道傳到俄罗斯」——震波如何傳導（亞洲危機→新興市場資金撤出、主權債降級→俄罗斯美元債務（eurodollar）續借困難）未交代，讀者無法自行補齊「亞洲→俄罗斯」的鏈條。與 ch14 的 eurodollar 通道 P1 屬同類缺口（ch15 沿用概念但未承接解釋）。
+2. **eurodollar 通道傳導機制未釋**（行 11）：「1997-98 亞洲風暴的震波，沿著 eurodollar 通道傳到俄羅斯」——震波如何傳導（亞洲危機→新興市場資金撤出、主權債降級→俄羅斯美元債務（eurodollar）續借困難）未交代，讀者無法自行補齊「亞洲→俄羅斯」的鏈條。與 ch14 的 eurodollar 通道 P1 屬同類缺口（ch15 沿用概念但未承接解釋）。
 
 **P2（次要）**
 
@@ -216,7 +216,7 @@
 
 ### 屬實（已核，摘錄）
 
-- **俄罗斯 1998**：「began in Russia on **17 August 1998**」（貶值＋違約）；匯率 6.43→數週內破 21（至 9-21）；8-26 停 MICEX 美元交易、9-2 自由浮動；「**in June, Kiriyenko hiked GKO interest rates to 150%**」；1998 通膨 84%；3-23 解 Chernomyrdin、任命 35 歲 Kiriyenko，7-15 杜馬否決，8-23 Kiriyenko 解職，9-11 Primakov 獲通過，10-7 總罷工；IMF/世銀 $22.6B（1998-07-13 批准）；「between 1 October 1997 and 17 August 1998, the Central Bank expended approximately **$27 billion** of its U.S. dollar reserves」；車臣戰爭 ~$30M/天、總 ~$5.5B、赤字近 GDP 10%；烏克蘭、摩爾多瓦相繼違約；Bankers Trust 1998-11 被 Deutsche Bank 以 ~$10B 併購；1998-04 美失業 4.3%（1970-02 以來最低）。（1998 Russian financial crisis、1998 in the United States）
+- **俄羅斯 1998**：「began in Russia on **17 August 1998**」（貶值＋違約）；匯率 6.43→數週內破 21（至 9-21）；8-26 停 MICEX 美元交易、9-2 自由浮動；「**in June, Kiriyenko hiked GKO interest rates to 150%**」；1998 通膨 84%；3-23 解 Chernomyrdin、任命 35 歲 Kiriyenko，7-15 杜馬否決，8-23 Kiriyenko 解職，9-11 Primakov 獲通過，10-7 總罷工；IMF/世銀 $22.6B（1998-07-13 批准）；「between 1 October 1997 and 17 August 1998, the Central Bank expended approximately **$27 billion** of its U.S. dollar reserves」；車臣戰爭 ~$30M/天、總 ~$5.5B、赤字近 GDP 10%；烏克蘭、摩爾多瓦相繼違約；Bankers Trust 1998-11 被 Deutsche Bank 以 ~$10B 併購；1998-04 美失業 4.3%（1970-02 以來最低）。（1998 Russian financial crisis、1998 in the United States）
 - **LTCM**：1994-02-24 成立、資本 $1.01B；回報 21%/43%/41%；1998 年初股本 $4.7B、借 >$124.5B、資產 ~$129B（>25:1）、表外衍生名目 ~$1.25T；8 月底股本虧 $1.85B；9 月股本 $2.3B→$400M（9-25）、負債 >$100B（>250:1）；不足四個月虧 $4.6B；9-23 由 14 家金融機構組成 $3.65B 資本重組、Fed 監督；Buffett/Munger 1993 以槓桿太險拒投；Samuelson、Fama、Klarman 早有疑慮。（Long-Term Capital Management）
 - **巴西**：real 1994-07-01 推出（Itamar Franco 政府、Ricupero 主導）、1 real=2,750 cruzeiros reais、自 ~US$1=R$1 受控滑落至 1998 底 ~1.20；1999-01 新任央行總裁 Arminio Fraga 放浮、貶至 ~2.00；1999 至 2002 底「erratic but mostly downward」；2002 底 Lula 競選引發匯率與通膨危機；2003-01-01 Lula 上任、匯率 US$1=R$3.52，Palocci 與 Fraga 重申正統路線（inflation-targeting、primary fiscal surplus、floating）。（Brazilian real、1999 in Brazil）
 - **阿根廷**：Cavallo 1991 年任、1991-04-01 austral 釘 10,000:1（後經 Ley de Convertibilidad 恢復 peso）；巴西佔貿易 30%；GDP 1999 -3%、2000 -0.8%；2001-07 S&P 降至 B-；megaswap「delayed up to **$30 billion** ... added **$38 billion** in interest payments ... of the **$82 billion** in bonds ... **60% were issued during the 2001 megaswap**」；2001-08 失業 16.4%；12-05 IMF 拒付 $1.3B；總統 succession：De la Rúa→Puerta（12-20~22）→Rodríguez Saá（12-22~30）→Camaño（12-30~）；12-19 De la Rúa 宣布 state of emergency、Cavallo 辭職；12-20 暴動 26 死；De la Rúa 12-21 乘直升機離開；Corralito 12-02、「initially **$250** a week」；違約「on the larger part of the public debt, **US$132 billion**」；2002-01 脫鉤 1.4:1、比索至 ~4/美元、累計通膨 ~80%、pesification（存款 1.40、債務 1:1）；「The economy shrank by **28 per cent** from 1998 to 2002」、貧困 >50%、赤貧 25%；Kirchner 2003-05-25 上任、留任 Lavagna；「grew by an average of **9%** for five years」。（1998–2002 Argentine great depression、2001 in Argentina）
@@ -246,10 +246,10 @@
 
 ## 5. 總評
 
-- **通俗化 4/6**：敘事生動，三段「泡沫接力」（新興市場危機浪潮→網路資產泡沫→房市信貸泡沫）結構清晰，機制交代總體到位（LTCM 收斂套利與 repo 續借、Greenspan put 三工具、財富效應循環、證券化切片、去槓桿悖論皆有專段解釋），§9 進場/離場/紀律的可操作化寫法出色。扣分在 2 項 P1（「止損（foreclosure）」全章誤用——讀者會誤讀斷供收回機制；eurodollar 通道「亞洲→俄罗斯」傳導未釋——讀者無法自行補齊）與 2 項 P2（評級機構 AAA 的成因機制、Northern Rock 細節缺來源）。
-- **因果鏈 5/6**：三條主鏈（1997-98 震波→俄罗斯/LTCM→1999 巴西→2001 阿根廷；Greenspan put 序列 1987→S&L→波斯灣→墨西哥→1998→網路；Fed 1% 利率→財富效應→次貸→證券化→2007）交代完整，「投機標的躍遷：匯率→信用/信貸」主軸立得住、§8 七個判定層次分明。扣分在 4 項 P2（「1997 是 2008 的彩排」「與 1929/1987/1997 邏輯一致」「Kanak 離職為最早期跡象」「每一次救市都讓下一次泡沫更大」皆為超出所引來源的作者整合斷言）。
+- **通俗化 4/6**：敘事生動，三段「泡沫接力」（新興市場危機浪潮→網路資產泡沫→房市信貸泡沫）結構清晰，機制交代總體到位（LTCM 收斂套利與 repo 續借、Greenspan put 三工具、財富效應循環、證券化切片、去槓桿悖論皆有專段解釋），§9 進場/離場/紀律的可操作化寫法出色。扣分在 2 項 P1（「止損（foreclosure）」全章誤用——讀者會誤讀斷供收回機制；eurodollar 通道「亞洲→俄羅斯」傳導未釋——讀者無法自行補齊）與 2 項 P2（評級機構 AAA 的成因機制、Northern Rock 細節缺來源）。
+- **因果鏈 5/6**：三條主鏈（1997-98 震波→俄羅斯/LTCM→1999 巴西→2001 阿根廷；Greenspan put 序列 1987→S&L→波斯灣→墨西哥→1998→網路；Fed 1% 利率→財富效應→次貸→證券化→2007）交代完整，「投機標的躍遷：匯率→信用/信貸」主軸立得住、§8 七個判定層次分明。扣分在 4 項 P2（「1997 是 2008 的彩排」「與 1929/1987/1997 邏輯一致」「Kanak 離職為最早期跡象」「每一次救市都讓下一次泡沫更大」皆為超出所引來源的作者整合斷言）。
 - **術語 3/6**：術語共 126 項，未充分解釋 49 項（未 13＋部分 35＋錯誤 1）。核心概念（Greenspan put、證券化、Minsky 三級借款人、財富效應、負攤還、去槓桿悖論、影子銀行特徵）釋義到位，屬佳；但 P/E、衍生工具、repo、CDS、QE、聯邦基金利率、IPO、OTC、SIV、NBER、CIC 等 13 項全章無釋義，Corralito、megaswap、Minsky moment、margin call、TAF、correction 等 35 項僅部分解釋，摘要（L5）與 §4 首現密度高。
-- **總評**：事實密度高、查核品質佳——俄罗斯/LTCM/阿根廷/網路泡沫/次貸的大量數字與日期經逐項核對皆屬實（含 6.43→21、$22.6B、$3.65B/14 家、$30B+$38B/$82B 之 60%、5,048.62、$162B、12/61 廣告、$7.3T、54%→75%、$14.5T/134% DPI、$2.2B/$2.5T/$1.8T/$4T/$6T/$10T、46%→73%、14,164.53、NBER 2007-12~2009-06 等），但本章 P1 事實錯 3 項，皆屬 typo/錯置/拼寫（「漲約四成」、Pulte「市值」實為營收、「Volkner」），可快速修正；另有 1 項術語錯誤（止損/foreclosure）。主要修訂工作：（1）修正 3 項 P1 事實錯（含摘要行 5）；（2）13 項未釋術語首現釋義＋35 項部分術語補括注＋「止損」全章改為「斷供收回（foreclosure）」；（3）補 eurodollar 傳導機制與評級機構 AAA 成因兩段機制；（4）核實 40 項 P2（Fed 利率軌跡 6.5%→1%→0-0.25%、Krugman 2002 引語、Greenspan 2004-02-23 ARM 演說、foreclosures 1,259,118/2.3M 系列、40:1、27% 利潤、OTC $673T vs $683T、HERA「與 FHA」、Yellen 論文標題與日期等）。
+- **總評**：事實密度高、查核品質佳——俄羅斯/LTCM/阿根廷/網路泡沫/次貸的大量數字與日期經逐項核對皆屬實（含 6.43→21、$22.6B、$3.65B/14 家、$30B+$38B/$82B 之 60%、5,048.62、$162B、12/61 廣告、$7.3T、54%→75%、$14.5T/134% DPI、$2.2B/$2.5T/$1.8T/$4T/$6T/$10T、46%→73%、14,164.53、NBER 2007-12~2009-06 等），但本章 P1 事實錯 3 項，皆屬 typo/錯置/拼寫（「漲約四成」、Pulte「市值」實為營收、「Volkner」），可快速修正；另有 1 項術語錯誤（止損/foreclosure）。主要修訂工作：（1）修正 3 項 P1 事實錯（含摘要行 5）；（2）13 項未釋術語首現釋義＋35 項部分術語補括注＋「止損」全章改為「斷供收回（foreclosure）」；（3）補 eurodollar 傳導機制與評級機構 AAA 成因兩段機制；（4）核實 40 項 P2（Fed 利率軌跡 6.5%→1%→0-0.25%、Krugman 2002 引語、Greenspan 2004-02-23 ARM 演說、foreclosures 1,259,118/2.3M 系列、40:1、27% 利潤、OTC $673T vs $683T、HERA「與 FHA」、Yellen 論文標題與日期等）。
 
 ## 6. 使用者確認
 

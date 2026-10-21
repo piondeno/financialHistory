@@ -29,7 +29,7 @@
 - 政策轉：進口替代→出口導向/新自由（IMF 鼓勵）；例外智利、哥斯大黎加。Paris Club 1988 首次部分減債；Brady 1988-09-15 任美財長（接 Baker）；La Década Perdida。（Latin American debt crisis、1988 in US）
 
 ### Plaza/Louvre
-- Plaza 1985-09-22、NYC Plaza Hotel；法/西德/日/英/美協調貶美元（vs 法郎/馬克/日圓/英鎊）；背景：1980-85 美元升 ~50%、1985-03 美元對英鎊史高、美经常逆差 3.5% GDP；17 Jan 1985 G5（Baker）、德 2-3 月大賣美元、4 月 OECD、7-8 月 G5 副手備；公告「有序讓非美元升值」、隔週一美元 -4%。（Plaza Accord）
+- Plaza 1985-09-22、NYC Plaza Hotel；法/西德/日/英/美協調貶美元（vs 法郎/馬克/日圓/英鎊）；背景：1980-85 美元升 ~50%、1985-03 美元對英鎊史高、美經常逆差 3.5% GDP；17 Jan 1985 G5（Baker）、德 2-3 月大賣美元、4 月 OECD、7-8 月 G5 副手備；公告「有序讓非美元升值」、隔週一美元 -4%。（Plaza Accord）
 - Louvre 1987-02-22、止美元續跌。（Plaza Accord、Japanese asset price bubble、Bank of Japan）
 - 簽字：法 Bérégovoy、德 Stoltenberg、日 Takeshita、英 Lawson、美 Baker；Plaza「some commentators」認為助長日本泡沫。（Plaza Accord、Japanese asset price bubble）
 
@@ -37,13 +37,13 @@
 - 泡沫 1986-91（バブル景気）、1992 初破、長期通縮、「Lost Decade」。（Japanese asset price bubble、Bank of Japan）
 - Nikkei 225：38,915（1989-12 底）→14,309（1992-08 底，-63%）；2003-03-11 谷底 7,862；1997 收 15,258.74（-21.19%）。（Nikkei 225）
 - 地價：東京商業 ¥1,333,000/sqm(1984)→¥1,894,000(1985,+42%)→¥4,211,000(1986,+122%)；東京住宅 ¥297,000(1985)→¥431,000(1986,+45%)；1991 vs 1985 六大都市：商業 +302.9%、住宅 +180.5%、工業 +162.0%；全國商業 +80.9%、住宅 +51.1%、工業 +51.7%；1991 東京住宅 -4.2%、全國地價 2018 才首度年漲 +0.1%。（Japanese asset price bubble）
-- 機制：貨幣/信用無節制擴張、window guidance（madoguchi shindō）；Business Dept 1986-89 Toshihiko Fukui。（Japanese asset price bubble）
+- 機制：貨幣/信用無節制擴張、窗口指導（window guidance，日：madoguchi shidō）；Business Dept 1986-89 Toshihiko Fukui。（Japanese asset price bubble）
 - BOJ 利率：1986 降息 5%→4.5%(1月)→4.0%(3月)→3.5%(4月)→3.0%(11月)；Louvre(1987-02)後 3.0%→2.5%、持至 1989-05；日圓/美元 240(Plaza前)→200(1985底)→160(1986)→140(1987-02)→125(1987底)。（Bank of Japan）
 - 後續：NPL、金融機構困難；1995-01 阪神大地震、日圓 80/USD、BOJ 降至 0.5%（1995）；1999 ZIRP（2000 止、2001-03 QE）；1997 BOJ 法修訂（獨立性）。（Bank of Japan）
 
 ### 墨西哥比索
 - 1994 年底 Banco de México 貶值；1994-12-22 允許自由浮動（再 -15%）；「Tequila Effect」。（Mexican peso crisis、1994 in US）
-- 比索 ~MX$3.40→MX$7.20/USD（约 -50%）；四個月後才回到 MX$5.80；同 4 月物價 +24%；1995 通膨 52%。（Mexican peso crisis）
+- 比索 ~MX$3.40→MX$7.20/USD（約 -50%）；四個月後才回到 MX$5.80；同 4 月物價 +24%；1995 通膨 52%。（Mexican peso crisis）
 - 積累：Salinas 擴張財政/貨幣；tesobonos（美元保證還本）；NAFTA 1994-01-01 生效；Chase Manhattan 1994 持有 ~$1.5B 墨西哥證券；共同基金投 >$45B。（Mexican peso crisis）
 - 衝擊：Zapatista（Chiapas、1994-12）；PRI 候選人 Luis Donaldo Colosio 遇刺（1994-03）。
 - 美回應：1995-01 Clinton＋Rubin（1995-01-11 任財長）＋Greenspan＋Summers；Summers「$25B required」；Mexican Stabilization Act 國會未過→財部 ESF 貸保；1995-01-31 Clinton 緊急權力 $20B。（Mexican peso crisis、1995 in US）
@@ -52,11 +52,11 @@
 
 ### 亞洲金融風暴 1997
 - 起點：1997-07-02 泰國放泰銖浮動（Tom Yum Kung 危機）；泰銖原釘住 25:1 美元；1997-05-14/15 大規模投機攻擊；1997-06-30 總理 Chavalit 承諾不貶值、07-02 放浮。（1997 Asian financial crisis）
-- 因：hot money 流入（泡沫「fueled by hot money」）、短期資本、裙帶資本主義（馬/印尼）、企業治理弱、大額短期外幣私債。（同上）
+- 因：熱錢流入（泡沫「fueled by hot money」）、短期資本、裙帶資本主義（馬/印尼）、企業治理弱、大額短期外幣私債。（同上）
 - 4 大 ASEAN 外債/GDP：100%→167%（1993-96）、風暴峰 >180%。（同上）
 - 泰：泰銖失半、1998-01 低 56/USD；泰股 -75%；Finance One（最大金融公司）崩；60 萬外勞遣返。（同上）
 - 印尼：1997-06 表面健康（低通膨、貿易順差 >$900M、外匯存底 >$20B）但企業大額美元債；1997-08-14 改自由浮動（7 月區間 8%→12%）；IMF 救 $23B；印尼盾+雅加達交易所 1997-09 史低；Moody's 降印尼至 junk。（同上）
-- 韓：Moody's A1→A3（1997-11-28）→B2（12-11）；首爾交易所 -4%（11-07）、-7%（11-08 史上最大單日）、-7.2%（11-24）；IMF 包 US$58.4B；外資持股上限 26%→100%；787 家無償付能力金融機構 2003-06 前關閉/併；1998 現代併起亚、三星汽車 $5B 解散、大宇汽車賣 GM。（同上）
+- 韓：Moody's A1→A3（1997-11-28）→B2（12-11）；首爾交易所 -4%（11-07）、-7%（11-08 史上最大單日）、-7.2%（11-24）；IMF 包 US$58.4B；外資持股上限 26%→100%；787 家無償付能力金融機構 2003-06 前關閉/併；1998 現代併起亞、三星汽車 $5B 解散、大宇汽車賣 GM。（同上）
 - IMF 合計「a $40 billion program」；泰包 >$17B（1997-08-11）+$2.9B（08-20）。（同上）
 - 「結構調整包」：減政府支出/赤字、讓無償付銀行倒、激進升息（菲 1997-07 中 32%；印尼 1998 至 65%）；Stiglitz、Sachs（bank-run 類比）、Mishkin（herd mentality）批評；「fast-track capitalism」；1999 反全球化運動。（同上）
 - 1998 GDP 損失：印尼 $218.2B（1997 GDP 31.7%）；韓 $170.9B（33.1%）。（同上）
@@ -66,8 +66,8 @@
 - 政治：印尼 1998 蘇哈托倒台；泰 Chavalit 辭；Soros 與 IMF 被點名於反西情緒。（同上）
 - 復甦：泰 2001 復、2003 還 IMF（提前 4 年）。（同上）
 
-### 俄罗斯/LTCM（1998，ch15 邊界）
-- 1998 俄罗斯危機→LTCM 崩（4 個月虧 $4.6B；Greenspan+NY Fed 組 $3.625B 救助）；巴西、阿根廷 1990s 末墜入危機。（1997 Asian financial crisis、1998 Russian financial crisis、Deregulation）
+### 俄羅斯/LTCM（1998，ch15 邊界）
+- 1998 俄羅斯危機→LTCM 崩（4 個月虧 $4.6B；Greenspan+NY Fed 組 $3.625B 救助）；巴西、阿根廷 1990s 末墜入危機。（1997 Asian financial crisis、1998 Russian financial crisis、Deregulation）
 
 ### Minsky
 - Hyman Minsky 1919-1996、後凱因斯；金融脆弱性內生於市場；繁榮→企業現金流升→投機狂熱→債務>可服務收益→銀行收緊→收縮；關鍵＝非政府債務累積。（Hyman Minsky）

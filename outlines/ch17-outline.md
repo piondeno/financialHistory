@@ -16,7 +16,7 @@
 ## §2 歷史背景：零利率時代的開端（2009-2012）（~3,400，4 小節）
 - 2.1 ZIRP 與 QE 的機制：ZIRP 2008-12~2015-12、QE1 $600B→$2.1T、QE2、QE3 2012-09-13 $40B/月、forward guidance「near zero through 2015」
 - 2.2 QE 的副作用：銀行在 Fed 存款 +$4T、2012 BoE「40% 歸前 5%」、BRICS 譴責 excessive liquidity、Greenspan「very little impact」、不平等
-- 2.3 全球央行的零利率竞赛：日本（1999 ZIRP、2016 負利率、2013-04 ¥60T→¥70T、2014-10 ¥80T、買 ETF）、ECB（2014 負利率）
+- 2.3 全球央行的零利率競賽：日本（1999 ZIRP、2016 負利率、2013-04 ¥60T→¥70T、2014-10 ¥80T、買 ETF）、ECB（2014 負利率）
 - 2.4 2012 的「平靜」：道瓊指數 2/21 >13,000、UnitedHealth 取代 AIG 入 DJIA（9/14）、壓力測試（Citi/MetLife）、Barclays $453M 罰、Brent/油價（不寫，無）
 
 ## §3 投機的興起：流動性驅動的資產價格（2012-2015）（~3,400，4 小節）
