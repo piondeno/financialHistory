@@ -41,6 +41,8 @@ SURNAME = {
     "Schwartz": "史華茲", "Kindleberger": "金德伯格", "Monteagle": "蒙特伊格",
     "Beeching": "比青", "Greider": "格雷德", "Colosio": "科洛西奧", "Soros": "索羅斯",
     "Hoover": "胡佛", "Stillman": "斯蒂爾曼", "Strong": "斯特龍", "Warburg": "沃伯格",
+    # Sachs 只收全名：裸姓會把「Goldman Sachs」拆成「Goldman 薩克斯」
+    "Stiglitz": "史迪格利茲",
 }
 # ── 全名與慣用詞形（先於姓替換）───────────────────────────────────────────
 FULL = {
@@ -55,13 +57,15 @@ FULL = {
     "Irving Fisher": "愛爾文·費雪", "George Soros": "喬治·索羅斯", "Ted Lieu": "泰德·劉",
     "Jeffrey Skilling": "傑佛瑞·斯基林", "Bernie Sanders": "伯尼·桑德斯", "Chuck Schumer": "查克·舒默",
     "Robert Shiller": "羅伯特·席勒", "Hyman Minsky": "海曼·明斯基", "Ben Shalom Bernanke": "班·柏南克",
+    "Jeffrey Sachs": "傑佛瑞·薩克斯",
     "Taylor rule": "泰勒法則", "Volcker Rule": "沃克規則", "Triffin dilemma": "特里芬兩難",
     "Minsky moment": "明斯基時刻", "Minsky 時刻": "明斯基時刻", "Minsky Meltdown": "明斯基式崩盤",
     "Volcker shock": "沃克衝擊", "Volcker 衝擊": "沃克衝擊", "Keynesians": "凱因斯學派",
     "Keynesian": "凱因斯式",
 }
-# ── 術語化暱稱：整體保留英文，不動其中人名 ────────────────────────────────
-KEEP = ["Greenspan put", "Yellen put", "Powell put", "Bernanke put", "Greenspan Put"]
+# ── 整體保留英文，不動其中人名：術語化暱稱，以及引論文用的作者串（Stiglitz/Sachs/Mishkin）
+KEEP = ["Greenspan put", "Yellen put", "Powell put", "Bernanke put", "Greenspan Put",
+        "Stiglitz/Sachs/Mishkin"]
 # ── 書內已有的簡中慣例形 → 繁中慣用形 ─────────────────────────────────────
 NORMALIZE = {"伯南克": "柏南克", "格林斯潘": "葛林斯班", "肯尼迪": "甘迺迪",
              "凱恩斯": "凱因斯", "沃克爾": "沃克"}
