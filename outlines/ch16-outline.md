@@ -16,7 +16,7 @@
 3. **投機的興起：信貸/衍生物投機狂熱**（~2,000）
    - 3.1 槓桿與影子銀行（~700）：五大投行 FY2007 債 >$4.1T（~30% GDP）、Bear 35.6:1、五大投行最高 40:1（FCIC）；影子銀行 SIV $2.2T/repo $2.5T/對沖 $1.8T/五大投銀 $4T/整體 ~$10T。
    - 3.2 CDS 與毒資產（~650）：CDS $3.7T(2003)→$62.2T(2007)→$38.6T(2008)→$26.3T(2010)；Lehman 債務 $155B 但 CDS 名目 ~$400B；OTC $673T；評級 AAA 錯位、無中央清算；$70T 可投資資金。
-   - 3.3 最後的平靜與 Minsky（~650）：Ponzi 融資的房貸/CDO 到頂、Minsky hedge→speculative→Ponzi、$70T Giant Pool of Money、2008-09 前「穩定」＝最大風險。
+   - 3.3 最後的平靜與 Minsky（~650）：龐氏融資的房貸/CDO 到頂、Minsky 套保→投機→龐氏、$70T Giant Pool of Money、2008-09 前「穩定」＝最大風險。
 4. **頂點與轉折：2008-09 崩潰高潮**（~2,800）
    - 4.1 Lehman Brothers 9/15（~750）：$613B 債/$155B 公司債/$639B 資產、史上最大破產；未遂 Barclays 收購（英監管否決）、Paulson 怕 Mr. Bailout、Goldman/CS 估淨值負。
    - 4.2 AIG（~650）：Fed 9/16 $85B 接手（CDS 過度賣保護、損失 >$100B）→ 最終 $182.3B（還款 $205B、獲利 $22.7B）；FCIC cascading losses。

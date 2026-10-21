@@ -155,9 +155,9 @@
 - 過渡：2008-01-22 緊急降 75bp、2008-03-17 Bear 以 $2/股賣 JPMorgan、2008-09-15 Lehman 破產——「2008 金融危機高潮」（引向 ch16）。（2008 financial crisis）
 
 ## §7 深度分析
-### 7.1 Minsky：hedge→speculative→Ponzi 在房市重演
-- Minsky（1919-1996）：金融脆弱性內生於金融市場；繁榮→現金流上升→投機亢奮→債務超可服務收入→銀行收緊→收縮；三類借款人 hedge/speculative/Ponzi；Minsky moment=資產價值突崩。（ch14 已立框架，本章套用）
-- 房市重演：hedge（傳統固定房貸）→speculative（ARM、利息_ONLY）→Ponzi（負攤還、依賴房價漲、NINJA 不靠收入）；2007-07 Bear margin call 連鎖=speculative→Ponzi 的邊際呼叫動態。（Subprime、Greenspan put、2008 financial crisis）
+### 7.1 Minsky：套保→投機→龐氏在房市重演
+- Minsky（1919-1996）：金融脆弱性內生於金融市場；繁榮→現金流上升→投機亢奮→債務超可服務收入→銀行收緊→收縮；三類借款人 套保/投機/龐氏（hedge/speculative/Ponzi）；Minsky moment=資產價值突崩。（ch14 已立框架，本章套用）
+- 房市重演：套保（傳統固定房貸）→投機（ARM、利息_ONLY）→龐氏（負攤還、依賴房價漲、NINJA 不靠收入）；2007-07 Bear margin call 連鎖=投機→龐氏的邊際呼叫動態。（Subprime、Greenspan put、2008 financial crisis）
 - Janet Yellen〈A Minsky Meltdown: Lessons for Central Bankers〉（FRB 舊金山，2009-04-16）：危機前過度槓桿、Minsky「去槓桿悖論」+節儉悖論。（2008 financial crisis）
 ### 7.2 Greenspan put 的代價：道德風險、泡沫接力
 - Greenspan put 序列：1987→S&L→波斯灣→1994 墨西哥→1998 LTCM「催生網路泡沫」→網路後 MBS 購買「直接刺激房市價格膨脹、直到在大蕭條中崩潰、Greenspan 退休」。（Greenspan put）
