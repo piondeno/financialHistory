@@ -53,7 +53,8 @@ def render_issues(text):
     所以一行裡第二個 ~ 一出現，兩個 ~ 之間就成了刪除線內容：
     「1980-01~07、1981-07~1982-11」會把「07、1981-07」劃掉、
     純文字複製出來則黏成「1980-0107、1981-071982-11」。
-    區間該寫「至」，約略該寫「約」。行內程式碼與圍欄不查。
+    區間該寫「至」，約略該寫「約」。全書正文不用 ~，故單一 ~ 也攔。
+    行內程式碼與圍欄不查。
     """
     out, in_fence = [], False
     for num, line in enumerate(text.splitlines(), 1):
@@ -67,6 +68,8 @@ def render_issues(text):
             out.append((num, "「~~」會渲染成刪除線"))
         elif body.count("~") >= 2:
             out.append((num, "同一行兩個「~」被 GFM 湊成刪除線，中間文字會被劃掉"))
+        elif "~" in body:
+            out.append((num, "正文不用「~」：約略寫「約」、區間寫「至」"))
         if body.count("**") % 2:
             out.append((num, "粗體 ** 未配對"))
         if TAG_LIKE.search(body):

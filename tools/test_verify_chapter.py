@@ -120,8 +120,9 @@ def test_cli_missing_section_fails():
     assert "崩潰與危機" in r.stdout
 
 
-def test_render_single_tilde_is_ok():
-    assert vc.render_issues("Fed 把利率拉到 ~20%。") == []
+def test_render_single_tilde_flags():
+    issues = vc.render_issues("Fed 把利率拉到 ~20%。")
+    assert len(issues) == 1 and "約" in issues[0][1]
 
 
 def test_render_tilde_pair_flags_range():
