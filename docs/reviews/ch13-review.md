@@ -85,7 +85,7 @@
 | 75 | 二階預期 | 167 | 部分 | 未釋（對他人預期的預期） | P2 |
 | 76 | 確認偏誤 | 229 | 已 | 行 229 上下文自釋 | — |
 | 77 | 錨定 | 229 | 已 | 行 229 上下文自釋 | — |
-| 78 | 投標 | 5 | 部分 | 作者自造詞（＝下注/賭注），承第十二章、全書貫用而未釋 | P2 |
+| 78 | 投標→投機標的 | 5 | 已 | 全書改用「投機標的」（動詞處作「押注」），定義置 ch01 開場 | 已結 P2 |
 
 ## 2. 通俗化問題
 
@@ -96,7 +96,7 @@
 
 **P2（次要）**
 
-1. 行 5「投標」：作者自造詞（承第十二章），本章摘要、§8、§9 頻用而仍未釋。建議全書統一於首用章括注（本章以「投標」指「下注／賭注」）。
+1. 【已結 2026-10-20】行 5「投標」原為作者自造詞（承第十二章）；全書已統一改用「投機標的」（動詞處作「押注」），定義改置 ch01 開場，ch13 原括注已移除。
 2. 行 17「payrolls」：未說明為非農就業（payroll employment），「占 payrolls 1.2%」讀者難以定位分母。
 3. 行 31「S&L」：括注「儲蓄貸款」但未釋業務性質（吸定期存款、放長期固定利率房貸——正是資產負債錯配的根源）。
 4. 行 43「Chicago school（Stigler、Kahn）」：學派主張（市場效率、管制多為尋租產物、應拆除）未釋，讀者無法理解「为何去管制」。
@@ -106,7 +106,7 @@
 8. 行 119「Guarantee Corp」：功能數字有給（HK$15M/$2M 資本 vs 14,000 張/日），但期貨交易所為何需要擔保機構（集中清算、代為結算會員交收）未交代。
 9. 行 147「stock parking」「nolo contendere」：皆未釋；前者（規避持股揭露）是理解 Drexel 罪名的關鍵。
 10. 行 155「inflation targeting」「Taylor rule」：各為一段話的結論性詞彙而無釋（前者＝以通膨目標為錨、後者＝利率隨通膨與產出缺口調整的經驗公式）。
-11. 行 167-169「二階預期」「反身性」「高頻交易」：§7.3 的三個關鍵詞皆無釋，而「投標對象從實體跳到算法」的論點全建在它们之上。
+11. 行 167-169「二階預期」「反身性」「高頻交易」：§7.3 的三個關鍵詞皆無釋，而「投機標的從實體跳到算法」的論點全建在它们之上。
 12. 行 119/121「恒指」「RBNZ」：专有名词/縮寫未展（恒生指數、紐西蘭儲備銀行）。
 
 ## 3. 因果鏈缺口
@@ -164,7 +164,7 @@
 
 ## 5. 總評
 
-- **通俗化 4/6**：三段式主線（沃克抗通膨→1980s 狂熱→黑色星期一）敘事清晰，「投標對象」擴散（預期本身→槓桿＋算法＋央行反應）反覆呼應，§8 七個判定層次分明。扣分在 2 項 P1（federal funds rate＋prime rate＋FOMC 核心量具首現即密集使用而全章未釋；portfolio insurance 首現比解釋早 48 行）與 12 項 P2（自造詞「投標」承前未釋、S&L 業務性質、Chicago school、SEC、CAGR、貨幣基礎、期貨擔保機制、stock parking/nolo contendere、inflation targeting/Taylor rule、反身性/二階預期/高頻交易、恒指/RBNZ）。
+- **通俗化 4/6**：三段式主線（沃克抗通膨→1980s 狂熱→黑色星期一）敘事清晰，「投標對象」擴散（預期本身→槓桿＋算法＋央行反應）反覆呼應，§8 七個判定層次分明。扣分在 2 項 P1（federal funds rate＋prime rate＋FOMC 核心量具首現即密集使用而全章未釋；portfolio insurance 首現比解釋早 48 行）與 12 項 P2（自造詞「投標」已結：改用「投機標的」、S&L 業務性質、Chicago school、SEC、CAGR、貨幣基礎、期貨擔保機制、stock parking/nolo contendere、inflation targeting/Taylor rule、反身性/二階預期/高頻交易、恒指/RBNZ）。
 - **因果鏈 5/6**：Volcker shock（貨幣目標→利率 20%→雙頂衰退→通膨 14.8%→個位數→credibility→Great Moderation）、1980s 狂熱（去管制＋稅切＋軍費→強美元→垃圾債/LBO 9:1→債務倒金字塔）、Black Monday（五年牛市槓桿＋portfolio insurance＋index arbitrage 斷鏈→流動性蒸發→Greenspan $17B→Greenspan put）、Plaza→日圓升→日本寬鬆→資產泡沫的跨國傳導，皆交代完整。扣分在 2 項 P2（「discount rate」措辭與來源口徑不合；Great Moderation「好運」歸因與來源 Luck 節表述有出入）。
 - **術語 3/6**：術語共 78 項，未充分解釋 42 項（未 7＋部分 35）。核心概念（垃圾債、LBO、Greenspan put、Plaza、Great Moderation、reversed pyramids、fallen angels、斷鏈）有完整機制解釋，屬佳；但 federal funds rate、FOMC 等全章核心量具未釋，asset-liability mismatch、control fraud、證券化、jumbo mortgage、反應函數等關鍵詞未釋，部分解釋者達 35 項，首現密度高。
 - **總評**：主線清晰、數據密度全書最高而查核準確率亦高——P1 事實錯僅 1 項（行 199 ERTA 稅切 70%→28%，應為 70%→50%、28% 出自 1986），P2 待查 12 項多為細數/月份/专有名词（鎊 $1.0545、Greenspan 上任月份、mysterious ointment 引語、jumbo mortgage、50-90% 債務佔比等），屬實摘錄涵蓋 27 篇來源的絕大多數關鍵數字。主要修訂工作：（1）修正行 199 ERTA 稅率；（2）首現解釋 7 項未釋術語（federal funds rate、FOMC、asset-liability mismatch、control fraud、證券化、jumbo mortgage、反應函數）；（3）補 2 項 P1 通俗化（利率量具括注、portfolio insurance 提前解釋）；（4）核實 12 項 P2。
