@@ -1,3 +1,5 @@
+import atexit
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -79,38 +81,80 @@ def test_chain_last_must_end_2026():
         assert any("2026" in e for e in vc.check_chain(p))
 
 
-def test_cli_pass(tmp_path):
-    ch = tmp_path / "chapters"
-    ch.mkdir()
-    f = ch / "ch01-1837-1847-測試.md"
-    f.write_text(f"# 第一章 測試（1837–1847）\n\n{heading_block()}\n\n{'測' * 20001}\n",
-                 encoding="utf-8")
-    r = run_cli(f)
+ROOT = Path(tempfile.mkdtemp(prefix="verify-chapter-test-"))
+atexit.register(shutil.rmtree, ROOT, True)
+
+
+def make_chapter(body, name="ch01-1837-1847-測試.md"):
+    """在臨時 chapters/ 目錄寫一章，回傳該目錄。"""
+    ch = Path(tempfile.mkdtemp(dir=ROOT)) / "chapters"
+    ch.mkdir(parents=True)
+    (ch / name).write_text(body, encoding="utf-8")
+    return ch
+
+
+def body_with(extra="", sections=None, chars=None):
+    filler = "測" * (chars if chars is not None else vc.MIN_CHARS + 1)
+    return f"# 第一章 測試（1837–1847）\n\n{heading_block(sections)}\n\n{filler}\n{extra}"
+
+
+def test_cli_pass():
+    ch = make_chapter(body_with())
+    r = run_cli(ch / "ch01-1837-1847-測試.md")
     assert r.returncode == 0, r.stdout + r.stderr
     assert "PASS" in r.stdout
 
 
-def test_cli_too_short_fails(tmp_path):
-    ch = tmp_path / "chapters"
-    ch.mkdir()
-    f = ch / "ch01-1837-1847-測試.md"
-    f.write_text(f"# 第一章 測試（1837–1847）\n\n{heading_block()}\n\n太短\n",
-                 encoding="utf-8")
-    r = run_cli(f)
+def test_cli_too_short_fails():
+    ch = make_chapter(body_with(chars=3))
+    r = run_cli(ch / "ch01-1837-1847-測試.md")
     assert r.returncode == 1
     assert "FAIL" in r.stdout
 
 
-def test_cli_missing_section_fails(tmp_path):
-    ch = tmp_path / "chapters"
-    ch.mkdir()
-    f = ch / "ch01-1837-1847-測試.md"
+def test_cli_missing_section_fails():
     names = [n for n in SECTIONS if n != "崩潰與危機"]
-    f.write_text(f"# 第一章 測試（1837–1847）\n\n{heading_block(names)}\n\n{'測' * 20001}\n",
-                 encoding="utf-8")
-    r = run_cli(f)
+    ch = make_chapter(body_with(sections=names))
+    r = run_cli(ch / "ch01-1837-1847-測試.md")
     assert r.returncode == 1
     assert "崩潰與危機" in r.stdout
+
+
+def test_render_single_tilde_is_ok():
+    assert vc.render_issues("Fed 把利率拉到 ~20%。") == []
+
+
+def test_render_tilde_pair_flags_range():
+    issues = vc.render_issues("Fed 用「雙頂衰退」（1980-01~07、1981-07~1982-11）壓住通膨。")
+    assert len(issues) == 1 and issues[0][0] == 1 and "~" in issues[0][1]
+
+
+def test_render_strikethrough_flags():
+    assert len(vc.render_issues("走勢 ~~向上~~ 而非向下")) == 1
+
+
+def test_render_unbalanced_bold_flags():
+    assert any("**" in m for _, m in vc.render_issues("這裡 **粗體 忘了關掉"))
+
+
+def test_render_angle_bracket_flags():
+    assert any("HTML" in m for _, m in vc.render_issues("跌了 <b>5%</b>"))
+
+
+def test_render_ignores_inline_code():
+    assert vc.render_issues("寫法 `\u4e00~二~三` 只是範例") == []
+
+
+def test_render_ignores_fenced_code():
+    text = "```\n1980-01~07、1981-07~1982-11\n```\n"
+    assert vc.render_issues(text) == []
+
+
+def test_cli_render_issue_fails():
+    ch = make_chapter(body_with(extra="\nFed 用「雙頂衰退」（1980-01~07、1981-07~1982-11）。\n"))
+    r = run_cli(ch / "ch01-1837-1847-測試.md")
+    assert r.returncode == 1, r.stdout + r.stderr
+    assert "渲染" in r.stdout
 
 
 def test_cli_no_args_exit_2():
@@ -122,3 +166,24 @@ def test_cli_nonexistent_file_exit_1():
     r = run_cli("/nonexistent-verify-chapter-test.md")
     assert r.returncode == 1
     assert "檔案不存在" in r.stdout
+
+
+def _run_all():
+    """直接 `python test_verify_chapter.py` 時也要真的跑，不要再靜默通過。"""
+    import inspect
+    tests = [(n, f) for n, f in sorted(globals().items())
+             if n.startswith("test_") and callable(f) and not inspect.signature(f).parameters]
+    failed = []
+    for name, fn in tests:
+        try:
+            fn()
+        except AssertionError as err:
+            failed.append((name, err))
+    for name, err in failed:
+        print(f"FAIL {name}: {err}")
+    print(f"{len(tests) - len(failed)}/{len(tests)} passed")
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    sys.exit(_run_all())
