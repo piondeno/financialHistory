@@ -89,17 +89,17 @@
 | 5 | 109 | 「1853 年 7 月，俄軍佔據丹聶斯特公國」 | 查核：**譯名不準**。en-wiki「Crimean War」：「Russian troops occupied the **Danubian Principalities** in July 1853」；「丹聶斯特」＝Dniester 河（非多瑙河），標準譯名為「多瑙河諸公國」（摩爾達維亞＋瓦拉幾亞） | 改「多瑙河諸公國」 | P2 |
 | 6 | 45 | 「1849 年大選，自由土黨贏得 12 席」 | 查核：**屬實（措辭）**。en-wiki「Compromise of 1850」：「Midterm elections…the Free Soil Party had gained 12 seats」；12 席屬實，但 1849 為國會期中選舉（midterm），非總統「大選」 | 改「1849 年國會期中選舉」 | P2 |
 | 7 | 11, 356 | 「1847 年…金銀儲備從年初約 £1,500 萬急跌至 4 月 17 日約 £900 萬」 | 查核：**屬實**。en-wiki「Panic of 1847」：「From around £15m at the beginning of 1847…a trough of around £9m on 17 April 1847」 | 維持 | — |
-| 8 | 19–25 | 穀物法政治鏈：11-22 Russell 公開信、12-04 Times、12-11 Peel 辭、12-21 Russell 組閣敗、1-27 三年減稅計劃、1849-2-1 廢止、327:229、愛爾蘭鎮壓案 292:219、Peelites（阿伯丁／格萊斯頓）1859 合併自由黨、52 先令/季、進口 2%→24%→45%、2021 研究 90%/10% | 查核：**屬實**。en-wiki「Corn Laws」逐項對應（Russell 22 Nov、Times 4 Dec、Peel resigned 11 Dec、Russell 21 Dec、Peel plan 27 Jan→abolish 1 Feb 1849、3rd reading 327:229 maj 98、Irish Coercion 292:219、Peelites→1859 Liberal、52 shillings、imports 2/24/45%、2021 study bottom 90%/top 10%） | 維持 | — |
+| 8 | 19–25 | 穀物法政治鏈：11-22 Russell 公開信、12-04 Times、12-11 Peel 辭、12-21 Russell 組閣敗、1-27 三年減稅計劃、1849-2-1 廢止、327:229、愛爾蘭鎮壓案 292:219、Peelites（阿伯丁／格萊斯頓）1859 合併自由黨、52 先令/季、進口 2%→24%→45%、2021 研究 90%/10% | 查核：**屬實**。en-wiki「Corn Laws」逐項對應（Russell 22 Nov、Times 4 Dec、Peel resigned 11 Dec、Russell 21 Dec、Peel plan 27 Jan→abolish 1 Feb 1849、3rd reading 327:229 maj 98、Irish Coercion 292:219、Peelites→1859 Liberal、52 shillings **per quarter（夸特，非「季」）**、imports 2/24/45%、2021 study bottom 90%/top 10%） | 維持（原紀錄誤記為「52 先令/季」，已於 §7 更正） | — |
 | 9 | 33 | 1848-01-24 Marshall 於 Sutter's Mill 發現金、1848-12-05 Polk 對國會演說、1848-05-30《瓜達盧佩-伊達爾戈》加州轉屬 | 查核：**屬實**。en-wiki「California gold rush」：Jan 24 1848 Marshall/Sutter's Mill、Dec 5 1848 Polk address、May 30 Guadalupe Hidalgo ratified | 維持 | — |
 | 10 | 35, 37 | SF 人口 200(1846)→36,000(1852)、Brannan 舉金粒瓶「Gold! Gold! Gold from the American River!」、首五年產金 1,200 萬盎司(370 噸)、1850-09-09 第 31 州、外邦礦工稅 $20/月、SF Mint 1854、Panama Railway 1855 | 查核：**屬實**。en-wiki「California gold rush」逐項對應（200→36,000、Brannan vial、12M oz/370t、Sept 9 1850 31st state、$20/mo foreign miners tax、SF Mint 1854、Panama 1855） | 維持 | — |
 | 11 | 41 | 加州金赴法約 $8,000 萬(~$2.8B)、2017 研究 1841–56 長擴張歸因金礦運輸品投資、淘金潮前雙本位→銀幣排出流通＋貨幣供給衝擊 | 查核：**屬實**。en-wiki「California gold rush」：$80M(=$2.8B) to France、2017 study「boom in transportation-goods investment」、bi-metallic→silver out of circulation+monetary supply shock | 維持 | — |
 | 12 | 51 | L&M 成本 £637,000、1840 鐵路檢查處、1844 三等車「議會列車」＋國有化案未過、1846 軌距 4'8½"(1,435mm)、1825 廢除《泡泡法》→10% 定購金 | 查核：**屬實**。en-wiki「History of rail transport in Great Britain」：£637,000、Railway Inspectorate 1840、1844 state-purchase bill not adopted+Parliamentary Carriages、1846 standard gauge 4'8½"、Bubble Act repealed 1825 | 維持 | — |
 | 13 | 63, 353 | 「1846 年國會通過 263 項（另一來源 272 項）…9,500 英里」 | 查核：**屬實**。en-wiki「Railway Mania」：「263 Acts…9,500 miles (15,300 km)」；「1830–1922」條目作 272 acts；章節已註異說 | 維持 | — |
 | 14 | 71, 75, 77 | L&NWR 1846 四家合併 420 英里、NER 1854 合併成形、鐵路買下約 1/4 運河、哈德森 1842 設清算所/1849 控制~30% 軌道/四大集團/1849 Monteagle 報告 | 查核：**屬實**。en-wiki「Railway Mania」+「1830–1922」：LNWR 420 miles 1846、NER 1854、quarter of canal system、Hudson Clearing House 1842/30% track 1849/four groups/Monteagle 1849 | 維持 | — |
-| 15 | 81, 83, 85, 87 | IC 1850 撥贈(9/20 核準)第一條土地撥贈鐵路/1851-02-10 州許可/1856 開羅—加拉廷世界最長、1850 撥贈法 375 萬英畝/IC 伊利諾伊州 260 萬、聯邦 1.29 億+州 5,100 萬/1850–72 共 2.23 億/3,500 萬沒收、20/50 英里帶棋盤式、Douglas+Lincoln「IC 的人」、密西西比中央 1852/255 英里/5 英尺/1853–60 | 查核：**屬實**。en-wiki「Illinois Central Railroad」+「Railroad land grants」：Fillmore 1850/first land-grant/Sept 20 1850、chartered Feb 10 1851、1856 longest Cairo-Galena、3.75M acres/2.6M in IL、129M+51M/223M/35M forfeited、20-50 mile strips、Douglas+Lincoln、Mississippi Central 1852/255mi/5ft/1853-60 | 維持 | — |
+| 15 | 81, 83, 85, 87 | IC 1850 撥贈(9/20 核準)第一條土地撥贈鐵路/1851-02-10 州許可/1856 開羅—加拉廷世界最長、1850 撥贈法 375 萬英畝/IC 伊利諾伊州 260 萬、聯邦 1.29 億+州 5,100 萬/1850–72 共 2.23 億/3,500 萬沒收、20/50 英里帶棋盤式、Douglas+Lincoln「IC 的人」、密西西比中央 1852/255 英里/5 英尺/1853–60 | 查核：**屬實**。en-wiki「Illinois Central Railroad」+「Railroad land grants」：Fillmore 1850/first land-grant/Sept 20 1850、chartered Feb 10 1851、1856 longest Cairo-Galena（加利納，非「加拉廷」）、3.75M acres/2.6M in IL、129M+51M/223M/35M forfeited、20-50 mile strips、Douglas+Lincoln、Mississippi Central 1852/255mi/5ft/1853-60 | 維持（地名譯法已於 §7 更正） | — |
 | 16 | 105, 370 | 「1853 到 1854 年 12 月…商業活動指數下跌 18.4%」「利率上升→鐵路投資減少；證券價格下跌；除商業投資減少外缺乏其他收縮證據」 | 查核：**屬實**。en-wiki「List of recessions in the United States」：1853–Dec 1854、−18.4%、原文與章節引文逐字對應（interest rates rose→railroad investment decrease、security prices fell、little evidence of contraction） | 維持 | — |
 | 17 | 149, 151, 385, 386 | 穀價 1855 峰值 $2.19/蒲式耳→1858 $0.80、Keokuk(IA) 1858 負債 $90 萬(多為鐵路債券)/課稅財產貶值 $550 萬/地塊 $1,000→$10 | 查核：**屬實**。en-wiki「Panic of 1857」：grain $2.19→$0.80、Keokuk owed $900,000 mostly railroad bonds/taxable property −$5.5M/lots $1,000→$10 | 維持 | — |
-| 18 | 173, 201, 207 | Ohio Life 1857-08-24 晨總裁宣布紐約分行停付/負債 $7M、Buchanan 1857-11 就任/撤 $20 以下銀行券/12-07 國情咨文 reform not relief/每 $3 紙幣備 $1、1857-11-12 暫停 1844 法案/fiduciary +£2M(11-18~12-23) | 查核：**屬實**。en-wiki「Panic of 1857」：Ohio Life 8/24 suspended/$7,000,000、Buchanan bank notes under $20/State of the Union Dec 7 1857 reform not relief/$1 per $3、suspended 11/12/fiduciary +£2M Nov 18–Dec 23 | 維持 | — |
+| 18 | 173, 201, 207 | Ohio Life 1857-08-24 晨總裁宣布紐約分行停付/負債 $7M、Buchanan **1857-03-04** 就任/撤 $20 以下銀行券/12-07 國情咨文 reform not relief/每 $3 紙幣備 $1、1857-11-12 暫停 1844 法案/fiduciary +£2M(11-18~12-23) | 查核：**屬實（就任日期除外）**。en-wiki「Panic of 1857」：Ohio Life 8/24 suspended/$7,000,000、Buchanan bank notes under $20/State of the Union Dec 7 1857 reform not relief/$1 per $3、suspended 11/12/fiduciary +£2M Nov 18–Dec 23；就任日期見「James Buchanan」：1857-03-04（原紀錄誤記 11 月，已於 §7 更正） | 維持 | — |
 | 19 | 219, 371 | 「1857 年 6 月到 1858 年 12 月，商業活動指數下跌 23.1%，恐慌首年超過 5,000 家企業破產」＋「刺穿歐洲投機資本在美鐵路的泡沫」 | 查核：**屬實**。en-wiki「List of recessions in the United States」：Panic of 1857 June 1857–Dec 1858、−23.1%、原文「The failure of the Ohio Life Insurance and Trust Company burst a European speculative bubble in US' railroads…Over 5,000 businesses failed within the first year」 | 維持（章節核心論點獲來源強力支持） | — |
 | 20 | 247, 271 | 「1894 年中期 1/4 美鐵路(逾 40,000 英里)失敗(Northern Pacific/Union Pacific/Santa Fe)」「1906 年 2/3 里程由 7 家實體控制」 | 查核：**屬實**。en-wiki「History of rail transportation in the United States」：one-quarter failed by mid-1894 over 40,000 miles(NP/UP/AT&SF)、as of 1906 two-thirds controlled by seven entities | 維持 | — |
 | 21 | 363, 365 | 數據表 B：美鐵路里程 1840=2,755/1850=8,571/1860=28,920/1870=49,168/1880=87,801/1890=163,562 | 查核：**屬實**。en-wiki「History of rail transportation in the United States」里程表（Census Bureau, Report on Transportation 1890）逐值吻合；內文「By 1850, 9,000 miles」為約數，章節行 397 已自註 8,571/9,000 異說 | 維持 | — |
@@ -117,3 +117,31 @@
 - P1：全數核准（6 項）
 - P2：全數核准（18 項）
 - 備註（使用者原話）：「全部核准」
+
+## 7. 第二輪複核補正（2026-11-03）
+
+第一輪抽核有數項誤判為「屬實」，第二輪以 Wikipedia 原始條目逐條重查後更正；章節已同步改寫（粗體檢查：58 對／未渲染 0）。
+
+**A. 本報告自身的錯誤（已在上表就地標註）**
+
+1. 布坎南就任：1857-11 → **1857-03-04**（「James Buchanan」）。
+2. 小麥價格單位：52 先令「/季」→ **每夸特（quarter）**（「Corn Laws」）。
+3. 伊利諾伊中央終點 Galena 譯名：加拉廷 → **加利納**。
+
+**B. 章節第二輪新增更正**
+
+4. **電報傳播範圍（最重要的實質錯誤）**：1857 年越洋電報尚不存在，跨大西洋電纜 1858-08-16 才首次官方通報、三週後失效。原文「消息以小時計越境」「全球同時性」「電報全球蔓延」全部改為「美國境內即時、越洋仍靠輪船」；摘要、1847/1857 對照、傳播段、斷代段、投資者教訓段、異說註記共十餘處同步調整（「Transatlantic telegraph cable」）。
+5. 土地撥贈算術：原文把「聯邦 1.29 億 + 州 5,100 萬 = 2.23 億」寫成等式；來源的 2.23 億屬 **1850–72 年聯邦累計** 的另一口徑，已改為分開表述（≈1.80 億 vs 2.23 億）。
+6. 斯坦利職銜：內政部長 → **殖民大臣**（Colonial Secretary，1845 年 12 月辭職）。
+7. 南方軌距：改為「**多採 5 英尺**，與北方標準軌不相容」（原稱「軌距不統一」且暗示全南方皆 5 英尺）。
+8. Evans 記錄的 450 多家倒閉者：改為「**商號與廠商，含各行業**」，不再暗示全為鐵路公司。
+9. Qwest：非破產，2011 年被 CenturyLink 收購；並註明 Railway Mania 條目誤列其為破產（「Qwest」）。
+10. 「三個狂熱年份」→ **1836、1845、1846、1847 四個**（8,000 英里／£2 億的授權口徑）。
+11. 三層結構層號：信用收緊原被標為「第三層（技術）」，實屬**金融層**，已改寫為「金融層的信用收緊點燃清算」。
+12. 伊利諾伊中央：不再稱「跨洲鐵路骨幹」（其主線為芝加哥—開羅南北向），改為「南北運輸與內戰補給的幹線」。
+13. 名稱與譯名：利物浦—紐卡斯爾—維多利亞鐵路 → **倫敦—西北鐵路（L&NWR）**；凡爾倫 → **范布倫**；伊利湖鐵路 → **伊利鐵路（Erie）**；《董貝尼父子》→ **《董貝父子》**；威格黨 → **輝格黨**；拉素 → **羅素**；賓頓克子爵 → **賓頓克勳爵**。
+14. 電報網範圍：1860 年前美國東西岸線路未接通，「東西兩岸連在一根線上」「大陸兩端」→ **東部與中西部主要城市**（「Telegraph in the United States」）。
+15. 邏輯詞：北部受創最重「反證」南部相對獨立 → **「印證」**；莫爾斯「1844 年發明」→ **1844 年華盛頓—巴爾的摩首次長途演示**；「10% 不是損失的上限」→ **「10% 只是虧損的起點，槓桿會把損失放大到定購金之外」**。
+16. 參考來源由 15 條增為 **21 條**（新增 James Buchanan、Edward Smith-Stanley、Track gauge in the United States、Transatlantic telegraph cable、Qwest、Telegraph in the United States）。
+
+**C. 複查後確認無誤、維持原判**：263/272 法案、9,500 英里、8,000 英里／£200M、6,220 英里、L&NWR 四公司合併、哈德森與 1849 Monteagle 報告、IC 土地撥贈與 1856 年世界最長鐵路、450+ 倒閉數、淘金潮產金與加州建州、1857-07 鐵路股見頂、1857-08-24 Ohio Life 停兌、1857-11-12 英國暫停銀行法、−23.1%、5,000+ 破產、克里米亞戰爭日期、Dred Scott／Taney。
