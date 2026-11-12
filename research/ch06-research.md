@@ -4,7 +4,7 @@
 
 ## 關鍵事件與日期
 
-- 1893-05-05：國家繩索公司（National Cordage Company）破產觸發道瓊指數單日下跌 24%；隨後逾 500 家銀行關閉、15,000 家以上企業破產；失業率賓州 25%、紐約 35%、密歇根 43%；底特律市長平格里（Hazen S. Pingree）推出「土豆田計畫」（Potato Patch Plan，社區菜園）。【來源：en-wiki「Panic of 1893」】
+- 1893-05-05：國家繩索公司（National Cordage Company）破產觸發道瓊指數單日下跌 24%；隨後逾 500 家銀行關閉、15,000 家以上企業破產；失業率賓州 25%、紐約 35%、密西根 43%；底特律市長平格里（Hazen S. Pingree）推出「土豆田計畫」（Potato Patch Plan，社區菜園）。【來源：en-wiki「Panic of 1893」】
 - 1893：北太平洋（NPR）、聯合太平洋（UP）、阿奇森–托皮卡–聖塔菲（AT&SF）三大鐵路破產；全年逾 15,000 家企業與 500 家以上銀行倒閉；恐慌峰值失業率約 17–19%（最高估計）；年底全國四分之一鐵路里程入受託人監理（receivership），美國普查估值近 18 億美元（1876–1910 間最大，比次大的 1884 年多逾 10 億）；1894–95 兩年鐵路僅新增 4,196.4 英里（1878–96 共增 10 萬英里）。【來源：en-wiki「Panic of 1893」】
 - 1893-05-01：芝加哥世博會（World's Columbian Exposition）開幕（1893-05-01 至 10-30；參觀 27,300,000 人；46 國；首設國家館；世界首座摩天輪，高 264 呎）。【來源：en-wiki「World's Columbian Exposition」】
 - 1893-06-30：A. J. 德雷克塞爾（Anthony J. Drexel）死於卡爾斯巴德（Karlsbad，波希米亞，奧匈帝國）心臟病發（66 歲）；其 1871 年創辦之 Drexel, Morgan & Co.「後來成為 J.P. Morgan & Co.」；德雷克塞爾 1891 年創辦費城德雷克塞爾大學。【來源：en-wiki「Anthony Joseph Drexel」】

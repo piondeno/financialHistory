@@ -77,7 +77,7 @@
 - 1933 失業逾 1,200 萬（25%）【Timeline L31】
 
 ### 2.4 1933：百日新政
-- 州銀行假期：1933-02-14 密歇根 8 天；特拉華第 48 州（3/4）；3/3 時 32 州＋DC 已關行【EBA L52；FDR L164】
+- 州銀行假期：1933-02-14 密西根 8 天；特拉華第 48 州（3/4）；3/3 時 32 州＋DC 已關行【EBA L52；FDR L164】
 - 1933-03-04 FDR 就職（Hughes 宣誓）；「The only thing we have to fear is fear itself」；Frances Perkins 首位女性內閣【1933 in US L153-154】
 - 3/5 全國銀行假期（3/6 結束 3/13）；EBA 3/9 眾院 435-0、參院 96-0、當日落筆；胡佛幕僚起草；3/4 銀行 3 日內重開；數週數十億回流【EBA L17-25；Econ_history L1176】
 - Silber：EBA＋Fed 無限期鈔券承諾＝「100% deposit insurance」【EBA L69】

@@ -81,7 +81,7 @@
 | 5 | 146 | 「停兌後的兩個月裡，僅紐約一地因銀行倒閉造成的損失就合計約 1 億美元」 | 查核：**屬實**。en-wiki「Panic of 1837」：「Within two months the losses from bank failures in New York alone aggregated nearly $100 million」 | 維持 | — |
 | 6 | 150, 467 | 「1837 年，美國共有 850 家銀行，其中 343 家完全倒閉、另有 62 家部分失敗——倒閉率超過 40%」 | 查核：**屬實**。en-wiki「Panic of 1837」：「Out of 850 banks in the United States, 343 closed entirely, 62 failed partially」（343/850≈40.4%）；另條目作 729/194、600+，計口徑不同，章節採所引來源不算錯 | 維持 | — |
 | 7 | 73 | 「Dexter 事件中，它手上只有 86 美元現金，卻有 58 萬美元未償紙鈔」 | 查核：**屬實**。en-wiki「Wildcat banking」：「Farmers' Exchange Bank...the first American bank to fail, with $86 on hand to pay $580,000 in notes」 | 維持 | — |
-| 8 | 69, 71 | 「密歇根《一般銀行法》…至少 50,000 美元資本股…總共有 49 家銀行成立」「一等紅狗…五鬥才折一斗」 | 查核：**屬實**。en-wiki「Wildcat banking」：General Banking Act 1837、$50,000、49 banks、「five pecks to make a bushel」 | 維持 | — |
+| 8 | 69, 71 | 「密西根《一般銀行法》…至少 50,000 美元資本股…總共有 49 家銀行成立」「一等紅狗…五鬥才折一斗」 | 查核：**屬實**。en-wiki「Wildcat banking」：General Banking Act 1837、$50,000、49 banks、「five pecks to make a bushel」 | 維持 | — |
 | 9 | 79 | 「俄亥俄鐵路公司 1835 年成立…發行信用票據…留下數十萬美元的廢紙幣，和一條建在木樁上、根本無法使用的路基」 | 查核：**屬實**。en-wiki「Wildcat banking」：Ohio Railroad 1835、permissive clause、credit notes、several hundred thousand dollars、track on wooden pilings | 維持 | — |
 | 10 | 231 | 「阿肯色 1846 年憲法乾脆禁止銀行，愛荷華在 1857 年前不準設銀行」 | 查核：**屬實**。en-wiki「Wildcat banking」：Arkansas 1846 prohibit、Iowa until 1857 | 維持 | — |
 | 11 | 198, 474 | 「1846 年頂點，263 個鐵路法案獲議會通過，授權路線共 9,500 英里（15,300 公里）；獲授權的鐵路約三分之一從未建成」 | 查核：**屬實**。en-wiki「Railway Mania」：「263 Acts of Parliament...proposed routes totalling 9,500 miles (15,300 km). About a third...never built」 | 維持 | — |
@@ -96,7 +96,7 @@
 
 ## 5. 總評
 
-本章是全書結構最完整、因果鏈最強的一章：以 1837 美國「無央行」對照 1847 英國「有央行」，構成金融史上最完整的央行價值自然實驗，「三環閉環／金本位傳導／棉花鏈」三條因果線都閉合。事實查核表現優於 ch16–20：19 項中 15 項逐字核對屬實（棉價 25%、NY 停兌與 $100M 損失、850/343/62、Dexter $86/$580K、密歇根 49 銀行、俄亥俄鐵路、Railway Mania 263 法案/9,500 英里、1847 金準備 £15M→£9M、450 商號、存款五倍、貨幣局），僅 **1 項 P1**（否決日期主次顛倒：應以 1832-07-10 為主、6/10 為文書落款）＋ 3 項待查（$50M 準備、獨立財政部投票數、Lender of last resort 跨國證據）。主要短板是術語：46 項中 24 項未充分解釋，其中 6 個論點核心詞（**流動性、通縮、存款保險、償付能力、三難困境、道德風險**）首現未定義，補上即達可讀標準。字面乾淨（未見簡體/錯字），通俗化與因果鏈問題均少，是全書修訂量最小的一章之一。
+本章是全書結構最完整、因果鏈最強的一章：以 1837 美國「無央行」對照 1847 英國「有央行」，構成金融史上最完整的央行價值自然實驗，「三環閉環／金本位傳導／棉花鏈」三條因果線都閉合。事實查核表現優於 ch16–20：19 項中 15 項逐字核對屬實（棉價 25%、NY 停兌與 $100M 損失、850/343/62、Dexter $86/$580K、密西根 49 銀行、俄亥俄鐵路、Railway Mania 263 法案/9,500 英里、1847 金準備 £15M→£9M、450 商號、存款五倍、貨幣局），僅 **1 項 P1**（否決日期主次顛倒：應以 1832-07-10 為主、6/10 為文書落款）＋ 3 項待查（$50M 準備、獨立財政部投票數、Lender of last resort 跨國證據）。主要短板是術語：46 項中 24 項未充分解釋，其中 6 個論點核心詞（**流動性、通縮、存款保險、償付能力、三難困境、道德風險**）首現未定義，補上即達可讀標準。字面乾淨（未見簡體/錯字），通俗化與因果鏈問題均少，是全書修訂量最小的一章之一。
 
 ## 6. 使用者確認
 
